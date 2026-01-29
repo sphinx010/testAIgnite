@@ -53,7 +53,7 @@ Standardized commands are available to run the tests and view results.
 ## Design Patterns and System Logic
 
 ### Module 2: Selector Intelligence (The Central Registry)
-Instead of putting technical addresses (selectors) directly in tests, we store them in a central registry.
+it employs a clean and clear pattern in the use of selectors in tests, as they stored modularly.
 
 How it works:
 1. Define the selector in `cypress/fixtures/selector-map.json`:
