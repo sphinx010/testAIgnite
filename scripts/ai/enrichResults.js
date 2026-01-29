@@ -34,7 +34,15 @@ const CONFIG = {
 };
 
 // Initialize Hugging Face Client
-const HF_API_KEY = process.env.HF_API_KEY || process.env.HUGGINGFACEHUB_API_TOKEN;
+const HF_API_KEY = process.env.HUGGINGFACE_API_TOKEN || process.env.HF_API_KEY || process.env.HUGGINGFACEHUB_API_TOKEN;
+
+// Diagnostic log for CI (Redacted for safety)
+if (HF_API_KEY) {
+  console.log(`[DEBUG] Hugging Face API Key found (Prefix: ${HF_API_KEY.slice(0, 4)}...)`);
+} else {
+  console.warn("[WARN] Hugging Face API Key is MISSING. Enrichment will fail or use fallbacks.");
+}
+
 const hf = HF_API_KEY ? new HfInference(HF_API_KEY) : null;
 
 // --- UTILITIES ---

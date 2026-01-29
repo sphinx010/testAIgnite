@@ -106,6 +106,10 @@ const flattenTests = (report) => {
         if (suite.title) suites.add(suite.title);
 
         (suite.tests || []).forEach(t => {
+            const hasBase64 = (typeof t.context === 'string' && t.context.includes('data:image')) ||
+                (Array.isArray(t.context) && JSON.stringify(t.context).includes('data:image'));
+            if (hasBase64) console.log(`  [DEBUG] Found embedded screenshot for nested test: ${t.title}`);
+
             tests.push({
                 status: t.state === 'failed' || t.fail ? 'failed' : t.state === 'passed' || t.pass ? 'passed' : 'skipped',
                 title: t.title,
@@ -123,6 +127,10 @@ const flattenTests = (report) => {
 
     results.forEach(res => {
         (res.tests || []).forEach(t => { // Root tests
+            const hasBase64 = (typeof t.context === 'string' && t.context.includes('data:image')) ||
+                (Array.isArray(t.context) && JSON.stringify(t.context).includes('data:image'));
+            if (hasBase64) console.log(`  [DEBUG] Found embedded screenshot for root test: ${t.title}`);
+
             tests.push({
                 status: t.state === 'failed' || t.fail ? 'failed' : t.state === 'passed' || t.pass ? 'passed' : 'skipped',
                 title: t.title,
