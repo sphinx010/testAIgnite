@@ -9,8 +9,6 @@ cypress/reports/results.json
 cypress/reports/html/
 
 # Metrics & Dashboard
-# We ignore these locally as they are generated and published 
-# to the gh-pages branch by CI.
 dashboard/
 
 # OS/IDE
