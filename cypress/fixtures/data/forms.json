@@ -1,0 +1,7 @@
+{
+  "contactForm": {
+    "name": "Test User",
+    "email": "user@example.com",
+    "message": "Hello from TestAIgnite contact form smoke."
+  }
+}

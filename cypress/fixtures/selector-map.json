@@ -1,0 +1,13 @@
+{
+  "_README": {
+    "module": "Module 2 - Selector Intelligence",
+    "purpose": "Provide a single source of truth for UI selectors to prevent test flakiness caused by volatile Tailwind classes or DOM changes.",
+    "strategy": "Use stable attributes (data-cy, id, name) where possible. Map UI components to logical keys.",
+    "usage": "In tests, use cy.getSelector('key.path'). For actions, pass the key path directly to action functions.",
+    "maintenance": "When the UI changes, update the selector here. Tests remain untouched as they consume the logical keys."
+  },
+  "example": {
+    "heading": "h1",
+    "moreInfoLink": "a[href='https://www.iana.org/domains/example']"
+  }
+}

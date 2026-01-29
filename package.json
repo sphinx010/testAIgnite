@@ -1,0 +1,45 @@
+{
+  "name": "testaignite",
+  "version": "1.0.0",
+  "description": "AI powered test reporter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint . --ext .js",
+    "lint:fix": "eslint . --ext .js --fix",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run --browser chrome",
+    "report:json": "echo 'json reports will be created as part of cypress run'",
+    "clean:reports": "rm -rf cypress/reports/* || true",
+    "report:ai": "node scripts/ai/enrichResults.js",
+    "report:html": "node scripts/report/renderHtmlReport.js",
+    "report:full": "npm run clean:reports && (npm run cy:run || true) && npm run ai:ignite && npm run report:html",
+    "test:AIgnite": "npm run report:full",
+    "ai:ignite": "npm run report:ai",
+    "report:open": "start cypress/reports/html/testaignite-report.html",
+    "report:metrics": "node scripts/generateMetrics.js && node scripts/renderCharts.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sphinx010/testAIgnite.git"
+  },
+  "author": "Ayooluwa Paul Obembe",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sphinx010/testAIgnite/issues"
+  },
+  "homepage": "https://github.com/sphinx010/testAIgnite#readme",
+  "devDependencies": {
+    "@huggingface/inference": "^4.13.10",
+    "axios": "^1.13.3",
+    "chart.js": "^4.5.1",
+    "cypress": "^15.9.0",
+    "cypress-mochawesome-reporter": "^4.0.2",
+    "eslint": "^9.39.2",
+    "eslint-plugin-cypress": "^5.2.1",
+    "glob": "^13.0.0",
+    "handlebars": "^4.7.8",
+    "lodash": "^4.17.23",
+    "mochawesome": "^7.1.4"
+  }
+}
