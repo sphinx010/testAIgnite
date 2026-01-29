@@ -11,7 +11,7 @@ const path = require("path");
 
 const MAX_RUNS = 30;
 
-const mochawesomePath = path.join("cypress", "reports", "mochawesome.json");
+const mochawesomePath = path.join("cypress", "reports", "results.json");
 const outDir = path.join("dashboard", "data");
 const outFile = path.join(outDir, "runs.json");
 

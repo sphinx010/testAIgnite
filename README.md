@@ -2,7 +2,7 @@
 
 [![Cypress Automation CI](https://github.com/sphinx010/testAIgnite/actions/workflows/cypress.yml/badge.svg)](https://github.com/sphinx010/testAIgnite/actions/workflows/cypress.yml)
 
-## 📊 Live Build Status & Insights
+##  Live Build Status & Insights
 
 | Test Distribution | Reflective CI Status |
 | :---: | :---: |
