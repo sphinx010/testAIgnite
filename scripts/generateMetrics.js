@@ -8,8 +8,8 @@
 
 const fs = require("fs");
 const path = require("path");
-
-const MAX_RUNS = 30;
+//
+const MAX_RUNS = 31; // git-test-change
 
 const mochawesomePath = path.join("cypress", "reports", "results.json");
 const outDir = path.join("dashboard", "data");
