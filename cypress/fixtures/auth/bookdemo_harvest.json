@@ -1,0 +1,341 @@
+{
+  "meta": {
+    "url": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/book-a-demo",
+    "harvestedAt": "2026-02-03T11:31:36.229Z",
+    "rootSelector": "body"
+  },
+  "byCategory": {
+    "images": [
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "logo",
+        "src": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdepnbovhc%2Fimage%2Fupload%2Fv1716896292%2FRegTech%2520Global%2FSVG%2Flogo_3_hhroey.png&w=640&q=75",
+        "class": "w-16 lg:w-20",
+        "selectors": [
+          "img[alt=\"logo\"]",
+          "img[src=\"https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdepnbovhc%2Fimage%2Fupload%2Fv1716896292%2FRegTech%2520Global%2FSVG%2Flogo_3_hhroey.png&w=640&q=75\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "demo page bg-image",
+        "src": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/demo/chess.svg",
+        "class": "object-cover w-full",
+        "selectors": [
+          "img[alt=\"demo page bg-image\"]",
+          "img[src=\"https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/demo/chess.svg\"]"
+        ]
+      }
+    ],
+    "svgs": [],
+    "buttons": [
+      {
+        "tag": "button",
+        "text": "Proceed",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground hover:bg-primary/90 h-12 bg-global-foreground shadow-lg px-12 md:px-32 py-6 rounded-sm w-fit",
+        "selectors": [
+          "cy.contains(\"button\", \"Proceed\")"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "tag": "a",
+        "text": "Privacy Policy",
+        "id": "",
+        "class": "font-semibold text-global-foreground underline underline-offset-2",
+        "selectors": [
+          "cy.contains(\"a\", \"Privacy Policy\")"
+        ]
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "input",
+        "text": "",
+        "id": "",
+        "name": "firstName",
+        "class": "flex bg-background text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-50 border-gray-200 focus-visible:border-gray-200 px-6 py-2.5 border focus-visible:border rounded-[.4rem] w-full",
+        "selectors": [
+          "input[name=\"firstName\"]"
+        ]
+      },
+      {
+        "tag": "input",
+        "text": "",
+        "id": "",
+        "name": "lastName",
+        "class": "flex bg-background text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-50 border-gray-200 focus-visible:border-gray-200 px-6 py-2.5 border focus-visible:border rounded-[.4rem] w-full",
+        "selectors": [
+          "input[name=\"lastName\"]"
+        ]
+      },
+      {
+        "tag": "input",
+        "text": "",
+        "id": "",
+        "name": "email",
+        "class": "flex bg-background text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-50 border-gray-200 focus-visible:border-gray-200 px-6 py-2.5 border focus-visible:border rounded-[.4rem] w-full",
+        "selectors": [
+          "input[name=\"email\"]"
+        ]
+      },
+      {
+        "tag": "input",
+        "text": "",
+        "id": "",
+        "name": "phone",
+        "class": "flex bg-background text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-50 border-gray-200 focus-visible:border-gray-200 px-6 py-2.5 border focus-visible:border rounded-[.4rem] w-full",
+        "selectors": [
+          "input[name=\"phone\"]"
+        ]
+      },
+      {
+        "tag": "input",
+        "text": "",
+        "id": "",
+        "name": "company",
+        "class": "flex bg-background text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-50 border-gray-200 focus-visible:border-gray-200 px-6 py-2.5 border focus-visible:border rounded-[.4rem] w-full",
+        "selectors": [
+          "input[name=\"company\"]"
+        ]
+      }
+    ],
+    "selects": [],
+    "textareas": [],
+    "menuItems": [],
+    "headings": [
+      {
+        "tag": "h2",
+        "text": "Experience  RegTech365 your way!",
+        "id": "",
+        "class": "font-bold font-grotesk text-2xl text-joelBlue md:text-3xl",
+        "selectors": [
+          "cy.contains(\"h2\", \"Experience  RegTech365 your way!\")"
+        ]
+      }
+    ],
+    "toggles": [],
+    "other": []
+  },
+  "byPurpose": {
+    "textAssertions": [
+      {
+        "tag": "h2",
+        "text": "Experience  RegTech365 your way!",
+        "id": "",
+        "class": "font-bold font-grotesk text-2xl text-joelBlue md:text-3xl",
+        "selectors": [
+          "cy.contains(\"h2\", \"Experience  RegTech365 your way!\")"
+        ]
+      }
+    ],
+    "visuals": [
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "logo",
+        "src": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdepnbovhc%2Fimage%2Fupload%2Fv1716896292%2FRegTech%2520Global%2FSVG%2Flogo_3_hhroey.png&w=640&q=75",
+        "class": "w-16 lg:w-20",
+        "selectors": [
+          "img[alt=\"logo\"]",
+          "img[src=\"https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdepnbovhc%2Fimage%2Fupload%2Fv1716896292%2FRegTech%2520Global%2FSVG%2Flogo_3_hhroey.png&w=640&q=75\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "demo page bg-image",
+        "src": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/demo/chess.svg",
+        "class": "object-cover w-full",
+        "selectors": [
+          "img[alt=\"demo page bg-image\"]",
+          "img[src=\"https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/demo/chess.svg\"]"
+        ]
+      }
+    ],
+    "clickables": [
+      {
+        "tag": "button",
+        "text": "Proceed",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground hover:bg-primary/90 h-12 bg-global-foreground shadow-lg px-12 md:px-32 py-6 rounded-sm w-fit",
+        "selectors": [
+          "cy.contains(\"button\", \"Proceed\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Privacy Policy",
+        "id": "",
+        "class": "font-semibold text-global-foreground underline underline-offset-2",
+        "selectors": [
+          "cy.contains(\"a\", \"Privacy Policy\")"
+        ]
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "input",
+        "text": "",
+        "id": "",
+        "name": "firstName",
+        "class": "flex bg-background text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-50 border-gray-200 focus-visible:border-gray-200 px-6 py-2.5 border focus-visible:border rounded-[.4rem] w-full",
+        "selectors": [
+          "input[name=\"firstName\"]"
+        ]
+      },
+      {
+        "tag": "input",
+        "text": "",
+        "id": "",
+        "name": "lastName",
+        "class": "flex bg-background text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-50 border-gray-200 focus-visible:border-gray-200 px-6 py-2.5 border focus-visible:border rounded-[.4rem] w-full",
+        "selectors": [
+          "input[name=\"lastName\"]"
+        ]
+      },
+      {
+        "tag": "input",
+        "text": "",
+        "id": "",
+        "name": "email",
+        "class": "flex bg-background text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-50 border-gray-200 focus-visible:border-gray-200 px-6 py-2.5 border focus-visible:border rounded-[.4rem] w-full",
+        "selectors": [
+          "input[name=\"email\"]"
+        ]
+      },
+      {
+        "tag": "input",
+        "text": "",
+        "id": "",
+        "name": "phone",
+        "class": "flex bg-background text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-50 border-gray-200 focus-visible:border-gray-200 px-6 py-2.5 border focus-visible:border rounded-[.4rem] w-full",
+        "selectors": [
+          "input[name=\"phone\"]"
+        ]
+      },
+      {
+        "tag": "input",
+        "text": "",
+        "id": "",
+        "name": "company",
+        "class": "flex bg-background text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-50 border-gray-200 focus-visible:border-gray-200 px-6 py-2.5 border focus-visible:border rounded-[.4rem] w-full",
+        "selectors": [
+          "input[name=\"company\"]"
+        ]
+      }
+    ],
+    "navigation": []
+  },
+  "all": [
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "logo",
+      "src": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdepnbovhc%2Fimage%2Fupload%2Fv1716896292%2FRegTech%2520Global%2FSVG%2Flogo_3_hhroey.png&w=640&q=75",
+      "class": "w-16 lg:w-20",
+      "selectors": [
+        "img[alt=\"logo\"]",
+        "img[src=\"https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdepnbovhc%2Fimage%2Fupload%2Fv1716896292%2FRegTech%2520Global%2FSVG%2Flogo_3_hhroey.png&w=640&q=75\"]"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Experience  RegTech365 your way!",
+      "id": "",
+      "class": "font-bold font-grotesk text-2xl text-joelBlue md:text-3xl",
+      "selectors": [
+        "cy.contains(\"h2\", \"Experience  RegTech365 your way!\")"
+      ]
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "id": "",
+      "name": "firstName",
+      "class": "flex bg-background text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-50 border-gray-200 focus-visible:border-gray-200 px-6 py-2.5 border focus-visible:border rounded-[.4rem] w-full",
+      "selectors": [
+        "input[name=\"firstName\"]"
+      ]
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "id": "",
+      "name": "lastName",
+      "class": "flex bg-background text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-50 border-gray-200 focus-visible:border-gray-200 px-6 py-2.5 border focus-visible:border rounded-[.4rem] w-full",
+      "selectors": [
+        "input[name=\"lastName\"]"
+      ]
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "id": "",
+      "name": "email",
+      "class": "flex bg-background text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-50 border-gray-200 focus-visible:border-gray-200 px-6 py-2.5 border focus-visible:border rounded-[.4rem] w-full",
+      "selectors": [
+        "input[name=\"email\"]"
+      ]
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "id": "",
+      "name": "phone",
+      "class": "flex bg-background text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-50 border-gray-200 focus-visible:border-gray-200 px-6 py-2.5 border focus-visible:border rounded-[.4rem] w-full",
+      "selectors": [
+        "input[name=\"phone\"]"
+      ]
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "id": "",
+      "name": "company",
+      "class": "flex bg-background text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-50 border-gray-200 focus-visible:border-gray-200 px-6 py-2.5 border focus-visible:border rounded-[.4rem] w-full",
+      "selectors": [
+        "input[name=\"company\"]"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Proceed",
+      "id": "",
+      "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground hover:bg-primary/90 h-12 bg-global-foreground shadow-lg px-12 md:px-32 py-6 rounded-sm w-fit",
+      "selectors": [
+        "cy.contains(\"button\", \"Proceed\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Privacy Policy",
+      "id": "",
+      "class": "font-semibold text-global-foreground underline underline-offset-2",
+      "selectors": [
+        "cy.contains(\"a\", \"Privacy Policy\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "demo page bg-image",
+      "src": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/demo/chess.svg",
+      "class": "object-cover w-full",
+      "selectors": [
+        "img[alt=\"demo page bg-image\"]",
+        "img[src=\"https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/demo/chess.svg\"]"
+      ]
+    }
+  ]
+}

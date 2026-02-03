@@ -24,7 +24,11 @@ module.exports = defineConfig({
     screenshotsFolder: "cypress/reports/screenshots",
     videosFolder: "cypress/reports/videos",
     supportFile: "cypress/support/e2e.js",
-    baseUrl: "https://example.com",
+    baseUrl: null, //
+    viewportWidth: 1280,
+    viewportHeight: 720,
+    defaultCommandTimeout: 10000,
+    pageLoadTimeout: 120000,
     setupNodeEvents(on, config) {
       require("cypress-mochawesome-reporter/plugin")(on);
 
@@ -38,7 +42,7 @@ module.exports = defineConfig({
             .forEach((f) => fs.unlinkSync(path.join(fullDir, f)));
         }
       });
-      // --- MODULE 3: Environment & Configuration Loading ---
+      // --- M3: Environment & Configuration Loading ---
       // This block dynamically loads settings from cypress/config/*.env.json
       // based on the 'environment' flag passed via CLI or defaults to 'dev'.
 
@@ -57,9 +61,15 @@ module.exports = defineConfig({
       const mergedEnv = merge({}, fileConfig, config.env);
 
       // Map merged configuration to internal Cypress properties
+      config.env.ENV_NAME = envName;
       config.env.envConfig = mergedEnv;
       config.baseUrl = mergedEnv.baseUrl || config.baseUrl;
       config.env.apiBaseUrl = mergedEnv.apiBaseUrl || config.env.apiBaseUrl;
+
+      console.log(`\n>>> CYPRESS CONFIGURATION LOADED <<<`);
+      console.log(`Environment: ${envName}`);
+      console.log(`Base URL:    ${config.baseUrl}`);
+      console.log(`API Base:    ${config.env.apiBaseUrl}\n`);
 
       return config;
     }

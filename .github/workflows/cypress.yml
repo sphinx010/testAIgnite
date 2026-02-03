@@ -33,6 +33,7 @@ jobs:
         run: |
           npm run test:AIgnite
           npm run report:metrics
+          
 
       - name: Upload Report Artifacts
         if: always()

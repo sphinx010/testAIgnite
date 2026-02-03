@@ -1,13 +1,174 @@
 {
   "_README": {
     "module": "Module 2 - Selector Intelligence",
-    "purpose": "Provide a single source of truth for UI selectors to prevent test flakiness caused by volatile Tailwind classes or DOM changes.",
-    "strategy": "Use stable attributes (data-cy, id, name) where possible. Map UI components to logical keys.",
-    "usage": "In tests, use cy.getSelector('key.path'). For actions, pass the key path directly to action functions.",
-    "maintenance": "When the UI changes, update the selector here. Tests remain untouched as they consume the logical keys."
+    "purpose": "Provide a single source of truth for UI selectors."
   },
-  "example": {
-    "heading": "h1",
-    "moreInfoLink": "a[href='https://www.iana.org/domains/example']"
+  "_harvestSchemas": {
+    "landingPage": {
+      "path": "cypress/fixtures/landing_page/landing_page_harvest.json"
+    },
+    "authDemo": {
+      "signIn": "cypress/fixtures/auth/signin_harvest.json",
+      "signUp": "cypress/fixtures/auth/signup_harvest.json",
+      "forgotPassword": "cypress/fixtures/auth/forgotpassword_harvest.json",
+      "bookDemo": "cypress/fixtures/auth/bookdemo_harvest.json"
+    }
+  },
+  "landingPage": {
+    "nav": {
+      "solutions": "cy.contains('button', 'Solutions')",
+      "blog": "cy.contains('button', 'Blog')",
+      "pricing": "cy.contains('a', 'Pricing')",
+      "signIn": "cy.contains('button', 'Sign in')",
+      "talkToUs": "cy.contains('a', 'Talk to us')"
+    },
+    "logo": {
+      "RegTech365": "img[alt=\"logo\"]"
+    },
+    "navItems": {
+      "solutions": "#radix-_r_0_-trigger-radix-_r_1_",
+      "packages": "cy.contains(\"a\", \"Packages\")",
+      "blog": "cy.contains(\"button\", \"Blog\")",
+      "pricing": "cy.contains(\"a\", \"Pricing\")"
+    },
+    "hero": {
+      "headline": "cy.contains('h1', 'Streamline Compliance.')",
+      "getStarted": "cy.contains('button', 'Get started')"
+    },
+    "solutions": {
+      "auditMgt": "cy.contains('h2', 'Audit Management')",
+      "docMgt": "cy.contains('h2', 'Document Management')"
+    },
+    "trust": {
+      "trustedText": "cy.contains('h4', 'Trusted by compliance teams across Africa')"
+    },
+    "footer": {
+      "privacyLink": "cy.contains('a', 'Privacy Policy and Terms of Use')",
+      "aboutUs": "cy.contains('a', 'About Us')",
+      "location": "cy.contains('h6', 'Location')"
+    },
+    "brandExtras": {
+      "footerLogo": "img[alt='logo__footer']"
+    },
+    "navAccordion": {
+      "locator": "#radix-_r_9_",
+      "company": "#radix-_r_b_",
+      "features": "#radix-_r_d_"
+    },
+    "heroExtra": {
+      "subheadline": "cy.contains('h4', 'Trusted by compliance teams across Africa')",
+      "exploreCourses": "cy.contains('button', 'Explore courses')"
+    },
+    "headings": {
+      "complexSimple": "cy.contains('h2', 'African Compliance is Complex.RegTech365 Makes It Simple.')",
+      "onePlatform": "cy.contains('h1', 'One Platform, Six Powerful Compliance Solutions')",
+      "coreCapabilities": "cy.contains('h1', 'The Core Capabilities That Power RegTech365')",
+      "complianceCheck": "cy.contains('h2', 'Is Your Institution 100%Compliant? Find Out in Minutes.')",
+      "startJourney": "cy.contains('h3', 'Start Your Compliance  Journey Today')"
+    },
+    "capabilitiesExtra": {
+      "visibility": "cy.contains('h3', 'Visibility')",
+      "realTimeDashboard": "cy.contains('h4', 'Real-Time Compliance Dashboard â€“')",
+      "regReporting": "cy.contains('h4', 'Regulatory Reporting Automation â€“')",
+      "control": "cy.contains('h3', 'Control')",
+      "docManagementDash": "cy.contains('h4', 'Document Management â€“')",
+      "auditReadyCollab": "cy.contains('h4', 'Audit-Ready Collaboration â€“')",
+      "resilience": "cy.contains('h3', 'Resilience')",
+      "riskAssessment": "cy.contains('h4', 'Risk Assessment Engine â€“')"
+    },
+    "industries": {
+      "heading": "cy.contains('h2', 'Built for Africaâ€™s Most Regulated Industries')",
+      "banks": "cy.contains('h4', 'Banks & MFI'S')",
+      "fintechs": "cy.contains('h4', 'Fintechs')",
+      "insurance": "cy.contains('h4', 'Insurance Providers')",
+      "auditors": "cy.contains('h4', 'Auditors & Consultants')"
+    },
+    "ctaExtra": {
+      "bookDemoButton": "cy.contains('button', 'Book your demo now')",
+      "bookDemoLink": "cy.contains('a', 'Book a demo')",
+      "bookDemoNowLink": ".grid > :nth-child(1) > :nth-child(1)",
+      "downloadPdf": "cy.contains('button', 'Download PDF')",
+      "consultSpecialist": "cy.contains('a', 'Consult with a Specialist')",
+      "exploreSolutions": "cy.contains('a', 'Explore our solutions')",
+      "signUp": "cy.contains('a', 'Sign up')",
+      "talkToUsLink": "cy.contains('a', 'Talk to us')"
+    },
+    "linksExtra": {
+      "needHelp": "cy.contains('a', 'Need Help?')",
+      "auditManagement": "cy.contains('a', 'Audit Management')",
+      "controlManagement": "cy.contains('a', 'Control Management')",
+      "documentManagement": "cy.contains('a', 'Document Management')",
+      "knowledgeManagement": "cy.contains('a', 'Knowledge Management')",
+      "riskManagement": "cy.contains('a', 'Risk Management')",
+      "realtimeCompliance": "cy.contains('a', 'Realtime Compliance Tracking')"
+    },
+    "footerExtra": {
+      "contact": "cy.contains('h6', 'Contact')",
+      "company": "cy.contains('h6', 'Company')",
+      "solutions": "cy.contains('h6', 'Solutions')",
+      "home": "cy.contains('a', 'Home')",
+      "faqs": "cy.contains('a', 'FAQs')",
+      "pricing": "cy.contains('a', 'Pricing')"
+    },
+    "carousel": {
+      "prevSlide": "cy.contains('button', 'Previous slide')",
+      "nextSlide": "cy.contains('button', 'Next slide')"
+    }
+  },
+  "auth": {
+    "signIn": {
+      "emailField": "input[placeholder=\"Your email\"]",
+      "passwordField": "input[placeholder=\"Your password\"]",
+      "submitButton": "cy.contains('button', 'Log In')",
+      "forgotPasswordLink": "cy.contains('a', 'Reset')",
+      "passwordToggle": "button[aria-label*='password'], .password-toggle, [data-testid='password-toggle']",
+      "errorMessage": ".error-message, [role='alert'], .alert-danger",
+      "emailError": ".email-error, #email-error, [data-testid='email-error']",
+      "passwordError": ".password-error, #password-error, [data-testid='password-error']"
+    },
+    "signUp": {
+      "link": "cy.contains('a', 'Sign Up')",
+      "firstNameField": "input[name='firstName']",
+      "lastNameField": "input[name='lastName']",
+      "emailField": "#email",
+      "passwordField": "#password",
+      "confirmPasswordField": "#confirmPassword",
+      "submitButton": "cy.contains('body', 'Create Account')",
+      "privacyCheckbox": "input[type='checkbox'][name*='privacy'], input[type='checkbox'][name*='terms']",
+      "errorMessage": ".error-message, [role='alert']",
+      "passwordStrengthIndicator": ".password-strength, #password-strength, [data-testid='password-strength']",
+      "existingEmailError": ".email-exists-error, [data-testid='email-exists']",
+      "privacyError": ".privacy-error, [data-testid='privacy-error']"
+    },
+    "forgotPassword": {
+      "emailField": "#email",
+      "submitButton": "cy.contains('button', 'Send reset link')",
+      "successMessage": ".success-message, [role='status'], .alert-success",
+      "errorMessage": ".error-message, [role='alert'], .alert-danger",
+      "backToLoginLink": "cy.contains('a', 'Back to')",
+      "emailError": ".email-error, #email-error"
+    },
+    "bookDemo": {
+      "firstNameField": "input[name='firstName']",
+      "emailField": "input[name='email']",
+      "proposalField": "textarea[name='proposal'], textarea[name='message'], textarea[placeholder*='message']",
+      "privacyCheckbox": "input[type='checkbox'][name*='privacy'], input[type='checkbox'][name*='terms']",
+      "submitButton": "cy.contains('button', 'Proceed')",
+      "successMessage": ".success-message, [role='status'], .alert-success",
+      "errorMessage": ".error-message, [role='alert']",
+      "fieldError": ".field-error, .invalid-feedback",
+      "firstNameError": "[data-testid='firstName-error'], .firstName-error",
+      "emailError": "[data-testid='email-error'], .email-error"
+    }
+  },
+  "dashboard": {
+    "sidebar": {},
+    "header": {},
+    "summaryCards": {}
+  },
+  "audit": {
+    "chat": {},
+    "questions": {},
+    "evaluation": {}
   }
 }

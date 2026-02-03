@@ -1,0 +1,4452 @@
+{
+  "meta": {
+    "url": "https://www.regtech365.com/",
+    "harvestedAt": "2026-02-02T15:28:09.788Z",
+    "rootSelector": "body"
+  },
+  "byCategory": {
+    "images": [
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "logo",
+        "src": "https://www.regtech365.com/Images/home_page/logo.svg",
+        "class": "w-16 lg:w-20",
+        "selectors": [
+          "img[alt=\"logo\"]",
+          "img[src=\"https://www.regtech365.com/Images/home_page/logo.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "finger_img_bg",
+        "src": "https://www.regtech365.com/Images/home_page/grid-bg.svg",
+        "class": "top-0 left-0 absolute md:w-8/12 object-contain",
+        "selectors": [
+          "img[alt=\"finger_img_bg\"]",
+          "img[src=\"https://www.regtech365.com/Images/home_page/grid-bg.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "finger_img_bg",
+        "src": "https://www.regtech365.com/Images/home_page/heroImg.svg",
+        "class": "bottom-[5px] l absolute object-contain pr-8 pl-8",
+        "selectors": [
+          "img[alt=\"finger_img_bg\"]",
+          "img[src=\"https://www.regtech365.com/Images/home_page/heroImg.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "calendly",
+        "src": "https://www.regtech365.com/Images/sponsors/logo_0.svg",
+        "class": "w-20 md:w-32 object-cover",
+        "selectors": [
+          "img[alt=\"calendly\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/logo_0.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "calendly",
+        "src": "https://www.regtech365.com/Images/sponsors/Moniepointlogo.svg",
+        "class": "w-20 md:w-32 object-cover",
+        "selectors": [
+          "img[alt=\"calendly\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/Moniepointlogo.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "calendly",
+        "src": "https://www.regtech365.com/Images/sponsors/Opexa%20Logo%201.svg",
+        "class": "w-20 md:w-32 object-cover",
+        "selectors": [
+          "img[alt=\"calendly\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/Opexa%20Logo%201.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "calendly",
+        "src": "https://www.regtech365.com/Images/sponsors/Logo-colour-1%201.svg",
+        "class": "w-20 md:w-32 object-cover",
+        "selectors": [
+          "img[alt=\"calendly\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/Logo-colour-1%201.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "calendly",
+        "src": "https://www.regtech365.com/Images/sponsors/fintech.svg",
+        "class": "w-20 md:w-32 object-cover",
+        "selectors": [
+          "img[alt=\"calendly\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/fintech.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "calendly",
+        "src": "https://www.regtech365.com/Images/sponsors/ndic.svg",
+        "class": "w-20 md:w-32 object-cover",
+        "selectors": [
+          "img[alt=\"calendly\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/ndic.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "calendly",
+        "src": "https://www.regtech365.com/Images/sponsors/logo_0.svg",
+        "class": "w-40  object-cover",
+        "selectors": [
+          "img[alt=\"calendly\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/logo_0.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "calendly",
+        "src": "https://www.regtech365.com/Images/sponsors/Moniepointlogo.svg",
+        "class": "w-40 object-cover",
+        "selectors": [
+          "img[alt=\"calendly\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/Moniepointlogo.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "calendly",
+        "src": "https://www.regtech365.com/Images/sponsors/Opexa%20Logo%201.svg",
+        "class": "w-28  object-cover",
+        "selectors": [
+          "img[alt=\"calendly\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/Opexa%20Logo%201.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "calendly",
+        "src": "https://www.regtech365.com/Images/sponsors/Logo-colour-1%201.svg",
+        "class": "w-28 object-cover",
+        "selectors": [
+          "img[alt=\"calendly\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/Logo-colour-1%201.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "Complaince Package",
+        "src": "https://www.regtech365.com/Images/home_page/Group%201000001759.svg",
+        "class": "py-5",
+        "selectors": [
+          "img[alt=\"Complaince Package\"]",
+          "img[src=\"https://www.regtech365.com/Images/home_page/Group%201000001759.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "",
+        "src": "https://res.cloudinary.com/depnbovhc/image/upload/v1716468058/RegTech%20Global/SVG/path96_o9rnrc.svg",
+        "class": "mb-0 md:ml-0 lg:ml-52 w-auto h-auto",
+        "selectors": [
+          "img[src=\"https://res.cloudinary.com/depnbovhc/image/upload/v1716468058/RegTech%20Global/SVG/path96_o9rnrc.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "https://www.regtech365.com/Images/home_page/globe.svg",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"https://www.regtech365.com/Images/home_page/globe.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "audit",
+        "src": "https://www.regtech365.com/Images/home_page/documentmanagement.svg",
+        "class": "w-full h-full object-cover",
+        "selectors": [
+          "img[alt=\"audit\"]",
+          "img[src=\"https://www.regtech365.com/Images/home_page/documentmanagement.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "audit",
+        "src": "https://www.regtech365.com/Images/home_page/audit.svg",
+        "class": "w-full h-full object-cover",
+        "selectors": [
+          "img[alt=\"audit\"]",
+          "img[src=\"https://www.regtech365.com/Images/home_page/audit.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "audit",
+        "src": "/Images/home_page/regport.svg",
+        "class": "w-full h-full object-cover",
+        "selectors": [
+          "img[alt=\"audit\"]",
+          "img[src=\"/Images/home_page/regport.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "audit",
+        "src": "/Images/home_page/regwatch.svg",
+        "class": "w-full h-full object-cover",
+        "selectors": [
+          "img[alt=\"audit\"]",
+          "img[src=\"/Images/home_page/regwatch.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/home_page/corebg.svg",
+        "class": "absolute top-0 left-[10%] md:flex hidden ",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/home_page/corebg.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/home_page/corebg2.svg",
+        "class": "absolute -bottom-[25%] right-[0%] md:flex hidden ",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/home_page/corebg2.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/home_page/visibility.svg",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/home_page/visibility.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/home_page/controlicon.svg",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/home_page/controlicon.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/home_page/controlicon.svg",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/home_page/controlicon.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "Built for",
+        "src": "/Images/home_page/builtforgb.svg",
+        "class": "py-5",
+        "selectors": [
+          "img[alt=\"Built for\"]",
+          "img[src=\"/Images/home_page/builtforgb.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/ourdiffbg.svg",
+        "class": "absolute bottom-0 left-[0%] md:flex hidden ",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/ourdiffbg.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/ourdiffbg2.svg",
+        "class": "absolute -bottom-[10%] -right-[5%] md:flex hidden ",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/ourdiffbg2.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/sidenavicons/africa.svg",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/sidenavicons/africa.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/sidenavicons/local.svg",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/sidenavicons/local.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/sidenavicons/bell.svg",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/sidenavicons/bell.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/sidenavicons/hosting.svg",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/sidenavicons/hosting.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/resultbg.svg",
+        "class": "absolute -bottom-[10%] -right-[0%] md:flex hidden ",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/resultbg.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "testimonial",
+        "src": "/Images/home_page/companies.svg",
+        "selectors": [
+          "img[alt=\"testimonial\"]",
+          "img[src=\"/Images/home_page/companies.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "testimonial",
+        "src": "/Images/home_page/user2.svg",
+        "selectors": [
+          "img[alt=\"testimonial\"]",
+          "img[src=\"/Images/home_page/user2.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "testimonial",
+        "src": "/Images/home_page/user2.svg",
+        "selectors": [
+          "img[alt=\"testimonial\"]",
+          "img[src=\"/Images/home_page/user2.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "testimonial",
+        "src": "/Images/home_page/user1.svg",
+        "selectors": [
+          "img[alt=\"testimonial\"]",
+          "img[src=\"/Images/home_page/user1.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "testimonial",
+        "src": "/Images/home_page/user1.svg",
+        "selectors": [
+          "img[alt=\"testimonial\"]",
+          "img[src=\"/Images/home_page/user1.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "testimonial",
+        "src": "/Images/home_page/user1.svg",
+        "selectors": [
+          "img[alt=\"testimonial\"]",
+          "img[src=\"/Images/home_page/user1.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "testimonial",
+        "src": "/Images/home_page/user1.svg",
+        "selectors": [
+          "img[alt=\"testimonial\"]",
+          "img[src=\"/Images/home_page/user1.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "partner logo",
+        "src": "https://www.regtech365.com/Images/sponsors/logo_0.svg",
+        "class": "object-contain ",
+        "selectors": [
+          "img[alt=\"partner logo\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/logo_0.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "partner logo",
+        "src": "https://www.regtech365.com/Images/sponsors/Moniepointlogo.svg",
+        "class": "object-contain ",
+        "selectors": [
+          "img[alt=\"partner logo\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/Moniepointlogo.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "partner logo",
+        "src": "https://www.regtech365.com/Images/sponsors/Opexa%20Logo%201.svg",
+        "class": "object-contain ",
+        "selectors": [
+          "img[alt=\"partner logo\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/Opexa%20Logo%201.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "partner logo",
+        "src": "https://www.regtech365.com/Images/sponsors/Logo-colour-1%201.svg",
+        "class": "object-contain ",
+        "selectors": [
+          "img[alt=\"partner logo\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/Logo-colour-1%201.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "partner logo",
+        "src": "https://www.regtech365.com/Images/sponsors/fintech.svg",
+        "class": "object-contain ",
+        "selectors": [
+          "img[alt=\"partner logo\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/fintech.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "partner logo",
+        "src": "https://www.regtech365.com/Images/sponsors/ndic.svg",
+        "class": "object-contain ",
+        "selectors": [
+          "img[alt=\"partner logo\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/ndic.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "",
+        "src": "https://res.cloudinary.com/depnbovhc/image/upload/v1716468058/RegTech%20Global/SVG/path96_o9rnrc.svg",
+        "class": "mb-0 md:ml-0 lg:ml-52 w-auto h-auto absolute top-[40%] -left-[30%] md:flex hidden",
+        "selectors": [
+          "img[src=\"https://res.cloudinary.com/depnbovhc/image/upload/v1716468058/RegTech%20Global/SVG/path96_o9rnrc.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "global-image",
+        "src": "https://res.cloudinary.com/depnbovhc/image/upload/v1716468061/RegTech%20Global/SVG/Group_39583_epadac.svg",
+        "class": "object-cover",
+        "selectors": [
+          "img[alt=\"global-image\"]",
+          "img[src=\"https://res.cloudinary.com/depnbovhc/image/upload/v1716468061/RegTech%20Global/SVG/Group_39583_epadac.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/home_page/compliancebg2.svg",
+        "class": "absolute -bottom-[10%] left-[0%] md:flex hidden ",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/home_page/compliancebg2.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "picture-bg",
+        "src": "https://res.cloudinary.com/depnbovhc/image/upload/v1716468057/RegTech%20Global/SVG/Group_395771_o77o7b.svg",
+        "class": "bg-right object-contain",
+        "selectors": [
+          "img[alt=\"picture-bg\"]",
+          "img[src=\"https://res.cloudinary.com/depnbovhc/image/upload/v1716468057/RegTech%20Global/SVG/Group_395771_o77o7b.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "picture1",
+        "src": "/Images/home_page/Businesspeople are on their business trip.svg",
+        "class": "object-contain",
+        "selectors": [
+          "img[alt=\"picture1\"]",
+          "img[src=\"/Images/home_page/Businesspeople are on their business trip.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "quadruple_Security",
+        "src": "/Images/home_page/compliancebg.svg",
+        "class": "flex w-[70%] object-cover absolute -right-[20%] top-[13%]",
+        "selectors": [
+          "img[alt=\"quadruple_Security\"]",
+          "img[src=\"/Images/home_page/compliancebg.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "logo__footer",
+        "src": "https://res.cloudinary.com/depnbovhc/image/upload/v1716468058/RegTech%20Global/SVG/logo_2_1_qjwjrn.svg",
+        "class": "object-contain w-24",
+        "selectors": [
+          "img[alt=\"logo__footer\"]",
+          "img[src=\"https://res.cloudinary.com/depnbovhc/image/upload/v1716468058/RegTech%20Global/SVG/logo_2_1_qjwjrn.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "facebook",
+        "src": "/Images/home_page/Facebook.svg",
+        "class": "w-8 object-contain",
+        "selectors": [
+          "img[alt=\"facebook\"]",
+          "img[src=\"/Images/home_page/Facebook.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "facebook",
+        "src": "/_next/image?url=%2FImages%2Fx.png&w=1080&q=75",
+        "class": "w-8 object-contain",
+        "selectors": [
+          "img[alt=\"facebook\"]",
+          "img[src=\"/_next/image?url=%2FImages%2Fx.png&w=1080&q=75\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "facebook",
+        "src": "/Images/home_page/LinkedIn.svg",
+        "class": "w-8 object-contain",
+        "selectors": [
+          "img[alt=\"facebook\"]",
+          "img[src=\"/Images/home_page/LinkedIn.svg\"]"
+        ]
+      }
+    ],
+    "svgs": [
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-chevron-down relative top-[1px] ml-1 h-3 w-3 transition duration-200 group-data-[state=open]:rotate-180",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-chevron-down relative top-[1px] ml-1 h-3 w-3 transition duration-200 group-data-[state=open]:rotate-180",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-menu text-white mr-2",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-chevron-left w-5 h-5",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-chevron-right w-5 h-5",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-arrow-left h-4 w-4",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-arrow-right h-4 w-4",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-circle-help",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "text-accent ",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "text-accent ",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "text-accent ",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-chevron-down h-4 w-4 shrink-0 transition-transform duration-200",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-chevron-down h-4 w-4 shrink-0 transition-transform duration-200",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-chevron-down h-4 w-4 shrink-0 transition-transform duration-200",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-mail",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-phone-call",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-map-pin",
+        "selectors": []
+      }
+    ],
+    "buttons": [
+      {
+        "tag": "button",
+        "text": "Solutions",
+        "id": "radix-_r_0_-trigger-radix-_r_1_",
+        "class": "group inline-flex h-10 w-max items-center justify-center rounded-md bg-transparent px-4 py-2 text-sm font-medium hover:bg-transparent focus:bg-tranparent focus:text-accent focus:outline-none disabled:pointer-events-none disabled:opacity-50 data-[active]:bg-accent data-[state=open]:bg-transparent group cursor-pointer font-grotesk transition-all duration-300 text-white hover:text-gray-400",
+        "selectors": [
+          "#radix-_r_0_-trigger-radix-_r_1_",
+          "cy.contains(\"button\", \"Solutions\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Blog",
+        "id": "radix-_r_3_-trigger-radix-_r_4_",
+        "class": "group inline-flex h-10 w-max items-center justify-center rounded-md bg-transparent px-4 py-2 text-sm font-medium hover:bg-transparent focus:bg-tranparent focus:text-accent focus:outline-none disabled:pointer-events-none disabled:opacity-50 data-[active]:bg-accent data-[state=open]:bg-transparent group cursor-pointer font-grotesk transition-all duration-300 text-white hover:text-gray-400",
+        "selectors": [
+          "#radix-_r_3_-trigger-radix-_r_4_",
+          "cy.contains(\"button\", \"Blog\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Sign in",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 h-10 py-3 px-5 font-grotesk text-primary-foreground bg-transparent capitalize rounded-[.5rem] hover:bg-joelBlue/60 hover:text-white hover:shadow-md",
+        "selectors": [
+          "cy.contains(\"button\", \"Sign in\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Get started",
+        "id": "",
+        "class": "bg-indigo-600 hover:bg-indigo-700 text-white px-8 py-3 rounded-lg font-medium transition-colors",
+        "selectors": [
+          "cy.contains(\"button\", \"Get started\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Explore courses",
+        "id": "",
+        "class": "border border-white text-white hover:bg-white hover:text-gray-900 px-8 py-3 rounded-lg font-medium transition-colors",
+        "selectors": [
+          "cy.contains(\"button\", \"Explore courses\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Previous slide",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input hover:text-accent-foreground -left-12 top-1/2 h-14 w-14 rounded-full bg-gray-300 hover:bg-gray-300 active:bg-darkBlue focus:bg-darkBlue focus:text-white text-joelBlue border-none static translate-y-0",
+        "selectors": [
+          "cy.contains(\"button\", \"Previous slide\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Next slide",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input hover:text-accent-foreground -right-12 top-1/2 h-14 w-14 rounded-full bg-gray-300 hover:bg-gray-300 active:bg-orange-500 focus:bg-orange-500 focus:text-white text-joelBlue border-none static translate-y-0",
+        "selectors": [
+          "cy.contains(\"button\", \"Next slide\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Download PDF",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground h-12 rounded-[.4rem] w-min md:bg-joelBlue xs:bg-[#4f46e5] hover:bg-darkBlue ml-4 px-12 font-light font-grotesk",
+        "selectors": [
+          "cy.contains(\"button\", \"Download PDF\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Book your demo now",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 active:bg-slate-900 disabled:bg-slate-200 h-10 py-2 rounded bg-white hover:bg-gray-100 text-darkBlue hover:text-darkBlue/70 shadow-md hover:shadow mt-6 px-12 font-semibold capitalize xs:mb-6 md:mb-0",
+        "selectors": [
+          "cy.contains(\"button\", \"Book your demo now\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Locator",
+        "id": "radix-_r_9_",
+        "class": "flex flex-1 items-center justify-between py-4 transition-all [&[data-state=open]>svg]:rotate-180 hover:no-underline font-semibold text-lg",
+        "selectors": [
+          "#radix-_r_9_",
+          "cy.contains(\"button\", \"Locator\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Company",
+        "id": "radix-_r_b_",
+        "class": "flex flex-1 items-center justify-between py-4 transition-all [&[data-state=open]>svg]:rotate-180 hover:no-underline font-semibold text-lg",
+        "selectors": [
+          "#radix-_r_b_",
+          "cy.contains(\"button\", \"Company\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Features",
+        "id": "radix-_r_d_",
+        "class": "flex flex-1 items-center justify-between py-4 transition-all [&[data-state=open]>svg]:rotate-180 hover:no-underline font-semibold text-lg",
+        "selectors": [
+          "#radix-_r_d_",
+          "cy.contains(\"button\", \"Features\")"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "tag": "a",
+        "text": "Packages",
+        "id": "",
+        "class": "text-white hover:text-gray-400",
+        "selectors": [
+          "cy.contains(\"a\", \"Packages\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Pricing",
+        "id": "",
+        "class": "text-white hover:text-gray-400",
+        "selectors": [
+          "cy.contains(\"a\", \"Pricing\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Sign in",
+        "id": "",
+        "selectors": [
+          "cy.contains(\"a\", \"Sign in\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Talk to us",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-purpleBlue/10 hover:bg-purpleBlue/15 active:bg-purpleBlue/20 disabled:bg-purpleBlue/10 disabled:text-purpleBlue/20 h-10 shadow-md px-5 py-3 text-white font-grotesk transition-all duration-300 border-2 border-white rounded-lg",
+        "selectors": [
+          "cy.contains(\"a\", \"Talk to us\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Book a demo",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground h-10 px-4 py-2 rounded bg-[#4F46E5] hover:bg-darkBlue w-min font-light font-grotesk md:hidden",
+        "selectors": [
+          "cy.contains(\"a\", \"Book a demo\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Sign up",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-global-foreground text-white active:bg-global hover:bg-global-foreground/80 disabled:bg-global-foreground/30 h-10 py-2 rounded px-16 md:px-8 md:max-w-fit font-grotesk xs:w-full xs:mt-4 md:mt-0",
+        "selectors": [
+          "cy.contains(\"a\", \"Sign up\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Talk to us",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-white text-darkBlue border-2 border-darkBlue hover:border-darkBlue/30 active:border-darkBlue/80 disabled:border-darkBlue/20 h-10 py-2 rounded px-16 md:px-8 md:max-w-fit font-grotesk xs:w-full xs:mt-4 md:mt-0",
+        "selectors": [
+          "cy.contains(\"a\", \"Talk to us\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Explore our solutions",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground h-10 py-2 rounded bg-[#4F46E5] hover:bg-darkBlue px-12 w-min",
+        "selectors": [
+          "cy.contains(\"a\", \"Explore our solutions\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Book a demo now",
+        "id": "",
+        "class": "font-semibold text-[#4F46E5] font-grotesk text-lg",
+        "selectors": [
+          "cy.contains(\"a\", \"Book a demo now\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Book a demo now",
+        "id": "",
+        "class": "font-semibold text-[#4F46E5] font-grotesk text-lg",
+        "selectors": [
+          "cy.contains(\"a\", \"Book a demo now\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Book a demo now",
+        "id": "",
+        "class": "font-semibold text-[#4F46E5] font-grotesk text-lg",
+        "selectors": [
+          "cy.contains(\"a\", \"Book a demo now\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Consult with a Specialist",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground h-10 py-2 rounded bg-[#4F46E5] hover:bg-darkBlue px-12 w-min",
+        "selectors": [
+          "cy.contains(\"a\", \"Consult with a Specialist\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Need Help?",
+        "id": "",
+        "class": "cursor-pointer font-semibold leading-none text-sm font-grotesk",
+        "selectors": [
+          "cy.contains(\"a\", \"Need Help?\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "About Us",
+        "id": "",
+        "class": "font-light cursor-pointer font-grotesk text-sm",
+        "selectors": [
+          "cy.contains(\"a\", \"About Us\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Privacy Policy and Terms of Use",
+        "id": "",
+        "class": "font-light cursor-pointer font-grotesk text-sm",
+        "selectors": [
+          "cy.contains(\"a\", \"Privacy Policy and Terms of Use\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Home",
+        "id": "",
+        "class": "font-light cursor-pointer font-grotesk text-sm",
+        "selectors": [
+          "cy.contains(\"a\", \"Home\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "FAQs",
+        "id": "",
+        "class": "font-light cursor-pointer font-grotesk text-sm",
+        "selectors": [
+          "cy.contains(\"a\", \"FAQs\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Pricing",
+        "id": "",
+        "class": "font-light cursor-pointer text-sm font-grotesk",
+        "selectors": [
+          "cy.contains(\"a\", \"Pricing\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Audit Management",
+        "id": "",
+        "class": "font-light cursor-pointer text-sm font-grotesk",
+        "selectors": [
+          "cy.contains(\"a\", \"Audit Management\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Control Management",
+        "id": "",
+        "class": "font-light cursor-pointer text-sm font-grotesk",
+        "selectors": [
+          "cy.contains(\"a\", \"Control Management\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Document Management",
+        "id": "",
+        "class": "font-light cursor-pointer text-sm font-grotesk",
+        "selectors": [
+          "cy.contains(\"a\", \"Document Management\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Knowledge Management",
+        "id": "",
+        "class": "font-light cursor-pointer text-sm font-grotesk",
+        "selectors": [
+          "cy.contains(\"a\", \"Knowledge Management\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Risk Management",
+        "id": "",
+        "class": "font-light cursor-pointer text-sm font-grotesk",
+        "selectors": [
+          "cy.contains(\"a\", \"Risk Management\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Realtime Compliance Tracking",
+        "id": "",
+        "class": "font-light cursor-pointer text-sm font-grotesk",
+        "selectors": [
+          "cy.contains(\"a\", \"Realtime Compliance Tracking\")"
+        ]
+      }
+    ],
+    "inputs": [],
+    "selects": [],
+    "textareas": [],
+    "menuItems": [],
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "Streamline Compliance.",
+        "id": "",
+        "class": "font-normal xs:text-[40px] md:text-[64px] font-sf leading-none flex items-start xs:mt-4 md:mt-0",
+        "selectors": [
+          "cy.contains(\"h1\", \"Streamline Compliance.\")"
+        ]
+      },
+      {
+        "tag": "h4",
+        "text": "Trusted by compliance teams across Africa",
+        "id": "",
+        "class": "text-base text-center text-gray-600 font-light md:text-lg lg:text-xl xs:mt-8 md:mt-0 xs:text-[14px] font-grotesk",
+        "selectors": [
+          "cy.contains(\"h4\", \"Trusted by compliance teams across Africa\")"
+        ]
+      },
+      {
+        "tag": "h2",
+        "text": "African Compliance is Complex.RegTech365 Makes It Simple.",
+        "id": "",
+        "class": "font-extrabold text-3xl text-joelBlue",
+        "selectors": []
+      },
+      {
+        "tag": "h1",
+        "text": "One Platform, Six Powerful Compliance Solutions",
+        "id": "",
+        "class": "text-3xl font-bold text-joelBlue",
+        "selectors": [
+          "cy.contains(\"h1\", \"One Platform, Six Powerful Compliance Solutions\")"
+        ]
+      },
+      {
+        "tag": "h2",
+        "text": "Document Management",
+        "id": "",
+        "class": "font-grotesk mb-2 text-2xl text-global font-semibold",
+        "selectors": [
+          "cy.contains(\"h2\", \"Document Management\")"
+        ]
+      },
+      {
+        "tag": "h2",
+        "text": "Audit Management",
+        "id": "",
+        "class": "font-grotesk mb-2 text-2xl text-global font-semibold",
+        "selectors": [
+          "cy.contains(\"h2\", \"Audit Management\")"
+        ]
+      },
+      {
+        "tag": "h2",
+        "text": "Reg Port",
+        "id": "",
+        "class": "font-grotesk mb-2 text-2xl text-global font-semibold",
+        "selectors": [
+          "cy.contains(\"h2\", \"Reg Port\")"
+        ]
+      },
+      {
+        "tag": "h2",
+        "text": "Reg Watch",
+        "id": "",
+        "class": "font-grotesk mb-2 text-2xl text-global font-semibold",
+        "selectors": [
+          "cy.contains(\"h2\", \"Reg Watch\")"
+        ]
+      },
+      {
+        "tag": "h1",
+        "text": "The Core Capabilities That Power RegTech365",
+        "id": "",
+        "class": "text-3xl font-bold text-joelBlue",
+        "selectors": [
+          "cy.contains(\"h1\", \"The Core Capabilities That Power RegTech365\")"
+        ]
+      },
+      {
+        "tag": "h3",
+        "text": "Visibility",
+        "id": "",
+        "class": "text-[20px] md:mt-8 mt-2 font-bold text-gray-800 mb-4",
+        "selectors": [
+          "cy.contains(\"h3\", \"Visibility\")"
+        ]
+      },
+      {
+        "tag": "h4",
+        "text": "Real-Time Compliance Dashboard –",
+        "id": "",
+        "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+        "selectors": [
+          "cy.contains(\"h4\", \"Real-Time Compliance Dashboard –\")"
+        ]
+      },
+      {
+        "tag": "h4",
+        "text": "Regulatory Reporting Automation –",
+        "id": "",
+        "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+        "selectors": [
+          "cy.contains(\"h4\", \"Regulatory Reporting Automation –\")"
+        ]
+      },
+      {
+        "tag": "h3",
+        "text": "Control",
+        "id": "",
+        "class": "text-[20px] md:mt-8 mt-2 font-bold text-gray-800 mb-4",
+        "selectors": [
+          "cy.contains(\"h3\", \"Control\")"
+        ]
+      },
+      {
+        "tag": "h4",
+        "text": "Document Management –",
+        "id": "",
+        "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+        "selectors": [
+          "cy.contains(\"h4\", \"Document Management –\")"
+        ]
+      },
+      {
+        "tag": "h4",
+        "text": "Audit-Ready Collaboration –",
+        "id": "",
+        "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+        "selectors": [
+          "cy.contains(\"h4\", \"Audit-Ready Collaboration –\")"
+        ]
+      },
+      {
+        "tag": "h3",
+        "text": "Resilience",
+        "id": "",
+        "class": "text-[20px] md:mt-8 mt-2 font-bold text-gray-800 mb-4",
+        "selectors": [
+          "cy.contains(\"h3\", \"Resilience\")"
+        ]
+      },
+      {
+        "tag": "h4",
+        "text": "Risk Assessment Engine –",
+        "id": "",
+        "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+        "selectors": [
+          "cy.contains(\"h4\", \"Risk Assessment Engine –\")"
+        ]
+      },
+      {
+        "tag": "h2",
+        "text": "Built for Africa’s Most Regulated Industries",
+        "id": "",
+        "class": "font-extrabold text-3xl text-joelBlue",
+        "selectors": [
+          "cy.contains(\"h2\", \"Built for Africa’s Most Regulated Industries\")"
+        ]
+      },
+      {
+        "tag": "h4",
+        "text": "Banks & MFI'S",
+        "id": "",
+        "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+        "selectors": [
+          "cy.contains(\"h4\", \"Banks & MFI'S\")"
+        ]
+      },
+      {
+        "tag": "h4",
+        "text": "Fintechs",
+        "id": "",
+        "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+        "selectors": [
+          "cy.contains(\"h4\", \"Fintechs\")"
+        ]
+      },
+      {
+        "tag": "h4",
+        "text": "Insurance Providers",
+        "id": "",
+        "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+        "selectors": [
+          "cy.contains(\"h4\", \"Insurance Providers\")"
+        ]
+      },
+      {
+        "tag": "h4",
+        "text": "Auditors & Consultants",
+        "id": "",
+        "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+        "selectors": [
+          "cy.contains(\"h4\", \"Auditors & Consultants\")"
+        ]
+      },
+      {
+        "tag": "h1",
+        "text": "Why African Institutions Trust RegTech365",
+        "id": "",
+        "class": "text-3xl font-bold text-joelBlue",
+        "selectors": [
+          "cy.contains(\"h1\", \"Why African Institutions Trust RegTech365\")"
+        ]
+      },
+      {
+        "tag": "h3",
+        "text": "Built for Africa",
+        "id": "",
+        "class": "text-[20px] md:mt-8 mt-2 font-bold text-gray-800 mb-2",
+        "selectors": [
+          "cy.contains(\"h3\", \"Built for Africa\")"
+        ]
+      },
+      {
+        "tag": "h3",
+        "text": "Local Support Team",
+        "id": "",
+        "class": "text-[20px] md:mt-8 mt-2 font-bold text-gray-800 mb-2",
+        "selectors": [
+          "cy.contains(\"h3\", \"Local Support Team\")"
+        ]
+      },
+      {
+        "tag": "h3",
+        "text": "Multi-Standard Capable",
+        "id": "",
+        "class": "text-[20px] md:mt-8 mt-2 font-bold text-gray-800 mb-2",
+        "selectors": [
+          "cy.contains(\"h3\", \"Multi-Standard Capable\")"
+        ]
+      },
+      {
+        "tag": "h3",
+        "text": "Hosting Options",
+        "id": "",
+        "class": "text-[20px] md:mt-8 mt-2 font-bold text-gray-800 mb-2",
+        "selectors": [
+          "cy.contains(\"h3\", \"Hosting Options\")"
+        ]
+      },
+      {
+        "tag": "h2",
+        "text": "Results That Matter",
+        "id": "",
+        "class": "text-xl ml-0 md:text-2xl font-bold mb-8",
+        "selectors": [
+          "cy.contains(\"h2\", \"Results That Matter\")"
+        ]
+      },
+      {
+        "tag": "h6",
+        "text": "Trusted by compliance teams across Africa",
+        "id": "",
+        "class": "container font-bold text-lg md:text-3xl lg:text-4xl text-darkBlue text-left lg:text-center mb-16 lg:w-full",
+        "selectors": [
+          "cy.contains(\"h6\", \"Trusted by compliance teams across Africa\")"
+        ]
+      },
+      {
+        "tag": "h2",
+        "text": "Is Your Institution 100%Compliant? Find Out in Minutes.",
+        "id": "",
+        "class": "font-extrabold  text-4xl text-joelBlue",
+        "selectors": []
+      },
+      {
+        "tag": "h3",
+        "text": "Start Your Compliance  Journey Today",
+        "id": "",
+        "class": "md:font-bold xs:font-bold text-3xl text-primary-foreground",
+        "selectors": [
+          "cy.contains(\"h3\", \"Start Your Compliance  Journey Today\")"
+        ]
+      },
+      {
+        "tag": "h6",
+        "text": "RegTech365 is an innovative and efficient solution for organizations looking to achieve seamless compliance with regulatory requirements.",
+        "id": "",
+        "class": "max-w-prose text-sm font-light font-grotesk",
+        "selectors": []
+      },
+      {
+        "tag": "h3",
+        "text": "Locator",
+        "id": "",
+        "class": "flex",
+        "selectors": [
+          "cy.contains(\"h3\", \"Locator\")"
+        ]
+      },
+      {
+        "tag": "h3",
+        "text": "Company",
+        "id": "",
+        "class": "flex",
+        "selectors": [
+          "cy.contains(\"h3\", \"Company\")"
+        ]
+      },
+      {
+        "tag": "h3",
+        "text": "Features",
+        "id": "",
+        "class": "flex",
+        "selectors": [
+          "cy.contains(\"h3\", \"Features\")"
+        ]
+      },
+      {
+        "tag": "h6",
+        "text": "Location",
+        "id": "",
+        "class": "font-semibold text-[16px] font-grotesk mb-1",
+        "selectors": [
+          "cy.contains(\"h6\", \"Location\")"
+        ]
+      },
+      {
+        "tag": "h6",
+        "text": "Contact",
+        "id": "",
+        "class": "font-semibold text-[16px] font-grotesk mb-1",
+        "selectors": [
+          "cy.contains(\"h6\", \"Contact\")"
+        ]
+      },
+      {
+        "tag": "h6",
+        "text": "Company",
+        "id": "",
+        "class": "font-semibold text-[16px] mb-1 font-grotesk",
+        "selectors": [
+          "cy.contains(\"h6\", \"Company\")"
+        ]
+      },
+      {
+        "tag": "h6",
+        "text": "Solutions",
+        "id": "",
+        "class": "font-semibold text-[16px] mb-1",
+        "selectors": [
+          "cy.contains(\"h6\", \"Solutions\")"
+        ]
+      }
+    ],
+    "toggles": [],
+    "other": []
+  },
+  "byPurpose": {
+    "textAssertions": [
+      {
+        "tag": "h1",
+        "text": "Streamline Compliance.",
+        "id": "",
+        "class": "font-normal xs:text-[40px] md:text-[64px] font-sf leading-none flex items-start xs:mt-4 md:mt-0",
+        "selectors": [
+          "cy.contains(\"h1\", \"Streamline Compliance.\")"
+        ]
+      },
+      {
+        "tag": "h4",
+        "text": "Trusted by compliance teams across Africa",
+        "id": "",
+        "class": "text-base text-center text-gray-600 font-light md:text-lg lg:text-xl xs:mt-8 md:mt-0 xs:text-[14px] font-grotesk",
+        "selectors": [
+          "cy.contains(\"h4\", \"Trusted by compliance teams across Africa\")"
+        ]
+      },
+      {
+        "tag": "h2",
+        "text": "African Compliance is Complex.RegTech365 Makes It Simple.",
+        "id": "",
+        "class": "font-extrabold text-3xl text-joelBlue",
+        "selectors": []
+      },
+      {
+        "tag": "h1",
+        "text": "One Platform, Six Powerful Compliance Solutions",
+        "id": "",
+        "class": "text-3xl font-bold text-joelBlue",
+        "selectors": [
+          "cy.contains(\"h1\", \"One Platform, Six Powerful Compliance Solutions\")"
+        ]
+      },
+      {
+        "tag": "h2",
+        "text": "Document Management",
+        "id": "",
+        "class": "font-grotesk mb-2 text-2xl text-global font-semibold",
+        "selectors": [
+          "cy.contains(\"h2\", \"Document Management\")"
+        ]
+      },
+      {
+        "tag": "h2",
+        "text": "Audit Management",
+        "id": "",
+        "class": "font-grotesk mb-2 text-2xl text-global font-semibold",
+        "selectors": [
+          "cy.contains(\"h2\", \"Audit Management\")"
+        ]
+      },
+      {
+        "tag": "h2",
+        "text": "Reg Port",
+        "id": "",
+        "class": "font-grotesk mb-2 text-2xl text-global font-semibold",
+        "selectors": [
+          "cy.contains(\"h2\", \"Reg Port\")"
+        ]
+      },
+      {
+        "tag": "h2",
+        "text": "Reg Watch",
+        "id": "",
+        "class": "font-grotesk mb-2 text-2xl text-global font-semibold",
+        "selectors": [
+          "cy.contains(\"h2\", \"Reg Watch\")"
+        ]
+      },
+      {
+        "tag": "h1",
+        "text": "The Core Capabilities That Power RegTech365",
+        "id": "",
+        "class": "text-3xl font-bold text-joelBlue",
+        "selectors": [
+          "cy.contains(\"h1\", \"The Core Capabilities That Power RegTech365\")"
+        ]
+      },
+      {
+        "tag": "h3",
+        "text": "Visibility",
+        "id": "",
+        "class": "text-[20px] md:mt-8 mt-2 font-bold text-gray-800 mb-4",
+        "selectors": [
+          "cy.contains(\"h3\", \"Visibility\")"
+        ]
+      },
+      {
+        "tag": "h4",
+        "text": "Real-Time Compliance Dashboard –",
+        "id": "",
+        "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+        "selectors": [
+          "cy.contains(\"h4\", \"Real-Time Compliance Dashboard –\")"
+        ]
+      },
+      {
+        "tag": "h4",
+        "text": "Regulatory Reporting Automation –",
+        "id": "",
+        "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+        "selectors": [
+          "cy.contains(\"h4\", \"Regulatory Reporting Automation –\")"
+        ]
+      },
+      {
+        "tag": "h3",
+        "text": "Control",
+        "id": "",
+        "class": "text-[20px] md:mt-8 mt-2 font-bold text-gray-800 mb-4",
+        "selectors": [
+          "cy.contains(\"h3\", \"Control\")"
+        ]
+      },
+      {
+        "tag": "h4",
+        "text": "Document Management –",
+        "id": "",
+        "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+        "selectors": [
+          "cy.contains(\"h4\", \"Document Management –\")"
+        ]
+      },
+      {
+        "tag": "h4",
+        "text": "Audit-Ready Collaboration –",
+        "id": "",
+        "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+        "selectors": [
+          "cy.contains(\"h4\", \"Audit-Ready Collaboration –\")"
+        ]
+      },
+      {
+        "tag": "h3",
+        "text": "Resilience",
+        "id": "",
+        "class": "text-[20px] md:mt-8 mt-2 font-bold text-gray-800 mb-4",
+        "selectors": [
+          "cy.contains(\"h3\", \"Resilience\")"
+        ]
+      },
+      {
+        "tag": "h4",
+        "text": "Risk Assessment Engine –",
+        "id": "",
+        "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+        "selectors": [
+          "cy.contains(\"h4\", \"Risk Assessment Engine –\")"
+        ]
+      },
+      {
+        "tag": "h2",
+        "text": "Built for Africa’s Most Regulated Industries",
+        "id": "",
+        "class": "font-extrabold text-3xl text-joelBlue",
+        "selectors": [
+          "cy.contains(\"h2\", \"Built for Africa’s Most Regulated Industries\")"
+        ]
+      },
+      {
+        "tag": "h4",
+        "text": "Banks & MFI'S",
+        "id": "",
+        "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+        "selectors": [
+          "cy.contains(\"h4\", \"Banks & MFI'S\")"
+        ]
+      },
+      {
+        "tag": "h4",
+        "text": "Fintechs",
+        "id": "",
+        "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+        "selectors": [
+          "cy.contains(\"h4\", \"Fintechs\")"
+        ]
+      },
+      {
+        "tag": "h4",
+        "text": "Insurance Providers",
+        "id": "",
+        "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+        "selectors": [
+          "cy.contains(\"h4\", \"Insurance Providers\")"
+        ]
+      },
+      {
+        "tag": "h4",
+        "text": "Auditors & Consultants",
+        "id": "",
+        "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+        "selectors": [
+          "cy.contains(\"h4\", \"Auditors & Consultants\")"
+        ]
+      },
+      {
+        "tag": "h1",
+        "text": "Why African Institutions Trust RegTech365",
+        "id": "",
+        "class": "text-3xl font-bold text-joelBlue",
+        "selectors": [
+          "cy.contains(\"h1\", \"Why African Institutions Trust RegTech365\")"
+        ]
+      },
+      {
+        "tag": "h3",
+        "text": "Built for Africa",
+        "id": "",
+        "class": "text-[20px] md:mt-8 mt-2 font-bold text-gray-800 mb-2",
+        "selectors": [
+          "cy.contains(\"h3\", \"Built for Africa\")"
+        ]
+      },
+      {
+        "tag": "h3",
+        "text": "Local Support Team",
+        "id": "",
+        "class": "text-[20px] md:mt-8 mt-2 font-bold text-gray-800 mb-2",
+        "selectors": [
+          "cy.contains(\"h3\", \"Local Support Team\")"
+        ]
+      },
+      {
+        "tag": "h3",
+        "text": "Multi-Standard Capable",
+        "id": "",
+        "class": "text-[20px] md:mt-8 mt-2 font-bold text-gray-800 mb-2",
+        "selectors": [
+          "cy.contains(\"h3\", \"Multi-Standard Capable\")"
+        ]
+      },
+      {
+        "tag": "h3",
+        "text": "Hosting Options",
+        "id": "",
+        "class": "text-[20px] md:mt-8 mt-2 font-bold text-gray-800 mb-2",
+        "selectors": [
+          "cy.contains(\"h3\", \"Hosting Options\")"
+        ]
+      },
+      {
+        "tag": "h2",
+        "text": "Results That Matter",
+        "id": "",
+        "class": "text-xl ml-0 md:text-2xl font-bold mb-8",
+        "selectors": [
+          "cy.contains(\"h2\", \"Results That Matter\")"
+        ]
+      },
+      {
+        "tag": "h6",
+        "text": "Trusted by compliance teams across Africa",
+        "id": "",
+        "class": "container font-bold text-lg md:text-3xl lg:text-4xl text-darkBlue text-left lg:text-center mb-16 lg:w-full",
+        "selectors": [
+          "cy.contains(\"h6\", \"Trusted by compliance teams across Africa\")"
+        ]
+      },
+      {
+        "tag": "h2",
+        "text": "Is Your Institution 100%Compliant? Find Out in Minutes.",
+        "id": "",
+        "class": "font-extrabold  text-4xl text-joelBlue",
+        "selectors": []
+      },
+      {
+        "tag": "h3",
+        "text": "Start Your Compliance  Journey Today",
+        "id": "",
+        "class": "md:font-bold xs:font-bold text-3xl text-primary-foreground",
+        "selectors": [
+          "cy.contains(\"h3\", \"Start Your Compliance  Journey Today\")"
+        ]
+      },
+      {
+        "tag": "h6",
+        "text": "RegTech365 is an innovative and efficient solution for organizations looking to achieve seamless compliance with regulatory requirements.",
+        "id": "",
+        "class": "max-w-prose text-sm font-light font-grotesk",
+        "selectors": []
+      },
+      {
+        "tag": "h3",
+        "text": "Locator",
+        "id": "",
+        "class": "flex",
+        "selectors": [
+          "cy.contains(\"h3\", \"Locator\")"
+        ]
+      },
+      {
+        "tag": "h3",
+        "text": "Company",
+        "id": "",
+        "class": "flex",
+        "selectors": [
+          "cy.contains(\"h3\", \"Company\")"
+        ]
+      },
+      {
+        "tag": "h3",
+        "text": "Features",
+        "id": "",
+        "class": "flex",
+        "selectors": [
+          "cy.contains(\"h3\", \"Features\")"
+        ]
+      },
+      {
+        "tag": "h6",
+        "text": "Location",
+        "id": "",
+        "class": "font-semibold text-[16px] font-grotesk mb-1",
+        "selectors": [
+          "cy.contains(\"h6\", \"Location\")"
+        ]
+      },
+      {
+        "tag": "h6",
+        "text": "Contact",
+        "id": "",
+        "class": "font-semibold text-[16px] font-grotesk mb-1",
+        "selectors": [
+          "cy.contains(\"h6\", \"Contact\")"
+        ]
+      },
+      {
+        "tag": "h6",
+        "text": "Company",
+        "id": "",
+        "class": "font-semibold text-[16px] mb-1 font-grotesk",
+        "selectors": [
+          "cy.contains(\"h6\", \"Company\")"
+        ]
+      },
+      {
+        "tag": "h6",
+        "text": "Solutions",
+        "id": "",
+        "class": "font-semibold text-[16px] mb-1",
+        "selectors": [
+          "cy.contains(\"h6\", \"Solutions\")"
+        ]
+      }
+    ],
+    "visuals": [
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "logo",
+        "src": "https://www.regtech365.com/Images/home_page/logo.svg",
+        "class": "w-16 lg:w-20",
+        "selectors": [
+          "img[alt=\"logo\"]",
+          "img[src=\"https://www.regtech365.com/Images/home_page/logo.svg\"]"
+        ]
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-chevron-down relative top-[1px] ml-1 h-3 w-3 transition duration-200 group-data-[state=open]:rotate-180",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-chevron-down relative top-[1px] ml-1 h-3 w-3 transition duration-200 group-data-[state=open]:rotate-180",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-menu text-white mr-2",
+        "selectors": []
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "finger_img_bg",
+        "src": "https://www.regtech365.com/Images/home_page/grid-bg.svg",
+        "class": "top-0 left-0 absolute md:w-8/12 object-contain",
+        "selectors": [
+          "img[alt=\"finger_img_bg\"]",
+          "img[src=\"https://www.regtech365.com/Images/home_page/grid-bg.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "finger_img_bg",
+        "src": "https://www.regtech365.com/Images/home_page/heroImg.svg",
+        "class": "bottom-[5px] l absolute object-contain pr-8 pl-8",
+        "selectors": [
+          "img[alt=\"finger_img_bg\"]",
+          "img[src=\"https://www.regtech365.com/Images/home_page/heroImg.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "calendly",
+        "src": "https://www.regtech365.com/Images/sponsors/logo_0.svg",
+        "class": "w-20 md:w-32 object-cover",
+        "selectors": [
+          "img[alt=\"calendly\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/logo_0.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "calendly",
+        "src": "https://www.regtech365.com/Images/sponsors/Moniepointlogo.svg",
+        "class": "w-20 md:w-32 object-cover",
+        "selectors": [
+          "img[alt=\"calendly\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/Moniepointlogo.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "calendly",
+        "src": "https://www.regtech365.com/Images/sponsors/Opexa%20Logo%201.svg",
+        "class": "w-20 md:w-32 object-cover",
+        "selectors": [
+          "img[alt=\"calendly\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/Opexa%20Logo%201.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "calendly",
+        "src": "https://www.regtech365.com/Images/sponsors/Logo-colour-1%201.svg",
+        "class": "w-20 md:w-32 object-cover",
+        "selectors": [
+          "img[alt=\"calendly\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/Logo-colour-1%201.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "calendly",
+        "src": "https://www.regtech365.com/Images/sponsors/fintech.svg",
+        "class": "w-20 md:w-32 object-cover",
+        "selectors": [
+          "img[alt=\"calendly\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/fintech.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "calendly",
+        "src": "https://www.regtech365.com/Images/sponsors/ndic.svg",
+        "class": "w-20 md:w-32 object-cover",
+        "selectors": [
+          "img[alt=\"calendly\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/ndic.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "calendly",
+        "src": "https://www.regtech365.com/Images/sponsors/logo_0.svg",
+        "class": "w-40  object-cover",
+        "selectors": [
+          "img[alt=\"calendly\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/logo_0.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "calendly",
+        "src": "https://www.regtech365.com/Images/sponsors/Moniepointlogo.svg",
+        "class": "w-40 object-cover",
+        "selectors": [
+          "img[alt=\"calendly\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/Moniepointlogo.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "calendly",
+        "src": "https://www.regtech365.com/Images/sponsors/Opexa%20Logo%201.svg",
+        "class": "w-28  object-cover",
+        "selectors": [
+          "img[alt=\"calendly\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/Opexa%20Logo%201.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "calendly",
+        "src": "https://www.regtech365.com/Images/sponsors/Logo-colour-1%201.svg",
+        "class": "w-28 object-cover",
+        "selectors": [
+          "img[alt=\"calendly\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/Logo-colour-1%201.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "Complaince Package",
+        "src": "https://www.regtech365.com/Images/home_page/Group%201000001759.svg",
+        "class": "py-5",
+        "selectors": [
+          "img[alt=\"Complaince Package\"]",
+          "img[src=\"https://www.regtech365.com/Images/home_page/Group%201000001759.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "",
+        "src": "https://res.cloudinary.com/depnbovhc/image/upload/v1716468058/RegTech%20Global/SVG/path96_o9rnrc.svg",
+        "class": "mb-0 md:ml-0 lg:ml-52 w-auto h-auto",
+        "selectors": [
+          "img[src=\"https://res.cloudinary.com/depnbovhc/image/upload/v1716468058/RegTech%20Global/SVG/path96_o9rnrc.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "https://www.regtech365.com/Images/home_page/globe.svg",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"https://www.regtech365.com/Images/home_page/globe.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "audit",
+        "src": "https://www.regtech365.com/Images/home_page/documentmanagement.svg",
+        "class": "w-full h-full object-cover",
+        "selectors": [
+          "img[alt=\"audit\"]",
+          "img[src=\"https://www.regtech365.com/Images/home_page/documentmanagement.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "audit",
+        "src": "https://www.regtech365.com/Images/home_page/audit.svg",
+        "class": "w-full h-full object-cover",
+        "selectors": [
+          "img[alt=\"audit\"]",
+          "img[src=\"https://www.regtech365.com/Images/home_page/audit.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "audit",
+        "src": "/Images/home_page/regport.svg",
+        "class": "w-full h-full object-cover",
+        "selectors": [
+          "img[alt=\"audit\"]",
+          "img[src=\"/Images/home_page/regport.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "audit",
+        "src": "/Images/home_page/regwatch.svg",
+        "class": "w-full h-full object-cover",
+        "selectors": [
+          "img[alt=\"audit\"]",
+          "img[src=\"/Images/home_page/regwatch.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/home_page/corebg.svg",
+        "class": "absolute top-0 left-[10%] md:flex hidden ",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/home_page/corebg.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/home_page/corebg2.svg",
+        "class": "absolute -bottom-[25%] right-[0%] md:flex hidden ",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/home_page/corebg2.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/home_page/visibility.svg",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/home_page/visibility.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/home_page/controlicon.svg",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/home_page/controlicon.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/home_page/controlicon.svg",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/home_page/controlicon.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "Built for",
+        "src": "/Images/home_page/builtforgb.svg",
+        "class": "py-5",
+        "selectors": [
+          "img[alt=\"Built for\"]",
+          "img[src=\"/Images/home_page/builtforgb.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/ourdiffbg.svg",
+        "class": "absolute bottom-0 left-[0%] md:flex hidden ",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/ourdiffbg.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/ourdiffbg2.svg",
+        "class": "absolute -bottom-[10%] -right-[5%] md:flex hidden ",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/ourdiffbg2.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/sidenavicons/africa.svg",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/sidenavicons/africa.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/sidenavicons/local.svg",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/sidenavicons/local.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/sidenavicons/bell.svg",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/sidenavicons/bell.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/sidenavicons/hosting.svg",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/sidenavicons/hosting.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/resultbg.svg",
+        "class": "absolute -bottom-[10%] -right-[0%] md:flex hidden ",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/resultbg.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "testimonial",
+        "src": "/Images/home_page/companies.svg",
+        "selectors": [
+          "img[alt=\"testimonial\"]",
+          "img[src=\"/Images/home_page/companies.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "testimonial",
+        "src": "/Images/home_page/user2.svg",
+        "selectors": [
+          "img[alt=\"testimonial\"]",
+          "img[src=\"/Images/home_page/user2.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "testimonial",
+        "src": "/Images/home_page/user2.svg",
+        "selectors": [
+          "img[alt=\"testimonial\"]",
+          "img[src=\"/Images/home_page/user2.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "testimonial",
+        "src": "/Images/home_page/user1.svg",
+        "selectors": [
+          "img[alt=\"testimonial\"]",
+          "img[src=\"/Images/home_page/user1.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "testimonial",
+        "src": "/Images/home_page/user1.svg",
+        "selectors": [
+          "img[alt=\"testimonial\"]",
+          "img[src=\"/Images/home_page/user1.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "testimonial",
+        "src": "/Images/home_page/user1.svg",
+        "selectors": [
+          "img[alt=\"testimonial\"]",
+          "img[src=\"/Images/home_page/user1.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "testimonial",
+        "src": "/Images/home_page/user1.svg",
+        "selectors": [
+          "img[alt=\"testimonial\"]",
+          "img[src=\"/Images/home_page/user1.svg\"]"
+        ]
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-chevron-left w-5 h-5",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-chevron-right w-5 h-5",
+        "selectors": []
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "partner logo",
+        "src": "https://www.regtech365.com/Images/sponsors/logo_0.svg",
+        "class": "object-contain ",
+        "selectors": [
+          "img[alt=\"partner logo\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/logo_0.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "partner logo",
+        "src": "https://www.regtech365.com/Images/sponsors/Moniepointlogo.svg",
+        "class": "object-contain ",
+        "selectors": [
+          "img[alt=\"partner logo\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/Moniepointlogo.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "partner logo",
+        "src": "https://www.regtech365.com/Images/sponsors/Opexa%20Logo%201.svg",
+        "class": "object-contain ",
+        "selectors": [
+          "img[alt=\"partner logo\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/Opexa%20Logo%201.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "partner logo",
+        "src": "https://www.regtech365.com/Images/sponsors/Logo-colour-1%201.svg",
+        "class": "object-contain ",
+        "selectors": [
+          "img[alt=\"partner logo\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/Logo-colour-1%201.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "partner logo",
+        "src": "https://www.regtech365.com/Images/sponsors/fintech.svg",
+        "class": "object-contain ",
+        "selectors": [
+          "img[alt=\"partner logo\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/fintech.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "partner logo",
+        "src": "https://www.regtech365.com/Images/sponsors/ndic.svg",
+        "class": "object-contain ",
+        "selectors": [
+          "img[alt=\"partner logo\"]",
+          "img[src=\"https://www.regtech365.com/Images/sponsors/ndic.svg\"]"
+        ]
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-arrow-left h-4 w-4",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-arrow-right h-4 w-4",
+        "selectors": []
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "",
+        "src": "https://res.cloudinary.com/depnbovhc/image/upload/v1716468058/RegTech%20Global/SVG/path96_o9rnrc.svg",
+        "class": "mb-0 md:ml-0 lg:ml-52 w-auto h-auto absolute top-[40%] -left-[30%] md:flex hidden",
+        "selectors": [
+          "img[src=\"https://res.cloudinary.com/depnbovhc/image/upload/v1716468058/RegTech%20Global/SVG/path96_o9rnrc.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "global-image",
+        "src": "https://res.cloudinary.com/depnbovhc/image/upload/v1716468061/RegTech%20Global/SVG/Group_39583_epadac.svg",
+        "class": "object-cover",
+        "selectors": [
+          "img[alt=\"global-image\"]",
+          "img[src=\"https://res.cloudinary.com/depnbovhc/image/upload/v1716468061/RegTech%20Global/SVG/Group_39583_epadac.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "globe",
+        "src": "/Images/home_page/compliancebg2.svg",
+        "class": "absolute -bottom-[10%] left-[0%] md:flex hidden ",
+        "selectors": [
+          "img[alt=\"globe\"]",
+          "img[src=\"/Images/home_page/compliancebg2.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "picture-bg",
+        "src": "https://res.cloudinary.com/depnbovhc/image/upload/v1716468057/RegTech%20Global/SVG/Group_395771_o77o7b.svg",
+        "class": "bg-right object-contain",
+        "selectors": [
+          "img[alt=\"picture-bg\"]",
+          "img[src=\"https://res.cloudinary.com/depnbovhc/image/upload/v1716468057/RegTech%20Global/SVG/Group_395771_o77o7b.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "picture1",
+        "src": "/Images/home_page/Businesspeople are on their business trip.svg",
+        "class": "object-contain",
+        "selectors": [
+          "img[alt=\"picture1\"]",
+          "img[src=\"/Images/home_page/Businesspeople are on their business trip.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "quadruple_Security",
+        "src": "/Images/home_page/compliancebg.svg",
+        "class": "flex w-[70%] object-cover absolute -right-[20%] top-[13%]",
+        "selectors": [
+          "img[alt=\"quadruple_Security\"]",
+          "img[src=\"/Images/home_page/compliancebg.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "logo__footer",
+        "src": "https://res.cloudinary.com/depnbovhc/image/upload/v1716468058/RegTech%20Global/SVG/logo_2_1_qjwjrn.svg",
+        "class": "object-contain w-24",
+        "selectors": [
+          "img[alt=\"logo__footer\"]",
+          "img[src=\"https://res.cloudinary.com/depnbovhc/image/upload/v1716468058/RegTech%20Global/SVG/logo_2_1_qjwjrn.svg\"]"
+        ]
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-circle-help",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "text-accent ",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "text-accent ",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "text-accent ",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-chevron-down h-4 w-4 shrink-0 transition-transform duration-200",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-chevron-down h-4 w-4 shrink-0 transition-transform duration-200",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-chevron-down h-4 w-4 shrink-0 transition-transform duration-200",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-mail",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-phone-call",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-map-pin",
+        "selectors": []
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "facebook",
+        "src": "/Images/home_page/Facebook.svg",
+        "class": "w-8 object-contain",
+        "selectors": [
+          "img[alt=\"facebook\"]",
+          "img[src=\"/Images/home_page/Facebook.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "facebook",
+        "src": "/_next/image?url=%2FImages%2Fx.png&w=1080&q=75",
+        "class": "w-8 object-contain",
+        "selectors": [
+          "img[alt=\"facebook\"]",
+          "img[src=\"/_next/image?url=%2FImages%2Fx.png&w=1080&q=75\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "facebook",
+        "src": "/Images/home_page/LinkedIn.svg",
+        "class": "w-8 object-contain",
+        "selectors": [
+          "img[alt=\"facebook\"]",
+          "img[src=\"/Images/home_page/LinkedIn.svg\"]"
+        ]
+      }
+    ],
+    "clickables": [
+      {
+        "tag": "button",
+        "text": "Solutions",
+        "id": "radix-_r_0_-trigger-radix-_r_1_",
+        "class": "group inline-flex h-10 w-max items-center justify-center rounded-md bg-transparent px-4 py-2 text-sm font-medium hover:bg-transparent focus:bg-tranparent focus:text-accent focus:outline-none disabled:pointer-events-none disabled:opacity-50 data-[active]:bg-accent data-[state=open]:bg-transparent group cursor-pointer font-grotesk transition-all duration-300 text-white hover:text-gray-400",
+        "selectors": [
+          "#radix-_r_0_-trigger-radix-_r_1_",
+          "cy.contains(\"button\", \"Solutions\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Packages",
+        "id": "",
+        "class": "text-white hover:text-gray-400",
+        "selectors": [
+          "cy.contains(\"a\", \"Packages\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Blog",
+        "id": "radix-_r_3_-trigger-radix-_r_4_",
+        "class": "group inline-flex h-10 w-max items-center justify-center rounded-md bg-transparent px-4 py-2 text-sm font-medium hover:bg-transparent focus:bg-tranparent focus:text-accent focus:outline-none disabled:pointer-events-none disabled:opacity-50 data-[active]:bg-accent data-[state=open]:bg-transparent group cursor-pointer font-grotesk transition-all duration-300 text-white hover:text-gray-400",
+        "selectors": [
+          "#radix-_r_3_-trigger-radix-_r_4_",
+          "cy.contains(\"button\", \"Blog\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Pricing",
+        "id": "",
+        "class": "text-white hover:text-gray-400",
+        "selectors": [
+          "cy.contains(\"a\", \"Pricing\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Sign in",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 h-10 py-3 px-5 font-grotesk text-primary-foreground bg-transparent capitalize rounded-[.5rem] hover:bg-joelBlue/60 hover:text-white hover:shadow-md",
+        "selectors": [
+          "cy.contains(\"button\", \"Sign in\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Sign in",
+        "id": "",
+        "selectors": [
+          "cy.contains(\"a\", \"Sign in\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Talk to us",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-purpleBlue/10 hover:bg-purpleBlue/15 active:bg-purpleBlue/20 disabled:bg-purpleBlue/10 disabled:text-purpleBlue/20 h-10 shadow-md px-5 py-3 text-white font-grotesk transition-all duration-300 border-2 border-white rounded-lg",
+        "selectors": [
+          "cy.contains(\"a\", \"Talk to us\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Book a demo",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground h-10 px-4 py-2 rounded bg-[#4F46E5] hover:bg-darkBlue w-min font-light font-grotesk md:hidden",
+        "selectors": [
+          "cy.contains(\"a\", \"Book a demo\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Sign up",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-global-foreground text-white active:bg-global hover:bg-global-foreground/80 disabled:bg-global-foreground/30 h-10 py-2 rounded px-16 md:px-8 md:max-w-fit font-grotesk xs:w-full xs:mt-4 md:mt-0",
+        "selectors": [
+          "cy.contains(\"a\", \"Sign up\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Talk to us",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-white text-darkBlue border-2 border-darkBlue hover:border-darkBlue/30 active:border-darkBlue/80 disabled:border-darkBlue/20 h-10 py-2 rounded px-16 md:px-8 md:max-w-fit font-grotesk xs:w-full xs:mt-4 md:mt-0",
+        "selectors": [
+          "cy.contains(\"a\", \"Talk to us\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Explore our solutions",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground h-10 py-2 rounded bg-[#4F46E5] hover:bg-darkBlue px-12 w-min",
+        "selectors": [
+          "cy.contains(\"a\", \"Explore our solutions\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Book a demo now",
+        "id": "",
+        "class": "font-semibold text-[#4F46E5] font-grotesk text-lg",
+        "selectors": [
+          "cy.contains(\"a\", \"Book a demo now\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Book a demo now",
+        "id": "",
+        "class": "font-semibold text-[#4F46E5] font-grotesk text-lg",
+        "selectors": [
+          "cy.contains(\"a\", \"Book a demo now\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Book a demo now",
+        "id": "",
+        "class": "font-semibold text-[#4F46E5] font-grotesk text-lg",
+        "selectors": [
+          "cy.contains(\"a\", \"Book a demo now\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Consult with a Specialist",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground h-10 py-2 rounded bg-[#4F46E5] hover:bg-darkBlue px-12 w-min",
+        "selectors": [
+          "cy.contains(\"a\", \"Consult with a Specialist\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Get started",
+        "id": "",
+        "class": "bg-indigo-600 hover:bg-indigo-700 text-white px-8 py-3 rounded-lg font-medium transition-colors",
+        "selectors": [
+          "cy.contains(\"button\", \"Get started\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Explore courses",
+        "id": "",
+        "class": "border border-white text-white hover:bg-white hover:text-gray-900 px-8 py-3 rounded-lg font-medium transition-colors",
+        "selectors": [
+          "cy.contains(\"button\", \"Explore courses\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Previous slide",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input hover:text-accent-foreground -left-12 top-1/2 h-14 w-14 rounded-full bg-gray-300 hover:bg-gray-300 active:bg-darkBlue focus:bg-darkBlue focus:text-white text-joelBlue border-none static translate-y-0",
+        "selectors": [
+          "cy.contains(\"button\", \"Previous slide\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Next slide",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input hover:text-accent-foreground -right-12 top-1/2 h-14 w-14 rounded-full bg-gray-300 hover:bg-gray-300 active:bg-orange-500 focus:bg-orange-500 focus:text-white text-joelBlue border-none static translate-y-0",
+        "selectors": [
+          "cy.contains(\"button\", \"Next slide\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Download PDF",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground h-12 rounded-[.4rem] w-min md:bg-joelBlue xs:bg-[#4f46e5] hover:bg-darkBlue ml-4 px-12 font-light font-grotesk",
+        "selectors": [
+          "cy.contains(\"button\", \"Download PDF\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Book your demo now",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 active:bg-slate-900 disabled:bg-slate-200 h-10 py-2 rounded bg-white hover:bg-gray-100 text-darkBlue hover:text-darkBlue/70 shadow-md hover:shadow mt-6 px-12 font-semibold capitalize xs:mb-6 md:mb-0",
+        "selectors": [
+          "cy.contains(\"button\", \"Book your demo now\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Need Help?",
+        "id": "",
+        "class": "cursor-pointer font-semibold leading-none text-sm font-grotesk",
+        "selectors": [
+          "cy.contains(\"a\", \"Need Help?\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Locator",
+        "id": "radix-_r_9_",
+        "class": "flex flex-1 items-center justify-between py-4 transition-all [&[data-state=open]>svg]:rotate-180 hover:no-underline font-semibold text-lg",
+        "selectors": [
+          "#radix-_r_9_",
+          "cy.contains(\"button\", \"Locator\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Company",
+        "id": "radix-_r_b_",
+        "class": "flex flex-1 items-center justify-between py-4 transition-all [&[data-state=open]>svg]:rotate-180 hover:no-underline font-semibold text-lg",
+        "selectors": [
+          "#radix-_r_b_",
+          "cy.contains(\"button\", \"Company\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Features",
+        "id": "radix-_r_d_",
+        "class": "flex flex-1 items-center justify-between py-4 transition-all [&[data-state=open]>svg]:rotate-180 hover:no-underline font-semibold text-lg",
+        "selectors": [
+          "#radix-_r_d_",
+          "cy.contains(\"button\", \"Features\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "About Us",
+        "id": "",
+        "class": "font-light cursor-pointer font-grotesk text-sm",
+        "selectors": [
+          "cy.contains(\"a\", \"About Us\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Privacy Policy and Terms of Use",
+        "id": "",
+        "class": "font-light cursor-pointer font-grotesk text-sm",
+        "selectors": [
+          "cy.contains(\"a\", \"Privacy Policy and Terms of Use\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Home",
+        "id": "",
+        "class": "font-light cursor-pointer font-grotesk text-sm",
+        "selectors": [
+          "cy.contains(\"a\", \"Home\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "FAQs",
+        "id": "",
+        "class": "font-light cursor-pointer font-grotesk text-sm",
+        "selectors": [
+          "cy.contains(\"a\", \"FAQs\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Pricing",
+        "id": "",
+        "class": "font-light cursor-pointer text-sm font-grotesk",
+        "selectors": [
+          "cy.contains(\"a\", \"Pricing\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Audit Management",
+        "id": "",
+        "class": "font-light cursor-pointer text-sm font-grotesk",
+        "selectors": [
+          "cy.contains(\"a\", \"Audit Management\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Control Management",
+        "id": "",
+        "class": "font-light cursor-pointer text-sm font-grotesk",
+        "selectors": [
+          "cy.contains(\"a\", \"Control Management\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Document Management",
+        "id": "",
+        "class": "font-light cursor-pointer text-sm font-grotesk",
+        "selectors": [
+          "cy.contains(\"a\", \"Document Management\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Knowledge Management",
+        "id": "",
+        "class": "font-light cursor-pointer text-sm font-grotesk",
+        "selectors": [
+          "cy.contains(\"a\", \"Knowledge Management\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Risk Management",
+        "id": "",
+        "class": "font-light cursor-pointer text-sm font-grotesk",
+        "selectors": [
+          "cy.contains(\"a\", \"Risk Management\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Realtime Compliance Tracking",
+        "id": "",
+        "class": "font-light cursor-pointer text-sm font-grotesk",
+        "selectors": [
+          "cy.contains(\"a\", \"Realtime Compliance Tracking\")"
+        ]
+      }
+    ],
+    "inputs": [],
+    "navigation": [
+      {
+        "tag": "button",
+        "text": "Solutions",
+        "id": "radix-_r_0_-trigger-radix-_r_1_",
+        "class": "group inline-flex h-10 w-max items-center justify-center rounded-md bg-transparent px-4 py-2 text-sm font-medium hover:bg-transparent focus:bg-tranparent focus:text-accent focus:outline-none disabled:pointer-events-none disabled:opacity-50 data-[active]:bg-accent data-[state=open]:bg-transparent group cursor-pointer font-grotesk transition-all duration-300 text-white hover:text-gray-400",
+        "selectors": [
+          "#radix-_r_0_-trigger-radix-_r_1_",
+          "cy.contains(\"button\", \"Solutions\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Packages",
+        "id": "",
+        "class": "text-white hover:text-gray-400",
+        "selectors": [
+          "cy.contains(\"a\", \"Packages\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Blog",
+        "id": "radix-_r_3_-trigger-radix-_r_4_",
+        "class": "group inline-flex h-10 w-max items-center justify-center rounded-md bg-transparent px-4 py-2 text-sm font-medium hover:bg-transparent focus:bg-tranparent focus:text-accent focus:outline-none disabled:pointer-events-none disabled:opacity-50 data-[active]:bg-accent data-[state=open]:bg-transparent group cursor-pointer font-grotesk transition-all duration-300 text-white hover:text-gray-400",
+        "selectors": [
+          "#radix-_r_3_-trigger-radix-_r_4_",
+          "cy.contains(\"button\", \"Blog\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Pricing",
+        "id": "",
+        "class": "text-white hover:text-gray-400",
+        "selectors": [
+          "cy.contains(\"a\", \"Pricing\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Sign in",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 h-10 py-3 px-5 font-grotesk text-primary-foreground bg-transparent capitalize rounded-[.5rem] hover:bg-joelBlue/60 hover:text-white hover:shadow-md",
+        "selectors": [
+          "cy.contains(\"button\", \"Sign in\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Sign in",
+        "id": "",
+        "selectors": [
+          "cy.contains(\"a\", \"Sign in\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Talk to us",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-purpleBlue/10 hover:bg-purpleBlue/15 active:bg-purpleBlue/20 disabled:bg-purpleBlue/10 disabled:text-purpleBlue/20 h-10 shadow-md px-5 py-3 text-white font-grotesk transition-all duration-300 border-2 border-white rounded-lg",
+        "selectors": [
+          "cy.contains(\"a\", \"Talk to us\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Book a demo",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground h-10 px-4 py-2 rounded bg-[#4F46E5] hover:bg-darkBlue w-min font-light font-grotesk md:hidden",
+        "selectors": [
+          "cy.contains(\"a\", \"Book a demo\")"
+        ]
+      }
+    ]
+  },
+  "all": [
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "logo",
+      "src": "https://www.regtech365.com/Images/home_page/logo.svg",
+      "class": "w-16 lg:w-20",
+      "selectors": [
+        "img[alt=\"logo\"]",
+        "img[src=\"https://www.regtech365.com/Images/home_page/logo.svg\"]"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Solutions",
+      "id": "radix-_r_0_-trigger-radix-_r_1_",
+      "class": "group inline-flex h-10 w-max items-center justify-center rounded-md bg-transparent px-4 py-2 text-sm font-medium hover:bg-transparent focus:bg-tranparent focus:text-accent focus:outline-none disabled:pointer-events-none disabled:opacity-50 data-[active]:bg-accent data-[state=open]:bg-transparent group cursor-pointer font-grotesk transition-all duration-300 text-white hover:text-gray-400",
+      "selectors": [
+        "#radix-_r_0_-trigger-radix-_r_1_",
+        "cy.contains(\"button\", \"Solutions\")"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-chevron-down relative top-[1px] ml-1 h-3 w-3 transition duration-200 group-data-[state=open]:rotate-180",
+      "selectors": []
+    },
+    {
+      "tag": "a",
+      "text": "Packages",
+      "id": "",
+      "class": "text-white hover:text-gray-400",
+      "selectors": [
+        "cy.contains(\"a\", \"Packages\")"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Blog",
+      "id": "radix-_r_3_-trigger-radix-_r_4_",
+      "class": "group inline-flex h-10 w-max items-center justify-center rounded-md bg-transparent px-4 py-2 text-sm font-medium hover:bg-transparent focus:bg-tranparent focus:text-accent focus:outline-none disabled:pointer-events-none disabled:opacity-50 data-[active]:bg-accent data-[state=open]:bg-transparent group cursor-pointer font-grotesk transition-all duration-300 text-white hover:text-gray-400",
+      "selectors": [
+        "#radix-_r_3_-trigger-radix-_r_4_",
+        "cy.contains(\"button\", \"Blog\")"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-chevron-down relative top-[1px] ml-1 h-3 w-3 transition duration-200 group-data-[state=open]:rotate-180",
+      "selectors": []
+    },
+    {
+      "tag": "a",
+      "text": "Pricing",
+      "id": "",
+      "class": "text-white hover:text-gray-400",
+      "selectors": [
+        "cy.contains(\"a\", \"Pricing\")"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Sign in",
+      "id": "",
+      "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 h-10 py-3 px-5 font-grotesk text-primary-foreground bg-transparent capitalize rounded-[.5rem] hover:bg-joelBlue/60 hover:text-white hover:shadow-md",
+      "selectors": [
+        "cy.contains(\"button\", \"Sign in\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Sign in",
+      "id": "",
+      "selectors": [
+        "cy.contains(\"a\", \"Sign in\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Talk to us",
+      "id": "",
+      "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-purpleBlue/10 hover:bg-purpleBlue/15 active:bg-purpleBlue/20 disabled:bg-purpleBlue/10 disabled:text-purpleBlue/20 h-10 shadow-md px-5 py-3 text-white font-grotesk transition-all duration-300 border-2 border-white rounded-lg",
+      "selectors": [
+        "cy.contains(\"a\", \"Talk to us\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Book a demo",
+      "id": "",
+      "class": "inline-flex items-center justify-center whitespace-nowrap text-sm ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground h-10 px-4 py-2 rounded bg-[#4F46E5] hover:bg-darkBlue w-min font-light font-grotesk md:hidden",
+      "selectors": [
+        "cy.contains(\"a\", \"Book a demo\")"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-menu text-white mr-2",
+      "selectors": []
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "finger_img_bg",
+      "src": "https://www.regtech365.com/Images/home_page/grid-bg.svg",
+      "class": "top-0 left-0 absolute md:w-8/12 object-contain",
+      "selectors": [
+        "img[alt=\"finger_img_bg\"]",
+        "img[src=\"https://www.regtech365.com/Images/home_page/grid-bg.svg\"]"
+      ]
+    },
+    {
+      "tag": "h1",
+      "text": "Streamline Compliance.",
+      "id": "",
+      "class": "font-normal xs:text-[40px] md:text-[64px] font-sf leading-none flex items-start xs:mt-4 md:mt-0",
+      "selectors": [
+        "cy.contains(\"h1\", \"Streamline Compliance.\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Sign up",
+      "id": "",
+      "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-global-foreground text-white active:bg-global hover:bg-global-foreground/80 disabled:bg-global-foreground/30 h-10 py-2 rounded px-16 md:px-8 md:max-w-fit font-grotesk xs:w-full xs:mt-4 md:mt-0",
+      "selectors": [
+        "cy.contains(\"a\", \"Sign up\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Talk to us",
+      "id": "",
+      "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-white text-darkBlue border-2 border-darkBlue hover:border-darkBlue/30 active:border-darkBlue/80 disabled:border-darkBlue/20 h-10 py-2 rounded px-16 md:px-8 md:max-w-fit font-grotesk xs:w-full xs:mt-4 md:mt-0",
+      "selectors": [
+        "cy.contains(\"a\", \"Talk to us\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "finger_img_bg",
+      "src": "https://www.regtech365.com/Images/home_page/heroImg.svg",
+      "class": "bottom-[5px] l absolute object-contain pr-8 pl-8",
+      "selectors": [
+        "img[alt=\"finger_img_bg\"]",
+        "img[src=\"https://www.regtech365.com/Images/home_page/heroImg.svg\"]"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Trusted by compliance teams across Africa",
+      "id": "",
+      "class": "text-base text-center text-gray-600 font-light md:text-lg lg:text-xl xs:mt-8 md:mt-0 xs:text-[14px] font-grotesk",
+      "selectors": [
+        "cy.contains(\"h4\", \"Trusted by compliance teams across Africa\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "calendly",
+      "src": "https://www.regtech365.com/Images/sponsors/logo_0.svg",
+      "class": "w-20 md:w-32 object-cover",
+      "selectors": [
+        "img[alt=\"calendly\"]",
+        "img[src=\"https://www.regtech365.com/Images/sponsors/logo_0.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "calendly",
+      "src": "https://www.regtech365.com/Images/sponsors/Moniepointlogo.svg",
+      "class": "w-20 md:w-32 object-cover",
+      "selectors": [
+        "img[alt=\"calendly\"]",
+        "img[src=\"https://www.regtech365.com/Images/sponsors/Moniepointlogo.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "calendly",
+      "src": "https://www.regtech365.com/Images/sponsors/Opexa%20Logo%201.svg",
+      "class": "w-20 md:w-32 object-cover",
+      "selectors": [
+        "img[alt=\"calendly\"]",
+        "img[src=\"https://www.regtech365.com/Images/sponsors/Opexa%20Logo%201.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "calendly",
+      "src": "https://www.regtech365.com/Images/sponsors/Logo-colour-1%201.svg",
+      "class": "w-20 md:w-32 object-cover",
+      "selectors": [
+        "img[alt=\"calendly\"]",
+        "img[src=\"https://www.regtech365.com/Images/sponsors/Logo-colour-1%201.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "calendly",
+      "src": "https://www.regtech365.com/Images/sponsors/fintech.svg",
+      "class": "w-20 md:w-32 object-cover",
+      "selectors": [
+        "img[alt=\"calendly\"]",
+        "img[src=\"https://www.regtech365.com/Images/sponsors/fintech.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "calendly",
+      "src": "https://www.regtech365.com/Images/sponsors/ndic.svg",
+      "class": "w-20 md:w-32 object-cover",
+      "selectors": [
+        "img[alt=\"calendly\"]",
+        "img[src=\"https://www.regtech365.com/Images/sponsors/ndic.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "calendly",
+      "src": "https://www.regtech365.com/Images/sponsors/logo_0.svg",
+      "class": "w-40  object-cover",
+      "selectors": [
+        "img[alt=\"calendly\"]",
+        "img[src=\"https://www.regtech365.com/Images/sponsors/logo_0.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "calendly",
+      "src": "https://www.regtech365.com/Images/sponsors/Moniepointlogo.svg",
+      "class": "w-40 object-cover",
+      "selectors": [
+        "img[alt=\"calendly\"]",
+        "img[src=\"https://www.regtech365.com/Images/sponsors/Moniepointlogo.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "calendly",
+      "src": "https://www.regtech365.com/Images/sponsors/Opexa%20Logo%201.svg",
+      "class": "w-28  object-cover",
+      "selectors": [
+        "img[alt=\"calendly\"]",
+        "img[src=\"https://www.regtech365.com/Images/sponsors/Opexa%20Logo%201.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "calendly",
+      "src": "https://www.regtech365.com/Images/sponsors/Logo-colour-1%201.svg",
+      "class": "w-28 object-cover",
+      "selectors": [
+        "img[alt=\"calendly\"]",
+        "img[src=\"https://www.regtech365.com/Images/sponsors/Logo-colour-1%201.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "Complaince Package",
+      "src": "https://www.regtech365.com/Images/home_page/Group%201000001759.svg",
+      "class": "py-5",
+      "selectors": [
+        "img[alt=\"Complaince Package\"]",
+        "img[src=\"https://www.regtech365.com/Images/home_page/Group%201000001759.svg\"]"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "African Compliance is Complex.RegTech365 Makes It Simple.",
+      "id": "",
+      "class": "font-extrabold text-3xl text-joelBlue",
+      "selectors": []
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "",
+      "src": "https://res.cloudinary.com/depnbovhc/image/upload/v1716468058/RegTech%20Global/SVG/path96_o9rnrc.svg",
+      "class": "mb-0 md:ml-0 lg:ml-52 w-auto h-auto",
+      "selectors": [
+        "img[src=\"https://res.cloudinary.com/depnbovhc/image/upload/v1716468058/RegTech%20Global/SVG/path96_o9rnrc.svg\"]"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Explore our solutions",
+      "id": "",
+      "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground h-10 py-2 rounded bg-[#4F46E5] hover:bg-darkBlue px-12 w-min",
+      "selectors": [
+        "cy.contains(\"a\", \"Explore our solutions\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "globe",
+      "src": "https://www.regtech365.com/Images/home_page/globe.svg",
+      "selectors": [
+        "img[alt=\"globe\"]",
+        "img[src=\"https://www.regtech365.com/Images/home_page/globe.svg\"]"
+      ]
+    },
+    {
+      "tag": "h1",
+      "text": "One Platform, Six Powerful Compliance Solutions",
+      "id": "",
+      "class": "text-3xl font-bold text-joelBlue",
+      "selectors": [
+        "cy.contains(\"h1\", \"One Platform, Six Powerful Compliance Solutions\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "audit",
+      "src": "https://www.regtech365.com/Images/home_page/documentmanagement.svg",
+      "class": "w-full h-full object-cover",
+      "selectors": [
+        "img[alt=\"audit\"]",
+        "img[src=\"https://www.regtech365.com/Images/home_page/documentmanagement.svg\"]"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Document Management",
+      "id": "",
+      "class": "font-grotesk mb-2 text-2xl text-global font-semibold",
+      "selectors": [
+        "cy.contains(\"h2\", \"Document Management\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "audit",
+      "src": "https://www.regtech365.com/Images/home_page/audit.svg",
+      "class": "w-full h-full object-cover",
+      "selectors": [
+        "img[alt=\"audit\"]",
+        "img[src=\"https://www.regtech365.com/Images/home_page/audit.svg\"]"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Audit Management",
+      "id": "",
+      "class": "font-grotesk mb-2 text-2xl text-global font-semibold",
+      "selectors": [
+        "cy.contains(\"h2\", \"Audit Management\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Book a demo now",
+      "id": "",
+      "class": "font-semibold text-[#4F46E5] font-grotesk text-lg",
+      "selectors": [
+        "cy.contains(\"a\", \"Book a demo now\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "audit",
+      "src": "/Images/home_page/regport.svg",
+      "class": "w-full h-full object-cover",
+      "selectors": [
+        "img[alt=\"audit\"]",
+        "img[src=\"/Images/home_page/regport.svg\"]"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Reg Port",
+      "id": "",
+      "class": "font-grotesk mb-2 text-2xl text-global font-semibold",
+      "selectors": [
+        "cy.contains(\"h2\", \"Reg Port\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Book a demo now",
+      "id": "",
+      "class": "font-semibold text-[#4F46E5] font-grotesk text-lg",
+      "selectors": [
+        "cy.contains(\"a\", \"Book a demo now\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "audit",
+      "src": "/Images/home_page/regwatch.svg",
+      "class": "w-full h-full object-cover",
+      "selectors": [
+        "img[alt=\"audit\"]",
+        "img[src=\"/Images/home_page/regwatch.svg\"]"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Reg Watch",
+      "id": "",
+      "class": "font-grotesk mb-2 text-2xl text-global font-semibold",
+      "selectors": [
+        "cy.contains(\"h2\", \"Reg Watch\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Book a demo now",
+      "id": "",
+      "class": "font-semibold text-[#4F46E5] font-grotesk text-lg",
+      "selectors": [
+        "cy.contains(\"a\", \"Book a demo now\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "globe",
+      "src": "/Images/home_page/corebg.svg",
+      "class": "absolute top-0 left-[10%] md:flex hidden ",
+      "selectors": [
+        "img[alt=\"globe\"]",
+        "img[src=\"/Images/home_page/corebg.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "globe",
+      "src": "/Images/home_page/corebg2.svg",
+      "class": "absolute -bottom-[25%] right-[0%] md:flex hidden ",
+      "selectors": [
+        "img[alt=\"globe\"]",
+        "img[src=\"/Images/home_page/corebg2.svg\"]"
+      ]
+    },
+    {
+      "tag": "h1",
+      "text": "The Core Capabilities That Power RegTech365",
+      "id": "",
+      "class": "text-3xl font-bold text-joelBlue",
+      "selectors": [
+        "cy.contains(\"h1\", \"The Core Capabilities That Power RegTech365\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "globe",
+      "src": "/Images/home_page/visibility.svg",
+      "selectors": [
+        "img[alt=\"globe\"]",
+        "img[src=\"/Images/home_page/visibility.svg\"]"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Visibility",
+      "id": "",
+      "class": "text-[20px] md:mt-8 mt-2 font-bold text-gray-800 mb-4",
+      "selectors": [
+        "cy.contains(\"h3\", \"Visibility\")"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Real-Time Compliance Dashboard –",
+      "id": "",
+      "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+      "selectors": [
+        "cy.contains(\"h4\", \"Real-Time Compliance Dashboard –\")"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Regulatory Reporting Automation –",
+      "id": "",
+      "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+      "selectors": [
+        "cy.contains(\"h4\", \"Regulatory Reporting Automation –\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "globe",
+      "src": "/Images/home_page/controlicon.svg",
+      "selectors": [
+        "img[alt=\"globe\"]",
+        "img[src=\"/Images/home_page/controlicon.svg\"]"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Control",
+      "id": "",
+      "class": "text-[20px] md:mt-8 mt-2 font-bold text-gray-800 mb-4",
+      "selectors": [
+        "cy.contains(\"h3\", \"Control\")"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Document Management –",
+      "id": "",
+      "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+      "selectors": [
+        "cy.contains(\"h4\", \"Document Management –\")"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Audit-Ready Collaboration –",
+      "id": "",
+      "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+      "selectors": [
+        "cy.contains(\"h4\", \"Audit-Ready Collaboration –\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "globe",
+      "src": "/Images/home_page/controlicon.svg",
+      "selectors": [
+        "img[alt=\"globe\"]",
+        "img[src=\"/Images/home_page/controlicon.svg\"]"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Resilience",
+      "id": "",
+      "class": "text-[20px] md:mt-8 mt-2 font-bold text-gray-800 mb-4",
+      "selectors": [
+        "cy.contains(\"h3\", \"Resilience\")"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Risk Assessment Engine –",
+      "id": "",
+      "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+      "selectors": [
+        "cy.contains(\"h4\", \"Risk Assessment Engine –\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Consult with a Specialist",
+      "id": "",
+      "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground h-10 py-2 rounded bg-[#4F46E5] hover:bg-darkBlue px-12 w-min",
+      "selectors": [
+        "cy.contains(\"a\", \"Consult with a Specialist\")"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Built for Africa’s Most Regulated Industries",
+      "id": "",
+      "class": "font-extrabold text-3xl text-joelBlue",
+      "selectors": [
+        "cy.contains(\"h2\", \"Built for Africa’s Most Regulated Industries\")"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Banks & MFI'S",
+      "id": "",
+      "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+      "selectors": [
+        "cy.contains(\"h4\", \"Banks & MFI'S\")"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Fintechs",
+      "id": "",
+      "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+      "selectors": [
+        "cy.contains(\"h4\", \"Fintechs\")"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Insurance Providers",
+      "id": "",
+      "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+      "selectors": [
+        "cy.contains(\"h4\", \"Insurance Providers\")"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Auditors & Consultants",
+      "id": "",
+      "class": "font-semibold text-[#1B2056B2] font-grotesk text-[18px]",
+      "selectors": [
+        "cy.contains(\"h4\", \"Auditors & Consultants\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "Built for",
+      "src": "/Images/home_page/builtforgb.svg",
+      "class": "py-5",
+      "selectors": [
+        "img[alt=\"Built for\"]",
+        "img[src=\"/Images/home_page/builtforgb.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "globe",
+      "src": "/Images/ourdiffbg.svg",
+      "class": "absolute bottom-0 left-[0%] md:flex hidden ",
+      "selectors": [
+        "img[alt=\"globe\"]",
+        "img[src=\"/Images/ourdiffbg.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "globe",
+      "src": "/Images/ourdiffbg2.svg",
+      "class": "absolute -bottom-[10%] -right-[5%] md:flex hidden ",
+      "selectors": [
+        "img[alt=\"globe\"]",
+        "img[src=\"/Images/ourdiffbg2.svg\"]"
+      ]
+    },
+    {
+      "tag": "h1",
+      "text": "Why African Institutions Trust RegTech365",
+      "id": "",
+      "class": "text-3xl font-bold text-joelBlue",
+      "selectors": [
+        "cy.contains(\"h1\", \"Why African Institutions Trust RegTech365\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "globe",
+      "src": "/Images/sidenavicons/africa.svg",
+      "selectors": [
+        "img[alt=\"globe\"]",
+        "img[src=\"/Images/sidenavicons/africa.svg\"]"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Built for Africa",
+      "id": "",
+      "class": "text-[20px] md:mt-8 mt-2 font-bold text-gray-800 mb-2",
+      "selectors": [
+        "cy.contains(\"h3\", \"Built for Africa\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "globe",
+      "src": "/Images/sidenavicons/local.svg",
+      "selectors": [
+        "img[alt=\"globe\"]",
+        "img[src=\"/Images/sidenavicons/local.svg\"]"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Local Support Team",
+      "id": "",
+      "class": "text-[20px] md:mt-8 mt-2 font-bold text-gray-800 mb-2",
+      "selectors": [
+        "cy.contains(\"h3\", \"Local Support Team\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "globe",
+      "src": "/Images/sidenavicons/bell.svg",
+      "selectors": [
+        "img[alt=\"globe\"]",
+        "img[src=\"/Images/sidenavicons/bell.svg\"]"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Multi-Standard Capable",
+      "id": "",
+      "class": "text-[20px] md:mt-8 mt-2 font-bold text-gray-800 mb-2",
+      "selectors": [
+        "cy.contains(\"h3\", \"Multi-Standard Capable\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "globe",
+      "src": "/Images/sidenavicons/hosting.svg",
+      "selectors": [
+        "img[alt=\"globe\"]",
+        "img[src=\"/Images/sidenavicons/hosting.svg\"]"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Hosting Options",
+      "id": "",
+      "class": "text-[20px] md:mt-8 mt-2 font-bold text-gray-800 mb-2",
+      "selectors": [
+        "cy.contains(\"h3\", \"Hosting Options\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "globe",
+      "src": "/Images/resultbg.svg",
+      "class": "absolute -bottom-[10%] -right-[0%] md:flex hidden ",
+      "selectors": [
+        "img[alt=\"globe\"]",
+        "img[src=\"/Images/resultbg.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "testimonial",
+      "src": "/Images/home_page/companies.svg",
+      "selectors": [
+        "img[alt=\"testimonial\"]",
+        "img[src=\"/Images/home_page/companies.svg\"]"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Get started",
+      "id": "",
+      "class": "bg-indigo-600 hover:bg-indigo-700 text-white px-8 py-3 rounded-lg font-medium transition-colors",
+      "selectors": [
+        "cy.contains(\"button\", \"Get started\")"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Explore courses",
+      "id": "",
+      "class": "border border-white text-white hover:bg-white hover:text-gray-900 px-8 py-3 rounded-lg font-medium transition-colors",
+      "selectors": [
+        "cy.contains(\"button\", \"Explore courses\")"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Results That Matter",
+      "id": "",
+      "class": "text-xl ml-0 md:text-2xl font-bold mb-8",
+      "selectors": [
+        "cy.contains(\"h2\", \"Results That Matter\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "testimonial",
+      "src": "/Images/home_page/user2.svg",
+      "selectors": [
+        "img[alt=\"testimonial\"]",
+        "img[src=\"/Images/home_page/user2.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "testimonial",
+      "src": "/Images/home_page/user2.svg",
+      "selectors": [
+        "img[alt=\"testimonial\"]",
+        "img[src=\"/Images/home_page/user2.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "testimonial",
+      "src": "/Images/home_page/user1.svg",
+      "selectors": [
+        "img[alt=\"testimonial\"]",
+        "img[src=\"/Images/home_page/user1.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "testimonial",
+      "src": "/Images/home_page/user1.svg",
+      "selectors": [
+        "img[alt=\"testimonial\"]",
+        "img[src=\"/Images/home_page/user1.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "testimonial",
+      "src": "/Images/home_page/user1.svg",
+      "selectors": [
+        "img[alt=\"testimonial\"]",
+        "img[src=\"/Images/home_page/user1.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "testimonial",
+      "src": "/Images/home_page/user1.svg",
+      "selectors": [
+        "img[alt=\"testimonial\"]",
+        "img[src=\"/Images/home_page/user1.svg\"]"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-chevron-left w-5 h-5",
+      "selectors": []
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-chevron-right w-5 h-5",
+      "selectors": []
+    },
+    {
+      "tag": "h6",
+      "text": "Trusted by compliance teams across Africa",
+      "id": "",
+      "class": "container font-bold text-lg md:text-3xl lg:text-4xl text-darkBlue text-left lg:text-center mb-16 lg:w-full",
+      "selectors": [
+        "cy.contains(\"h6\", \"Trusted by compliance teams across Africa\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "partner logo",
+      "src": "https://www.regtech365.com/Images/sponsors/logo_0.svg",
+      "class": "object-contain ",
+      "selectors": [
+        "img[alt=\"partner logo\"]",
+        "img[src=\"https://www.regtech365.com/Images/sponsors/logo_0.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "partner logo",
+      "src": "https://www.regtech365.com/Images/sponsors/Moniepointlogo.svg",
+      "class": "object-contain ",
+      "selectors": [
+        "img[alt=\"partner logo\"]",
+        "img[src=\"https://www.regtech365.com/Images/sponsors/Moniepointlogo.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "partner logo",
+      "src": "https://www.regtech365.com/Images/sponsors/Opexa%20Logo%201.svg",
+      "class": "object-contain ",
+      "selectors": [
+        "img[alt=\"partner logo\"]",
+        "img[src=\"https://www.regtech365.com/Images/sponsors/Opexa%20Logo%201.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "partner logo",
+      "src": "https://www.regtech365.com/Images/sponsors/Logo-colour-1%201.svg",
+      "class": "object-contain ",
+      "selectors": [
+        "img[alt=\"partner logo\"]",
+        "img[src=\"https://www.regtech365.com/Images/sponsors/Logo-colour-1%201.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "partner logo",
+      "src": "https://www.regtech365.com/Images/sponsors/fintech.svg",
+      "class": "object-contain ",
+      "selectors": [
+        "img[alt=\"partner logo\"]",
+        "img[src=\"https://www.regtech365.com/Images/sponsors/fintech.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "partner logo",
+      "src": "https://www.regtech365.com/Images/sponsors/ndic.svg",
+      "class": "object-contain ",
+      "selectors": [
+        "img[alt=\"partner logo\"]",
+        "img[src=\"https://www.regtech365.com/Images/sponsors/ndic.svg\"]"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Previous slide",
+      "id": "",
+      "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input hover:text-accent-foreground -left-12 top-1/2 h-14 w-14 rounded-full bg-gray-300 hover:bg-gray-300 active:bg-darkBlue focus:bg-darkBlue focus:text-white text-joelBlue border-none static translate-y-0",
+      "selectors": [
+        "cy.contains(\"button\", \"Previous slide\")"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-arrow-left h-4 w-4",
+      "selectors": []
+    },
+    {
+      "tag": "button",
+      "text": "Next slide",
+      "id": "",
+      "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input hover:text-accent-foreground -right-12 top-1/2 h-14 w-14 rounded-full bg-gray-300 hover:bg-gray-300 active:bg-orange-500 focus:bg-orange-500 focus:text-white text-joelBlue border-none static translate-y-0",
+      "selectors": [
+        "cy.contains(\"button\", \"Next slide\")"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-arrow-right h-4 w-4",
+      "selectors": []
+    },
+    {
+      "tag": "h2",
+      "text": "Is Your Institution 100%Compliant? Find Out in Minutes.",
+      "id": "",
+      "class": "font-extrabold  text-4xl text-joelBlue",
+      "selectors": []
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "",
+      "src": "https://res.cloudinary.com/depnbovhc/image/upload/v1716468058/RegTech%20Global/SVG/path96_o9rnrc.svg",
+      "class": "mb-0 md:ml-0 lg:ml-52 w-auto h-auto absolute top-[40%] -left-[30%] md:flex hidden",
+      "selectors": [
+        "img[src=\"https://res.cloudinary.com/depnbovhc/image/upload/v1716468058/RegTech%20Global/SVG/path96_o9rnrc.svg\"]"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Download PDF",
+      "id": "",
+      "class": "inline-flex items-center justify-center whitespace-nowrap text-sm ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground h-12 rounded-[.4rem] w-min md:bg-joelBlue xs:bg-[#4f46e5] hover:bg-darkBlue ml-4 px-12 font-light font-grotesk",
+      "selectors": [
+        "cy.contains(\"button\", \"Download PDF\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "global-image",
+      "src": "https://res.cloudinary.com/depnbovhc/image/upload/v1716468061/RegTech%20Global/SVG/Group_39583_epadac.svg",
+      "class": "object-cover",
+      "selectors": [
+        "img[alt=\"global-image\"]",
+        "img[src=\"https://res.cloudinary.com/depnbovhc/image/upload/v1716468061/RegTech%20Global/SVG/Group_39583_epadac.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "globe",
+      "src": "/Images/home_page/compliancebg2.svg",
+      "class": "absolute -bottom-[10%] left-[0%] md:flex hidden ",
+      "selectors": [
+        "img[alt=\"globe\"]",
+        "img[src=\"/Images/home_page/compliancebg2.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "picture-bg",
+      "src": "https://res.cloudinary.com/depnbovhc/image/upload/v1716468057/RegTech%20Global/SVG/Group_395771_o77o7b.svg",
+      "class": "bg-right object-contain",
+      "selectors": [
+        "img[alt=\"picture-bg\"]",
+        "img[src=\"https://res.cloudinary.com/depnbovhc/image/upload/v1716468057/RegTech%20Global/SVG/Group_395771_o77o7b.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "picture1",
+      "src": "/Images/home_page/Businesspeople are on their business trip.svg",
+      "class": "object-contain",
+      "selectors": [
+        "img[alt=\"picture1\"]",
+        "img[src=\"/Images/home_page/Businesspeople are on their business trip.svg\"]"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Start Your Compliance  Journey Today",
+      "id": "",
+      "class": "md:font-bold xs:font-bold text-3xl text-primary-foreground",
+      "selectors": [
+        "cy.contains(\"h3\", \"Start Your Compliance  Journey Today\")"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Book your demo now",
+      "id": "",
+      "class": "inline-flex items-center justify-center whitespace-nowrap text-sm ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 active:bg-slate-900 disabled:bg-slate-200 h-10 py-2 rounded bg-white hover:bg-gray-100 text-darkBlue hover:text-darkBlue/70 shadow-md hover:shadow mt-6 px-12 font-semibold capitalize xs:mb-6 md:mb-0",
+      "selectors": [
+        "cy.contains(\"button\", \"Book your demo now\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "quadruple_Security",
+      "src": "/Images/home_page/compliancebg.svg",
+      "class": "flex w-[70%] object-cover absolute -right-[20%] top-[13%]",
+      "selectors": [
+        "img[alt=\"quadruple_Security\"]",
+        "img[src=\"/Images/home_page/compliancebg.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "logo__footer",
+      "src": "https://res.cloudinary.com/depnbovhc/image/upload/v1716468058/RegTech%20Global/SVG/logo_2_1_qjwjrn.svg",
+      "class": "object-contain w-24",
+      "selectors": [
+        "img[alt=\"logo__footer\"]",
+        "img[src=\"https://res.cloudinary.com/depnbovhc/image/upload/v1716468058/RegTech%20Global/SVG/logo_2_1_qjwjrn.svg\"]"
+      ]
+    },
+    {
+      "tag": "h6",
+      "text": "RegTech365 is an innovative and efficient solution for organizations looking to achieve seamless compliance with regulatory requirements.",
+      "id": "",
+      "class": "max-w-prose text-sm font-light font-grotesk",
+      "selectors": []
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-circle-help",
+      "selectors": []
+    },
+    {
+      "tag": "a",
+      "text": "Need Help?",
+      "id": "",
+      "class": "cursor-pointer font-semibold leading-none text-sm font-grotesk",
+      "selectors": [
+        "cy.contains(\"a\", \"Need Help?\")"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "text-accent ",
+      "selectors": []
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "text-accent ",
+      "selectors": []
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "text-accent ",
+      "selectors": []
+    },
+    {
+      "tag": "h3",
+      "text": "Locator",
+      "id": "",
+      "class": "flex",
+      "selectors": [
+        "cy.contains(\"h3\", \"Locator\")"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Locator",
+      "id": "radix-_r_9_",
+      "class": "flex flex-1 items-center justify-between py-4 transition-all [&[data-state=open]>svg]:rotate-180 hover:no-underline font-semibold text-lg",
+      "selectors": [
+        "#radix-_r_9_",
+        "cy.contains(\"button\", \"Locator\")"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-chevron-down h-4 w-4 shrink-0 transition-transform duration-200",
+      "selectors": []
+    },
+    {
+      "tag": "h3",
+      "text": "Company",
+      "id": "",
+      "class": "flex",
+      "selectors": [
+        "cy.contains(\"h3\", \"Company\")"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Company",
+      "id": "radix-_r_b_",
+      "class": "flex flex-1 items-center justify-between py-4 transition-all [&[data-state=open]>svg]:rotate-180 hover:no-underline font-semibold text-lg",
+      "selectors": [
+        "#radix-_r_b_",
+        "cy.contains(\"button\", \"Company\")"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-chevron-down h-4 w-4 shrink-0 transition-transform duration-200",
+      "selectors": []
+    },
+    {
+      "tag": "h3",
+      "text": "Features",
+      "id": "",
+      "class": "flex",
+      "selectors": [
+        "cy.contains(\"h3\", \"Features\")"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Features",
+      "id": "radix-_r_d_",
+      "class": "flex flex-1 items-center justify-between py-4 transition-all [&[data-state=open]>svg]:rotate-180 hover:no-underline font-semibold text-lg",
+      "selectors": [
+        "#radix-_r_d_",
+        "cy.contains(\"button\", \"Features\")"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-chevron-down h-4 w-4 shrink-0 transition-transform duration-200",
+      "selectors": []
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-mail",
+      "selectors": []
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-phone-call",
+      "selectors": []
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-map-pin",
+      "selectors": []
+    },
+    {
+      "tag": "h6",
+      "text": "Location",
+      "id": "",
+      "class": "font-semibold text-[16px] font-grotesk mb-1",
+      "selectors": [
+        "cy.contains(\"h6\", \"Location\")"
+      ]
+    },
+    {
+      "tag": "h6",
+      "text": "Contact",
+      "id": "",
+      "class": "font-semibold text-[16px] font-grotesk mb-1",
+      "selectors": [
+        "cy.contains(\"h6\", \"Contact\")"
+      ]
+    },
+    {
+      "tag": "h6",
+      "text": "Company",
+      "id": "",
+      "class": "font-semibold text-[16px] mb-1 font-grotesk",
+      "selectors": [
+        "cy.contains(\"h6\", \"Company\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "About Us",
+      "id": "",
+      "class": "font-light cursor-pointer font-grotesk text-sm",
+      "selectors": [
+        "cy.contains(\"a\", \"About Us\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Privacy Policy and Terms of Use",
+      "id": "",
+      "class": "font-light cursor-pointer font-grotesk text-sm",
+      "selectors": [
+        "cy.contains(\"a\", \"Privacy Policy and Terms of Use\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Home",
+      "id": "",
+      "class": "font-light cursor-pointer font-grotesk text-sm",
+      "selectors": [
+        "cy.contains(\"a\", \"Home\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "FAQs",
+      "id": "",
+      "class": "font-light cursor-pointer font-grotesk text-sm",
+      "selectors": [
+        "cy.contains(\"a\", \"FAQs\")"
+      ]
+    },
+    {
+      "tag": "h6",
+      "text": "Solutions",
+      "id": "",
+      "class": "font-semibold text-[16px] mb-1",
+      "selectors": [
+        "cy.contains(\"h6\", \"Solutions\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Pricing",
+      "id": "",
+      "class": "font-light cursor-pointer text-sm font-grotesk",
+      "selectors": [
+        "cy.contains(\"a\", \"Pricing\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Audit Management",
+      "id": "",
+      "class": "font-light cursor-pointer text-sm font-grotesk",
+      "selectors": [
+        "cy.contains(\"a\", \"Audit Management\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Control Management",
+      "id": "",
+      "class": "font-light cursor-pointer text-sm font-grotesk",
+      "selectors": [
+        "cy.contains(\"a\", \"Control Management\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Document Management",
+      "id": "",
+      "class": "font-light cursor-pointer text-sm font-grotesk",
+      "selectors": [
+        "cy.contains(\"a\", \"Document Management\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Knowledge Management",
+      "id": "",
+      "class": "font-light cursor-pointer text-sm font-grotesk",
+      "selectors": [
+        "cy.contains(\"a\", \"Knowledge Management\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Risk Management",
+      "id": "",
+      "class": "font-light cursor-pointer text-sm font-grotesk",
+      "selectors": [
+        "cy.contains(\"a\", \"Risk Management\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Realtime Compliance Tracking",
+      "id": "",
+      "class": "font-light cursor-pointer text-sm font-grotesk",
+      "selectors": [
+        "cy.contains(\"a\", \"Realtime Compliance Tracking\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "facebook",
+      "src": "/Images/home_page/Facebook.svg",
+      "class": "w-8 object-contain",
+      "selectors": [
+        "img[alt=\"facebook\"]",
+        "img[src=\"/Images/home_page/Facebook.svg\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "facebook",
+      "src": "/_next/image?url=%2FImages%2Fx.png&w=1080&q=75",
+      "class": "w-8 object-contain",
+      "selectors": [
+        "img[alt=\"facebook\"]",
+        "img[src=\"/_next/image?url=%2FImages%2Fx.png&w=1080&q=75\"]"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "facebook",
+      "src": "/Images/home_page/LinkedIn.svg",
+      "class": "w-8 object-contain",
+      "selectors": [
+        "img[alt=\"facebook\"]",
+        "img[src=\"/Images/home_page/LinkedIn.svg\"]"
+      ]
+    }
+  ]
+}

@@ -1,7 +1,13 @@
 # Dependencies
 node_modules/
 
-# Cypress
+# Secrets & Sensitive Configs
+.env
+cypress/config/*.json
+testPlan_regTech.md
+
+# Reports, Screenshots & Videos
+cypress/reports/
 cypress/screenshots/
 cypress/videos/
 cypress/reports/.jsons/
@@ -15,6 +21,3 @@ dashboard/
 .DS_Store
 .vscode/
 .idea/
-
-# Secrets
-.env

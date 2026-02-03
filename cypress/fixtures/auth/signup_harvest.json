@@ -1,0 +1,471 @@
+{
+  "meta": {
+    "url": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/signup",
+    "harvestedAt": "2026-02-03T11:28:24.998Z",
+    "rootSelector": "body"
+  },
+  "byCategory": {
+    "images": [
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "logo",
+        "src": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/home_page/logo.svg",
+        "selectors": [
+          "img[alt=\"logo\"]",
+          "img[src=\"https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/home_page/logo.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "Dashboard Preview",
+        "src": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/_next/image?url=%2FImages%2FGroup1.png&w=1920&q=75",
+        "class": "rounded-lg shadow-2xl h-[90vh] w-auto object-cover object-left my-4",
+        "selectors": [
+          "img[alt=\"Dashboard Preview\"]",
+          "img[src=\"https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/_next/image?url=%2FImages%2FGroup1.png&w=1920&q=75\"]"
+        ]
+      }
+    ],
+    "svgs": [
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-handshake ml-6 text-white",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-eye",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-eye",
+        "selectors": []
+      }
+    ],
+    "buttons": [
+      {
+        "tag": "button",
+        "text": "Create Account",
+        "id": "",
+        "class": "group relative w-full flex justify-center py-3 px-4 border border-transparent text-sm font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 transition-colors duration-200",
+        "selectors": [
+          "cy.contains(\"button\", \"Create Account\")"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "tag": "a",
+        "text": "Privacy Policy",
+        "id": "",
+        "class": "text-indigo-600 hover:text-indigo-500 underline",
+        "selectors": [
+          "cy.contains(\"a\", \"Privacy Policy\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Manage Cookies",
+        "id": "",
+        "class": "text-indigo-600 hover:text-indigo-500 underline",
+        "selectors": [
+          "cy.contains(\"a\", \"Manage Cookies\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Log In",
+        "id": "",
+        "class": "text-indigo-600 hover:text-indigo-500",
+        "selectors": [
+          "cy.contains(\"a\", \"Log In\")"
+        ]
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "input",
+        "text": "",
+        "id": "firstName",
+        "name": "firstName",
+        "class": "appearance-none relative block w-full px-3 py-3 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 focus:z-10 sm:text-sm",
+        "selectors": [
+          "#firstName",
+          "input[name=\"firstName\"]"
+        ]
+      },
+      {
+        "tag": "input",
+        "text": "",
+        "id": "lastName",
+        "name": "lastName",
+        "class": "appearance-none relative block w-full px-3 py-3 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 focus:z-10 sm:text-sm",
+        "selectors": [
+          "#lastName",
+          "input[name=\"lastName\"]"
+        ]
+      },
+      {
+        "tag": "input",
+        "text": "",
+        "id": "email",
+        "name": "email",
+        "class": "appearance-none relative block w-full px-3 py-3 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 focus:z-10 sm:text-sm",
+        "selectors": [
+          "#email",
+          "input[name=\"email\"]"
+        ]
+      },
+      {
+        "tag": "input",
+        "text": "",
+        "id": "password",
+        "name": "password",
+        "class": "appearance-none relative block w-full px-3 py-3 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 focus:z-10 sm:text-sm",
+        "selectors": [
+          "#password",
+          "input[name=\"password\"]"
+        ]
+      },
+      {
+        "tag": "input",
+        "text": "",
+        "id": "confirmPassword",
+        "name": "confirmPassword",
+        "class": "appearance-none relative block w-full px-3 py-3 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 focus:z-10 sm:text-sm",
+        "selectors": [
+          "#confirmPassword",
+          "input[name=\"confirmPassword\"]"
+        ]
+      }
+    ],
+    "selects": [],
+    "textareas": [],
+    "menuItems": [],
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "Sign Up",
+        "id": "",
+        "class": "text-3xl sm:text-4xl px-3 md:text-4xl font-bold text-white leading-tight mb-2",
+        "selectors": [
+          "cy.contains(\"h1\", \"Sign Up\")"
+        ]
+      }
+    ],
+    "toggles": [],
+    "other": []
+  },
+  "byPurpose": {
+    "textAssertions": [
+      {
+        "tag": "h1",
+        "text": "Sign Up",
+        "id": "",
+        "class": "text-3xl sm:text-4xl px-3 md:text-4xl font-bold text-white leading-tight mb-2",
+        "selectors": [
+          "cy.contains(\"h1\", \"Sign Up\")"
+        ]
+      }
+    ],
+    "visuals": [
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "logo",
+        "src": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/home_page/logo.svg",
+        "selectors": [
+          "img[alt=\"logo\"]",
+          "img[src=\"https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/home_page/logo.svg\"]"
+        ]
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-handshake ml-6 text-white",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-eye",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-eye",
+        "selectors": []
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "Dashboard Preview",
+        "src": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/_next/image?url=%2FImages%2FGroup1.png&w=1920&q=75",
+        "class": "rounded-lg shadow-2xl h-[90vh] w-auto object-cover object-left my-4",
+        "selectors": [
+          "img[alt=\"Dashboard Preview\"]",
+          "img[src=\"https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/_next/image?url=%2FImages%2FGroup1.png&w=1920&q=75\"]"
+        ]
+      }
+    ],
+    "clickables": [
+      {
+        "tag": "a",
+        "text": "Privacy Policy",
+        "id": "",
+        "class": "text-indigo-600 hover:text-indigo-500 underline",
+        "selectors": [
+          "cy.contains(\"a\", \"Privacy Policy\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Manage Cookies",
+        "id": "",
+        "class": "text-indigo-600 hover:text-indigo-500 underline",
+        "selectors": [
+          "cy.contains(\"a\", \"Manage Cookies\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Create Account",
+        "id": "",
+        "class": "group relative w-full flex justify-center py-3 px-4 border border-transparent text-sm font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 transition-colors duration-200",
+        "selectors": [
+          "cy.contains(\"button\", \"Create Account\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Log In",
+        "id": "",
+        "class": "text-indigo-600 hover:text-indigo-500",
+        "selectors": [
+          "cy.contains(\"a\", \"Log In\")"
+        ]
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "input",
+        "text": "",
+        "id": "firstName",
+        "name": "firstName",
+        "class": "appearance-none relative block w-full px-3 py-3 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 focus:z-10 sm:text-sm",
+        "selectors": [
+          "#firstName",
+          "input[name=\"firstName\"]"
+        ]
+      },
+      {
+        "tag": "input",
+        "text": "",
+        "id": "lastName",
+        "name": "lastName",
+        "class": "appearance-none relative block w-full px-3 py-3 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 focus:z-10 sm:text-sm",
+        "selectors": [
+          "#lastName",
+          "input[name=\"lastName\"]"
+        ]
+      },
+      {
+        "tag": "input",
+        "text": "",
+        "id": "email",
+        "name": "email",
+        "class": "appearance-none relative block w-full px-3 py-3 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 focus:z-10 sm:text-sm",
+        "selectors": [
+          "#email",
+          "input[name=\"email\"]"
+        ]
+      },
+      {
+        "tag": "input",
+        "text": "",
+        "id": "password",
+        "name": "password",
+        "class": "appearance-none relative block w-full px-3 py-3 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 focus:z-10 sm:text-sm",
+        "selectors": [
+          "#password",
+          "input[name=\"password\"]"
+        ]
+      },
+      {
+        "tag": "input",
+        "text": "",
+        "id": "confirmPassword",
+        "name": "confirmPassword",
+        "class": "appearance-none relative block w-full px-3 py-3 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 focus:z-10 sm:text-sm",
+        "selectors": [
+          "#confirmPassword",
+          "input[name=\"confirmPassword\"]"
+        ]
+      }
+    ],
+    "navigation": []
+  },
+  "all": [
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "logo",
+      "src": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/home_page/logo.svg",
+      "selectors": [
+        "img[alt=\"logo\"]",
+        "img[src=\"https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/home_page/logo.svg\"]"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-handshake ml-6 text-white",
+      "selectors": []
+    },
+    {
+      "tag": "h1",
+      "text": "Sign Up",
+      "id": "",
+      "class": "text-3xl sm:text-4xl px-3 md:text-4xl font-bold text-white leading-tight mb-2",
+      "selectors": [
+        "cy.contains(\"h1\", \"Sign Up\")"
+      ]
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "id": "firstName",
+      "name": "firstName",
+      "class": "appearance-none relative block w-full px-3 py-3 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 focus:z-10 sm:text-sm",
+      "selectors": [
+        "#firstName",
+        "input[name=\"firstName\"]"
+      ]
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "id": "lastName",
+      "name": "lastName",
+      "class": "appearance-none relative block w-full px-3 py-3 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 focus:z-10 sm:text-sm",
+      "selectors": [
+        "#lastName",
+        "input[name=\"lastName\"]"
+      ]
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "id": "email",
+      "name": "email",
+      "class": "appearance-none relative block w-full px-3 py-3 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 focus:z-10 sm:text-sm",
+      "selectors": [
+        "#email",
+        "input[name=\"email\"]"
+      ]
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "id": "password",
+      "name": "password",
+      "class": "appearance-none relative block w-full px-3 py-3 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 focus:z-10 sm:text-sm",
+      "selectors": [
+        "#password",
+        "input[name=\"password\"]"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-eye",
+      "selectors": []
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "id": "confirmPassword",
+      "name": "confirmPassword",
+      "class": "appearance-none relative block w-full px-3 py-3 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 focus:z-10 sm:text-sm",
+      "selectors": [
+        "#confirmPassword",
+        "input[name=\"confirmPassword\"]"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-eye",
+      "selectors": []
+    },
+    {
+      "tag": "a",
+      "text": "Privacy Policy",
+      "id": "",
+      "class": "text-indigo-600 hover:text-indigo-500 underline",
+      "selectors": [
+        "cy.contains(\"a\", \"Privacy Policy\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Manage Cookies",
+      "id": "",
+      "class": "text-indigo-600 hover:text-indigo-500 underline",
+      "selectors": [
+        "cy.contains(\"a\", \"Manage Cookies\")"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Create Account",
+      "id": "",
+      "class": "group relative w-full flex justify-center py-3 px-4 border border-transparent text-sm font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 transition-colors duration-200",
+      "selectors": [
+        "cy.contains(\"button\", \"Create Account\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Log In",
+      "id": "",
+      "class": "text-indigo-600 hover:text-indigo-500",
+      "selectors": [
+        "cy.contains(\"a\", \"Log In\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "Dashboard Preview",
+      "src": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/_next/image?url=%2FImages%2FGroup1.png&w=1920&q=75",
+      "class": "rounded-lg shadow-2xl h-[90vh] w-auto object-cover object-left my-4",
+      "selectors": [
+        "img[alt=\"Dashboard Preview\"]",
+        "img[src=\"https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/_next/image?url=%2FImages%2FGroup1.png&w=1920&q=75\"]"
+      ]
+    }
+  ]
+}

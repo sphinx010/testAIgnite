@@ -30,22 +30,29 @@ npm install
 ```
 
 ### Running the Automation
-Standardized commands are available to run the tests and view results.
+Environments are isolated per run. Choose an env file from `cypress/config/*.env.json` (e.g., `landing`, `admin`, `audit-firm`, `client`, `prod`, `staging`). If no environment is provided, Cypress will throw to prevent accidental cross-environment leakage.
 
-- Execute Full Test Suite with AI Analysis (Chrome):
-  Runs all tests, uses AI to analyze failures, and generates a visual report.
+- Run a full suite with AI analysis for one environment (example: landing):
   ```bash
-  npm run test:AIgnite
+  set CYPRESS_ENVIRONMENT=landing && npm run report:full   # PowerShell/CMD
+  # or
+  npm run cy:run -- --env environment=landing
+  npm run ai:ignite
+  npm run report:html
   ```
 
-- Perform AI Diagnostic Analysis:
-  Analyze results from a previous run without rerunning the tests.
+- Run all environments in one command (outputs saved under `cypress/reports_by_env/<env>/`):
+  ```bash
+  npm run report:full:all
+  ```
+  To target a subset, pass env names: `node scripts/runAllEnvs.js landing admin`.
+
+- Perform AI Diagnostic Analysis without rerunning tests:
   ```bash
   npm run ai:ignite
   ```
 
 - View the Results Report:
-  Opens the dashboard in your web browser.
   ```bash
   npm run report:open
   ```

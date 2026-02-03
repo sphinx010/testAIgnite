@@ -1,0 +1,414 @@
+{
+  "meta": {
+    "url": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/login",
+    "harvestedAt": "2026-02-03T13:00:28.870Z",
+    "rootSelector": "body"
+  },
+  "byCategory": {
+    "images": [
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "logo",
+        "src": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/home_page/logo.svg",
+        "selectors": [
+          "img[alt=\"logo\"]",
+          "img[src=\"https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/home_page/logo.svg\"]"
+        ]
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "Dashboard Preview",
+        "src": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/_next/image?url=%2FImages%2FGroup1.png&w=1920&q=75",
+        "class": "rounded-lg shadow-2xl h-[90vh] w-auto object-cover object-left my-4",
+        "selectors": [
+          "img[alt=\"Dashboard Preview\"]",
+          "img[src=\"https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/_next/image?url=%2FImages%2FGroup1.png&w=1920&q=75\"]"
+        ]
+      }
+    ],
+    "svgs": [
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-lock w-5 h-5 text-white",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-eye w-4 h-4",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "w-4 h-4 cursor-pointer",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "w-4 h-4 cursor-pointer",
+        "selectors": []
+      }
+    ],
+    "buttons": [
+      {
+        "tag": "button",
+        "text": "Log In",
+        "id": "",
+        "class": "w-full py-3 bg-[#4F46E5] text-white rounded-xl font-medium hover:bg-[#4338CA] transition-colors disabled:opacity-70",
+        "selectors": [
+          "cy.contains(\"button\", \"Log In\")"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "tag": "a",
+        "text": "Sign up",
+        "id": "",
+        "class": "text-[#4F46E5] hover:underline",
+        "selectors": [
+          "cy.contains(\"a\", \"Sign up\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Reset",
+        "id": "",
+        "class": "text-[#4F46E5] hover:underline cursor-pointer",
+        "selectors": [
+          "cy.contains(\"a\", \"Reset\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Privacy Policy",
+        "id": "",
+        "class": "flex flex-row items-center gap-1",
+        "selectors": [
+          "cy.contains(\"a\", \"Privacy Policy\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Manage Cookies",
+        "id": "",
+        "class": "flex flex-row items-center gap-1",
+        "selectors": [
+          "cy.contains(\"a\", \"Manage Cookies\")"
+        ]
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "input",
+        "text": "",
+        "id": "",
+        "placeholder": "Your email",
+        "class": "flex border border-input text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-50 w-full p-3 bg-transparent rounded-xl text-white focus:outline-none focus:ring-1 focus:ring-white/20",
+        "selectors": [
+          "input[placeholder=\"Your email\"]"
+        ]
+      },
+      {
+        "tag": "input",
+        "text": "",
+        "id": "",
+        "placeholder": "Your password",
+        "class": "flex border border-input text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-50 w-full p-3 bg-transparent rounded-xl text-white focus:outline-none focus:ring-1",
+        "selectors": [
+          "input[placeholder=\"Your password\"]"
+        ]
+      }
+    ],
+    "selects": [],
+    "textareas": [],
+    "menuItems": [],
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "Sign In",
+        "id": "",
+        "class": "text-3xl sm:text-4xl md:text-4xl font-bold text-white leading-tight",
+        "selectors": [
+          "cy.contains(\"h1\", \"Sign In\")"
+        ]
+      }
+    ],
+    "toggles": [],
+    "other": []
+  },
+  "byPurpose": {
+    "textAssertions": [
+      {
+        "tag": "h1",
+        "text": "Sign In",
+        "id": "",
+        "class": "text-3xl sm:text-4xl md:text-4xl font-bold text-white leading-tight",
+        "selectors": [
+          "cy.contains(\"h1\", \"Sign In\")"
+        ]
+      }
+    ],
+    "visuals": [
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "logo",
+        "src": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/home_page/logo.svg",
+        "selectors": [
+          "img[alt=\"logo\"]",
+          "img[src=\"https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/home_page/logo.svg\"]"
+        ]
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-lock w-5 h-5 text-white",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-eye w-4 h-4",
+        "selectors": []
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "Dashboard Preview",
+        "src": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/_next/image?url=%2FImages%2FGroup1.png&w=1920&q=75",
+        "class": "rounded-lg shadow-2xl h-[90vh] w-auto object-cover object-left my-4",
+        "selectors": [
+          "img[alt=\"Dashboard Preview\"]",
+          "img[src=\"https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/_next/image?url=%2FImages%2FGroup1.png&w=1920&q=75\"]"
+        ]
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "w-4 h-4 cursor-pointer",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "w-4 h-4 cursor-pointer",
+        "selectors": []
+      }
+    ],
+    "clickables": [
+      {
+        "tag": "button",
+        "text": "Log In",
+        "id": "",
+        "class": "w-full py-3 bg-[#4F46E5] text-white rounded-xl font-medium hover:bg-[#4338CA] transition-colors disabled:opacity-70",
+        "selectors": [
+          "cy.contains(\"button\", \"Log In\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Sign up",
+        "id": "",
+        "class": "text-[#4F46E5] hover:underline",
+        "selectors": [
+          "cy.contains(\"a\", \"Sign up\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Reset",
+        "id": "",
+        "class": "text-[#4F46E5] hover:underline cursor-pointer",
+        "selectors": [
+          "cy.contains(\"a\", \"Reset\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Privacy Policy",
+        "id": "",
+        "class": "flex flex-row items-center gap-1",
+        "selectors": [
+          "cy.contains(\"a\", \"Privacy Policy\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Manage Cookies",
+        "id": "",
+        "class": "flex flex-row items-center gap-1",
+        "selectors": [
+          "cy.contains(\"a\", \"Manage Cookies\")"
+        ]
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "input",
+        "text": "",
+        "id": "",
+        "placeholder": "Your email",
+        "class": "flex border border-input text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-50 w-full p-3 bg-transparent rounded-xl text-white focus:outline-none focus:ring-1 focus:ring-white/20",
+        "selectors": [
+          "input[placeholder=\"Your email\"]"
+        ]
+      },
+      {
+        "tag": "input",
+        "text": "",
+        "id": "",
+        "placeholder": "Your password",
+        "class": "flex border border-input text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-50 w-full p-3 bg-transparent rounded-xl text-white focus:outline-none focus:ring-1",
+        "selectors": [
+          "input[placeholder=\"Your password\"]"
+        ]
+      }
+    ],
+    "navigation": []
+  },
+  "all": [
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "logo",
+      "src": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/home_page/logo.svg",
+      "selectors": [
+        "img[alt=\"logo\"]",
+        "img[src=\"https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/home_page/logo.svg\"]"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-lock w-5 h-5 text-white",
+      "selectors": []
+    },
+    {
+      "tag": "h1",
+      "text": "Sign In",
+      "id": "",
+      "class": "text-3xl sm:text-4xl md:text-4xl font-bold text-white leading-tight",
+      "selectors": [
+        "cy.contains(\"h1\", \"Sign In\")"
+      ]
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "id": "",
+      "placeholder": "Your email",
+      "class": "flex border border-input text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-50 w-full p-3 bg-transparent rounded-xl text-white focus:outline-none focus:ring-1 focus:ring-white/20",
+      "selectors": [
+        "input[placeholder=\"Your email\"]"
+      ]
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "id": "",
+      "placeholder": "Your password",
+      "class": "flex border border-input text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-50 w-full p-3 bg-transparent rounded-xl text-white focus:outline-none focus:ring-1",
+      "selectors": [
+        "input[placeholder=\"Your password\"]"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-eye w-4 h-4",
+      "selectors": []
+    },
+    {
+      "tag": "button",
+      "text": "Log In",
+      "id": "",
+      "class": "w-full py-3 bg-[#4F46E5] text-white rounded-xl font-medium hover:bg-[#4338CA] transition-colors disabled:opacity-70",
+      "selectors": [
+        "cy.contains(\"button\", \"Log In\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Sign up",
+      "id": "",
+      "class": "text-[#4F46E5] hover:underline",
+      "selectors": [
+        "cy.contains(\"a\", \"Sign up\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Reset",
+      "id": "",
+      "class": "text-[#4F46E5] hover:underline cursor-pointer",
+      "selectors": [
+        "cy.contains(\"a\", \"Reset\")"
+      ]
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "Dashboard Preview",
+      "src": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/_next/image?url=%2FImages%2FGroup1.png&w=1920&q=75",
+      "class": "rounded-lg shadow-2xl h-[90vh] w-auto object-cover object-left my-4",
+      "selectors": [
+        "img[alt=\"Dashboard Preview\"]",
+        "img[src=\"https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/_next/image?url=%2FImages%2FGroup1.png&w=1920&q=75\"]"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Privacy Policy",
+      "id": "",
+      "class": "flex flex-row items-center gap-1",
+      "selectors": [
+        "cy.contains(\"a\", \"Privacy Policy\")"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "w-4 h-4 cursor-pointer",
+      "selectors": []
+    },
+    {
+      "tag": "a",
+      "text": "Manage Cookies",
+      "id": "",
+      "class": "flex flex-row items-center gap-1",
+      "selectors": [
+        "cy.contains(\"a\", \"Manage Cookies\")"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "w-4 h-4 cursor-pointer",
+      "selectors": []
+    }
+  ]
+}
