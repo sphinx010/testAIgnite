@@ -1,0 +1,51 @@
+[
+  {
+    "ts": "2026-02-03T14:47:24.940Z",
+    "sha": "539940b624ac75399152301b1de6e5469ee9dc7e",
+    "runId": "21634693134",
+    "repo": "sphinx010/testAIgnite",
+    "tests": 33,
+    "passes": 21,
+    "failures": 12,
+    "pending": 0,
+    "durationSec": 117,
+    "passRate": 64,
+    "passedTests": [
+      "TC-SET-01: Dynamic Industry Propagation Logic",
+      "TC-SET-02: Multi-level Org Hierarchy Persistence",
+      "TC-SET-05: Administrative Logic Gate (Deletions)",
+      "TC-ORG-01: Verify Admin Dashboard",
+      "TC-ORG-02: Invite New User",
+      "TC-ORG-03: Compliance Status Tracking",
+      "TC-LPF-12: [MOBILE] Responsive Layout & Hamburger Menu",
+      "TC-EV-01: Evidence Versioning (Overwrite Logic)",
+      "TC-EV-02: Multi-input Response Persistence",
+      "TC-EV-04: Automated Audit Trail Logging",
+      "TC-AUR-01: Dashboard Data Accuracy (Functional Sync)",
+      "TC-AUR-02: Functional Navigation to Audit Workspace",
+      "TC-AUR-04: Scoring Logic & Persistence",
+      "TC-AUD-01: Bi-directional Chat Communication",
+      "TC-AUD-02: Document Exchange via Chat",
+      "TC-AUD-03: Session Refresh & Data Persistence",
+      "TC-AUD-04: Real-time Notification Triggering",
+      "TC-AF-01: Firm-wide Dashboard Aggregation",
+      "TC-AF-02: Deadline State Logic (Overdue vs. Due Today)",
+      "TC-AF-03: Functional Standard Filtering",
+      "TC-AF-04: Centralized Activity Trail Retrieval"
+    ],
+    "failedTests": [
+      "TC-LPF-01: [NAV] RegTech365 Solutions = RegComply & RegLearn",
+      "TC-LPF-02: [NAV]RegTech365 Solutions = RegWatch & RegPort",
+      "TC-LPF-03: [NAV] RegTech365 Packages",
+      "TC-LPF-04:[NAV] RegTech365 Blog",
+      "TC-LPF-05:[BUTTON] RegTech365 Pricing",
+      "TC-LPF-06: [LINKS] TALK TO US",
+      "TC-LPF-07: [LINKS] EXPLORE OUR SOLUTIONS",
+      "TC-LPF-08: [LINKS] CONSULT WITH A SPECIALIST",
+      "TC-LPF-09: [BUTTON] BOOK YOUR DEMO NOW",
+      "TC-LPF-10: [BUTTON] SIGN IN NAVIGATION",
+      "TC-LPF-11: [LINKS] FOOTER PRIVACY POLICY",
+      "TC-SU-LI-02: Successful registration"
+    ]
+  }
+]

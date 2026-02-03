@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="560" viewBox="0 0 600 560">
+    <defs>
+      <clipPath id="clipText">
+        <rect x="25" y="0" width="540" height="30" />
+      </clipPath>
+    </defs>
+    <rect x="0" y="0" width="600" height="560" rx="12" fill="#0b1220" />
+    <rect x="10" y="10" width="580" height="540" rx="10" fill="#0f1a2e" />
+    
+    <text x="20" y="42" fill="#ffffff" font-size="20" font-weight="800" font-family="Segoe UI, system-ui, sans-serif">CI Status: Reflective Insights</text>
+    <line x1="20" y1="52" x2="580" y2="52" stroke="#9ca3af" stroke-width="0.5" opacity="0.3" />
+
+    
+      <g transform="translate(20, 60)">
+        <text x="0" y="20" fill="#ef4444" font-size="16" font-weight="700" font-family="Segoe UI, system-ui, sans-serif">×</text>
+        <text x="25" y="20" fill="#ef4444" font-size="14" font-family="Segoe UI, system-ui, sans-serif" clip-path="url(#clipText)">TC-LPF-01: [NAV] RegTech365 Solutions = RegComply & RegLearn</text>
+      </g>
+    
+      <g transform="translate(20, 92)">
+        <text x="0" y="20" fill="#ef4444" font-size="16" font-weight="700" font-family="Segoe UI, system-ui, sans-serif">×</text>
+        <text x="25" y="20" fill="#ef4444" font-size="14" font-family="Segoe UI, system-ui, sans-serif" clip-path="url(#clipText)">TC-LPF-02: [NAV]RegTech365 Solutions = RegWatch & RegPort</text>
+      </g>
+    
+      <g transform="translate(20, 124)">
+        <text x="0" y="20" fill="#ef4444" font-size="16" font-weight="700" font-family="Segoe UI, system-ui, sans-serif">×</text>
+        <text x="25" y="20" fill="#ef4444" font-size="14" font-family="Segoe UI, system-ui, sans-serif" clip-path="url(#clipText)">TC-LPF-03: [NAV] RegTech365 Packages</text>
+      </g>
+    
+      <g transform="translate(20, 156)">
+        <text x="0" y="20" fill="#ef4444" font-size="16" font-weight="700" font-family="Segoe UI, system-ui, sans-serif">×</text>
+        <text x="25" y="20" fill="#ef4444" font-size="14" font-family="Segoe UI, system-ui, sans-serif" clip-path="url(#clipText)">TC-LPF-04:[NAV] RegTech365 Blog</text>
+      </g>
+    
+      <g transform="translate(20, 188)">
+        <text x="0" y="20" fill="#ef4444" font-size="16" font-weight="700" font-family="Segoe UI, system-ui, sans-serif">×</text>
+        <text x="25" y="20" fill="#ef4444" font-size="14" font-family="Segoe UI, system-ui, sans-serif" clip-path="url(#clipText)">TC-LPF-05:[BUTTON] RegTech365 Pricing</text>
+      </g>
+    
+      <g transform="translate(20, 220)">
+        <text x="0" y="20" fill="#ef4444" font-size="16" font-weight="700" font-family="Segoe UI, system-ui, sans-serif">×</text>
+        <text x="25" y="20" fill="#ef4444" font-size="14" font-family="Segoe UI, system-ui, sans-serif" clip-path="url(#clipText)">TC-LPF-06: [LINKS] TALK TO US</text>
+      </g>
+    
+      <g transform="translate(20, 252)">
+        <text x="0" y="20" fill="#ef4444" font-size="16" font-weight="700" font-family="Segoe UI, system-ui, sans-serif">×</text>
+        <text x="25" y="20" fill="#ef4444" font-size="14" font-family="Segoe UI, system-ui, sans-serif" clip-path="url(#clipText)">TC-LPF-07: [LINKS] EXPLORE OUR SOLUTIONS</text>
+      </g>
+    
+      <g transform="translate(20, 284)">
+        <text x="0" y="20" fill="#ef4444" font-size="16" font-weight="700" font-family="Segoe UI, system-ui, sans-serif">×</text>
+        <text x="25" y="20" fill="#ef4444" font-size="14" font-family="Segoe UI, system-ui, sans-serif" clip-path="url(#clipText)">TC-LPF-08: [LINKS] CONSULT WITH A SPECIALIST</text>
+      </g>
+    
+      <g transform="translate(20, 316)">
+        <text x="0" y="20" fill="#ef4444" font-size="16" font-weight="700" font-family="Segoe UI, system-ui, sans-serif">×</text>
+        <text x="25" y="20" fill="#ef4444" font-size="14" font-family="Segoe UI, system-ui, sans-serif" clip-path="url(#clipText)">TC-LPF-09: [BUTTON] BOOK YOUR DEMO NOW</text>
+      </g>
+    
+      <g transform="translate(20, 348)">
+        <text x="0" y="20" fill="#ef4444" font-size="16" font-weight="700" font-family="Segoe UI, system-ui, sans-serif">×</text>
+        <text x="25" y="20" fill="#ef4444" font-size="14" font-family="Segoe UI, system-ui, sans-serif" clip-path="url(#clipText)">TC-LPF-10: [BUTTON] SIGN IN NAVIGATION</text>
+      </g>
+    
+      <g transform="translate(20, 380)">
+        <text x="0" y="20" fill="#ef4444" font-size="16" font-weight="700" font-family="Segoe UI, system-ui, sans-serif">×</text>
+        <text x="25" y="20" fill="#ef4444" font-size="14" font-family="Segoe UI, system-ui, sans-serif" clip-path="url(#clipText)">TC-LPF-11: [LINKS] FOOTER PRIVACY POLICY</text>
+      </g>
+    
+      <g transform="translate(20, 412)">
+        <text x="0" y="20" fill="#ef4444" font-size="16" font-weight="700" font-family="Segoe UI, system-ui, sans-serif">×</text>
+        <text x="25" y="20" fill="#ef4444" font-size="14" font-family="Segoe UI, system-ui, sans-serif" clip-path="url(#clipText)">TC-SU-LI-02: Successful registration</text>
+      </g>
+    
+      <g transform="translate(20, 444)">
+        <text x="0" y="20" fill="#ffffff" font-size="16" font-weight="700" font-family="Segoe UI, system-ui, sans-serif">✓</text>
+        <text x="25" y="20" fill="#ffffff" font-size="14" font-family="Segoe UI, system-ui, sans-serif" clip-path="url(#clipText)">TC-SET-01: Dynamic Industry Propagation Logic</text>
+      </g>
+    
+      <g transform="translate(20, 476)">
+        <text x="0" y="20" fill="#ffffff" font-size="16" font-weight="700" font-family="Segoe UI, system-ui, sans-serif">✓</text>
+        <text x="25" y="20" fill="#ffffff" font-size="14" font-family="Segoe UI, system-ui, sans-serif" clip-path="url(#clipText)">TC-SET-02: Multi-level Org Hierarchy Persistence</text>
+      </g>
+    
+      <g transform="translate(20, 508)">
+        <text x="0" y="20" fill="#ffffff" font-size="16" font-weight="700" font-family="Segoe UI, system-ui, sans-serif">✓</text>
+        <text x="25" y="20" fill="#ffffff" font-size="14" font-family="Segoe UI, system-ui, sans-serif" clip-path="url(#clipText)">TC-SET-05: Administrative Logic Gate (Deletions)</text>
+      </g>
+    
+
+    <text x="580" y="545" text-anchor="end" fill="#9ca3af" font-size="10" font-family="Segoe UI">Generated by AIgnite Framework</text>
+  </svg>
