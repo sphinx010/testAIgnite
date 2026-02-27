@@ -162,9 +162,52 @@
     }
   },
   "dashboard": {
-    "sidebar": {},
-    "header": {},
-    "summaryCards": {}
+    "sidebar": {
+      "dashboardBtn": ["button", "Dashboard"],
+      "riskBtn": ["button", "Risk management"],
+      "taskBtn": ["button", "Task management"],
+      "documentBtn": ["button", "Document management"],
+      "complianceBtn": ["button", "Compliance"],
+      "audits": [ ".space-y-1 > .bg-global-foreground\/50","Audits"], 
+      "frameworks": [".space-y-1 > .text-gray-300","Frameworks"],
+      "knowledgeBtn": ["button", "Knowledge management"],
+      "organizationLink": ["a", "My organization"],
+      "settingsLink": ["a", "Settings"],
+      "upgradeBtn": ["button", "Upgrade 💎"],
+      "logoutBtn": ["button", "Log Out"]
+    },
+    "audits": {
+      "newAudit": [".space-y-4 > .justify-between > .inline-flex", "New Audit"],
+      "search": [".justify-between.px-3 > div > .flex", "search"],
+      "overview": [".flex > :nth-child(1) > .py-2", "Overview"],
+      "active":["nav > .flex > :nth-child(2) > .py-2", "Active"],
+      "completed":[":nth-child(3) > .py-2", "Completed"],
+      "startGuide": [".bg-green-500", "Start Guide"],
+      "auditRequest": [ "[class*='lg:grid-cols-4'] > :nth-child(1)",  "Audit Request"],
+      "ongingAudits": [ "[class*='lg:grid-cols-4'] > :nth-child(2)", "Ongoing Audits"],
+      "completedAudits": [ "[class*='lg:grid-cols-4'] > :nth-child(3)", "Completed Audits"],
+      "activeAuditors": [ "[class*='lg:grid-cols-4'] > :nth-child(4)", "Active Auditors"],
+      "frameWorkProgress": [".gap-4", "Framework Progress"],
+      "audits": [ "[class*='lg:grid-cols-3'] > :nth-child(2)", "Audits"]
+    },
+    "actions": {
+      "printReport": ["button", "Print Report"],
+      "standardsFilter": ["button", "All standards"],
+      "viewAllTasks": ["a", "View All Tasks"]
+    },
+    "assertions": {
+      "welcomeHeading": ["h2", "Your dashboard"],
+      "riskMatrixHeading": ["h2", "Risk Matrix Classification"],
+      "userProfile": ["a", "Wayne Bridgefundverse@mailinator.com"]
+    },
+    "summaryCards": {
+      "activeAudits": ["h3", "Active Audits"],
+      "pendingTasks": ["h3", "Pending Tasks"],
+      "complianceScore": ["h3", "Compliance Score"]
+    },
+    "brand": {
+      "logo": "img[alt=\"logo\"]"
+    }
   },
   "audit": {
     "chat": {},
