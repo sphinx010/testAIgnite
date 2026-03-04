@@ -1,0 +1,52 @@
+[
+  {
+    "ts": "2026-03-04T20:38:04.442Z",
+    "sha": "c4749c7cc7b6f9661706f425ae5f6e2d4f094d4e",
+    "runId": "22686944686",
+    "repo": "sphinx010/testAIgnite",
+    "tests": 34,
+    "passes": 1,
+    "failures": 33,
+    "pending": 0,
+    "durationSec": 1628,
+    "passRate": 3,
+    "passedTests": [
+      "TC-LPF-12: [MOBILE] Responsive Layout & Hamburger Menu"
+    ],
+    "failedTests": [
+      "TC-SET-01: Dynamic Industry Propagation Logic",
+      "TC-SET-02: Multi-level Org Hierarchy Persistence",
+      "TC-SET-03: User Role Provisioning & Validation",
+      "TC-SET-04: Functional Service-Industry Filtering",
+      "TC-SET-05: Administrative Logic Gate (Deletions)",
+      "Harvest selectors -  Dasboard page",
+      "TC-LP-01: Global Navigation & Branding Integrity",
+      "TC-LP-02: Hero Section & Primary CTAs",
+      "TC-LP-03: Solutions Cards & Interactive Content",
+      "TC-LP-04: Credibility (Trust Metrics & Certifications)",
+      "TC-LP-05: Footer Navigation & Contact Details",
+      "TC-LPF-01: [NAV] RegTech365 Solutions = RegComply & RegLearn",
+      "TC-LPF-02: [NAV]RegTech365 Solutions = RegWatch & RegPort",
+      "TC-LPF-03: [NAV] RegTech365 Packages",
+      "TC-LPF-04:[NAV] RegTech365 Blog",
+      "TC-LPF-05:[BUTTON] RegTech365 Pricing",
+      "TC-LPF-06: [LINKS] TALK TO US",
+      "TC-LPF-07: [LINKS] EXPLORE OUR SOLUTIONS",
+      "TC-LPF-08: [LINKS] CONSULT WITH A SPECIALIST",
+      "TC-LPF-09: [BUTTON] BOOK YOUR DEMO NOW",
+      "TC-LPF-10: [BUTTON] SIGN IN NAVIGATION",
+      "TC-LPF-11: [LINKS] FOOTER PRIVACY POLICY",
+      "TC-DEMO-LI: Verify Book a Demo page loads",
+      "TC-AUR-01: Dashboard Data Accuracy (Functional Sync)",
+      "TC-AUR-02: Functional Navigation to Audit Workspace",
+      "TC-AUR-03: Evidence Review & Retrieval",
+      "TC-AUR-04: Scoring Logic & Persistence",
+      "TC-AUR-05: Dynamic Progress Calculation",
+      "TC-AUD-01: Dashboard Overview Loads successfully",
+      "1. Should login successfully and display the Dashboard",
+      "2. Should navigate to Tasks and assert empty state",
+      "3. Should manage team by locating Invite button and viewing an Auditor",
+      "4. Should complete the Audit Campaign (CBN Audits) invitation flow"
+    ]
+  }
+]
