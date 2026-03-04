@@ -30,32 +30,54 @@ npm install
 ```
 
 ### Running the Automation
-Environments are isolated per run. Choose an env file from `cypress/config/*.env.json` (e.g., `landing`, `admin`, `audit-firm`, `client`, `prod`, `staging`). If no environment is provided, Cypress will throw to prevent accidental cross-environment leakage.
+Environments are isolated per run. Each environment configuration (see `cypress/config/*.env.json`) now includes a `specPattern` that maps specific test files to that environment. 
 
-- Run a full suite with AI analysis for one environment (example: landing):
+#### Running Specific Suites
+To run only the tests associated with a specific environment (e.g., `auth-demo` or `landing`), use the `--env` flag. The framework will automatically detect the environment and load only the relevant spec files.
+
+- **Recommended Syntax (npm)**:
   ```bash
-  set CYPRESS_ENVIRONMENT=landing && npm run report:full   # PowerShell/CMD
-  # or
-  npm run cy:run -- --env environment=landing
-  npm run ai:ignite
+  npm run cy:run -- --env auth-demo
+  ```
+  *(Note: The `--` is required to pass arguments correctly through npm)*
+
+- **Explicit Syntax**:
+  ```bash
+  npm run cy:run -- --env environment=auth-demo
+  ```
+
+#### AI Diagnostics & HTML Reporting
+After a test finishes, you can trigger the AI to analyze the raw JSON results and compile a final HTML report:
+
+- **1. Run AI Enrichment**:
+  ```bash
+  npm run report:ai 
+  ```
+  *(or `npm run ai:ignite`)*
+
+- **2. Compile the HTML Report**:
+  ```bash
   npm run report:html
   ```
 
-- Run all environments in one command (outputs saved under `cypress/reports_by_env/<env>/`):
-  ```bash
-  npm run report:full:all
-  ```
-  To target a subset, pass env names: `node scripts/runAllEnvs.js landing admin`.
-
-- Perform AI Diagnostic Analysis without rerunning tests:
-  ```bash
-  npm run ai:ignite
-  ```
-
-- View the Results Report:
+- **3. View the Results**:
   ```bash
   npm run report:open
   ```
+
+#### All-In-One Execution (The Golden Command)
+To run Cypress tests, pass the results to the AI for analysis, build the HTML report, and generate charts all in one single sequence, run:
+```bash
+npm run test:AIgnite
+```
+*(or `npm run report:full`)*
+
+#### Multi-Environment Execution
+- Run all environments sequentially (outputs saved under `cypress/reports_by_env/<env>/`):
+  ```bash
+  npm run report:full:all
+  ```
+  *(To target a subset, pass env names: `node scripts/runAllEnvs.js landing admin`)*
 
 ## Design Patterns and System Logic
 

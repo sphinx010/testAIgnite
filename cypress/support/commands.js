@@ -65,7 +65,7 @@ Cypress.Commands.add("getSelector", (keyPath, options = {}) => {
   }
 
   return chain
-    .should("have.length.at.least", 1) // Changed from exact 1 to at least 1 for flexibility
+    .should("have.length.at.least", 1)
     .then(($el) => {
       // If multiple found, pick the first one purely for interaction safety
       const $target = $el.length > 1 ? $el.first() : $el;

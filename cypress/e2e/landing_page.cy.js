@@ -48,7 +48,7 @@ describe("Suite 1: Landing Page - None Functional Tests", () => {
 });
 
 //      FUNCTIONAL TESTS     
-describe.only('Suite 2: Landing Page Functionality Tests', () => {
+describe('Suite 2: Landing Page Functionality Tests', () => {
   beforeEach(() => {
     cy.visit("/");
   })

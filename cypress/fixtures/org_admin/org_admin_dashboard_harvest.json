@@ -1,0 +1,934 @@
+{
+  "meta": {
+    "url": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/dashboard",
+    "harvestedAt": "2026-02-07T19:20:27.264Z",
+    "rootSelector": "body"
+  },
+  "byCategory": {
+    "images": [
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "logo",
+        "src": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/home_page/logo.svg",
+        "class": "w-12",
+        "selectors": [
+          "img[alt=\"logo\"]",
+          "img[src=\"https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/home_page/logo.svg\"]"
+        ]
+      }
+    ],
+    "svgs": [
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-x h-4 w-4",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-layout-dashboard",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-list-todo",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-brain",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-settings",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "text-muted-foreground",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "w-5 h-5",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-chevron-left h-5 w-5 text-white",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-chevron-down h-4 w-4 opacity-50",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-loader w-6 h-6 animate-spin text-darkBlue",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-chevron-left h-4 w-4",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-chevron-right h-4 w-4",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-loader-circle h-6 w-6 animate-spin text-darkBlue",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-loader-circle h-6 w-6 animate-spin text-darkBlue",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-loader w-6 h-6 animate-spin text-darkBlue",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-circle-alert animate-pulse text-white fill-red-500",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-loader w-6 h-6 animate-spin text-darkBlue",
+        "selectors": []
+      }
+    ],
+    "buttons": [
+      {
+        "tag": "button",
+        "text": "Dashboard",
+        "id": "",
+        "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-sm cursor-pointer text-white bg-global-foreground/50",
+        "selectors": [
+          "cy.contains(\"button\", \"Dashboard\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Risk management",
+        "id": "",
+        "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-gray-300 text-sm cursor-pointer",
+        "selectors": [
+          "cy.contains(\"button\", \"Risk management\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Task management",
+        "id": "",
+        "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-gray-300 text-sm cursor-pointer",
+        "selectors": [
+          "cy.contains(\"button\", \"Task management\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Document management",
+        "id": "",
+        "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-gray-300 text-sm cursor-pointer",
+        "selectors": [
+          "cy.contains(\"button\", \"Document management\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Compliance",
+        "id": "",
+        "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-gray-300 text-sm cursor-pointer",
+        "selectors": [
+          "cy.contains(\"button\", \"Compliance\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Knowledge management",
+        "id": "",
+        "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-gray-300 text-sm cursor-pointer",
+        "selectors": [
+          "cy.contains(\"button\", \"Knowledge management\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Upgrade 💎",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground h-10 px-4 py-2 rounded bg-global-foreground hover:bg-global-foreground/90 transition-colors",
+        "selectors": [
+          "cy.contains(\"button\", \"Upgrade 💎\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Log Out",
+        "id": "",
+        "class": "items-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground h-10 px-4 py-2 rounded bg-transparent hover:bg-transparent flex gap-6 justify-start",
+        "selectors": [
+          "cy.contains(\"button\", \"Log Out\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Print Report",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground h-10 px-4 py-2 rounded bg-darkBlue hover:bg-darkBlue/90 transition-all duration-300",
+        "selectors": [
+          "cy.contains(\"button\", \"Print Report\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "role": "combobox",
+        "text": "All standards",
+        "id": "",
+        "class": "flex h-10 items-center justify-between rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-muted-foreground disabled:cursor-not-allowed disabled:opacity-50 [&>span]:line-clamp-1 w-[170px]",
+        "selectors": [
+          "cy.contains(\"button\", \"All standards\")"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "tag": "a",
+        "text": "My organization",
+        "id": "",
+        "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-gray-300 text-sm",
+        "selectors": [
+          "cy.contains(\"a\", \"My organization\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Settings",
+        "id": "",
+        "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-gray-300 text-sm",
+        "selectors": [
+          "cy.contains(\"a\", \"Settings\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Wayne Bridgefundverse@mailinator.com",
+        "id": "",
+        "selectors": [
+          "cy.contains(\"a\", \"Wayne Bridgefundverse@mailinator.com\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "View All Tasks",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground px-4 py-2 rounded w-full bg-darkBlue hover:bg-darkBlue/90 transition-all shadow-md font-bold uppercase tracking-widest text-xs h-11",
+        "selectors": [
+          "cy.contains(\"a\", \"View All Tasks\")"
+        ]
+      }
+    ],
+    "inputs": [],
+    "selects": [],
+    "textareas": [],
+    "menuItems": [],
+    "headings": [
+      {
+        "tag": "h2",
+        "text": "Your dashboard",
+        "id": "",
+        "class": "text-2xl text-darkBlue font-semibold font-grotesk",
+        "selectors": [
+          "cy.contains(\"h2\", \"Your dashboard\")"
+        ]
+      },
+      {
+        "tag": "h2",
+        "text": "Risk Matrix Classification",
+        "id": "",
+        "class": "text-lg font-medium text-[#1B2056]",
+        "selectors": [
+          "cy.contains(\"h2\", \"Risk Matrix Classification\")"
+        ]
+      }
+    ],
+    "toggles": [],
+    "other": []
+  },
+  "byPurpose": {
+    "textAssertions": [
+      {
+        "tag": "h2",
+        "text": "Your dashboard",
+        "id": "",
+        "class": "text-2xl text-darkBlue font-semibold font-grotesk",
+        "selectors": [
+          "cy.contains(\"h2\", \"Your dashboard\")"
+        ]
+      },
+      {
+        "tag": "h2",
+        "text": "Risk Matrix Classification",
+        "id": "",
+        "class": "text-lg font-medium text-[#1B2056]",
+        "selectors": [
+          "cy.contains(\"h2\", \"Risk Matrix Classification\")"
+        ]
+      }
+    ],
+    "visuals": [
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-x h-4 w-4",
+        "selectors": []
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "id": "",
+        "alt": "logo",
+        "src": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/home_page/logo.svg",
+        "class": "w-12",
+        "selectors": [
+          "img[alt=\"logo\"]",
+          "img[src=\"https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/home_page/logo.svg\"]"
+        ]
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-layout-dashboard",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-list-todo",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-brain",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-settings",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "text-muted-foreground",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "w-5 h-5",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-chevron-left h-5 w-5 text-white",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-chevron-down h-4 w-4 opacity-50",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-loader w-6 h-6 animate-spin text-darkBlue",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-chevron-left h-4 w-4",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-chevron-right h-4 w-4",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-loader-circle h-6 w-6 animate-spin text-darkBlue",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-loader-circle h-6 w-6 animate-spin text-darkBlue",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-loader w-6 h-6 animate-spin text-darkBlue",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-circle-alert animate-pulse text-white fill-red-500",
+        "selectors": []
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "id": "",
+        "class": "lucide lucide-loader w-6 h-6 animate-spin text-darkBlue",
+        "selectors": []
+      }
+    ],
+    "clickables": [
+      {
+        "tag": "button",
+        "text": "Dashboard",
+        "id": "",
+        "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-sm cursor-pointer text-white bg-global-foreground/50",
+        "selectors": [
+          "cy.contains(\"button\", \"Dashboard\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Risk management",
+        "id": "",
+        "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-gray-300 text-sm cursor-pointer",
+        "selectors": [
+          "cy.contains(\"button\", \"Risk management\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Task management",
+        "id": "",
+        "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-gray-300 text-sm cursor-pointer",
+        "selectors": [
+          "cy.contains(\"button\", \"Task management\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Document management",
+        "id": "",
+        "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-gray-300 text-sm cursor-pointer",
+        "selectors": [
+          "cy.contains(\"button\", \"Document management\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Compliance",
+        "id": "",
+        "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-gray-300 text-sm cursor-pointer",
+        "selectors": [
+          "cy.contains(\"button\", \"Compliance\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Knowledge management",
+        "id": "",
+        "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-gray-300 text-sm cursor-pointer",
+        "selectors": [
+          "cy.contains(\"button\", \"Knowledge management\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "My organization",
+        "id": "",
+        "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-gray-300 text-sm",
+        "selectors": [
+          "cy.contains(\"a\", \"My organization\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Settings",
+        "id": "",
+        "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-gray-300 text-sm",
+        "selectors": [
+          "cy.contains(\"a\", \"Settings\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Upgrade 💎",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground h-10 px-4 py-2 rounded bg-global-foreground hover:bg-global-foreground/90 transition-colors",
+        "selectors": [
+          "cy.contains(\"button\", \"Upgrade 💎\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "Wayne Bridgefundverse@mailinator.com",
+        "id": "",
+        "selectors": [
+          "cy.contains(\"a\", \"Wayne Bridgefundverse@mailinator.com\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Log Out",
+        "id": "",
+        "class": "items-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground h-10 px-4 py-2 rounded bg-transparent hover:bg-transparent flex gap-6 justify-start",
+        "selectors": [
+          "cy.contains(\"button\", \"Log Out\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "text": "Print Report",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground h-10 px-4 py-2 rounded bg-darkBlue hover:bg-darkBlue/90 transition-all duration-300",
+        "selectors": [
+          "cy.contains(\"button\", \"Print Report\")"
+        ]
+      },
+      {
+        "tag": "button",
+        "role": "combobox",
+        "text": "All standards",
+        "id": "",
+        "class": "flex h-10 items-center justify-between rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-muted-foreground disabled:cursor-not-allowed disabled:opacity-50 [&>span]:line-clamp-1 w-[170px]",
+        "selectors": [
+          "cy.contains(\"button\", \"All standards\")"
+        ]
+      },
+      {
+        "tag": "a",
+        "text": "View All Tasks",
+        "id": "",
+        "class": "inline-flex items-center justify-center whitespace-nowrap ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground px-4 py-2 rounded w-full bg-darkBlue hover:bg-darkBlue/90 transition-all shadow-md font-bold uppercase tracking-widest text-xs h-11",
+        "selectors": [
+          "cy.contains(\"a\", \"View All Tasks\")"
+        ]
+      }
+    ],
+    "inputs": [],
+    "navigation": []
+  },
+  "all": [
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-x h-4 w-4",
+      "selectors": []
+    },
+    {
+      "tag": "img",
+      "text": "",
+      "id": "",
+      "alt": "logo",
+      "src": "https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/home_page/logo.svg",
+      "class": "w-12",
+      "selectors": [
+        "img[alt=\"logo\"]",
+        "img[src=\"https://regtech365global-client-qa.gentlemeadow-8588bc06.eastus.azurecontainerapps.io/Images/home_page/logo.svg\"]"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Dashboard",
+      "id": "",
+      "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-sm cursor-pointer text-white bg-global-foreground/50",
+      "selectors": [
+        "cy.contains(\"button\", \"Dashboard\")"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-layout-dashboard",
+      "selectors": []
+    },
+    {
+      "tag": "button",
+      "text": "Risk management",
+      "id": "",
+      "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-gray-300 text-sm cursor-pointer",
+      "selectors": [
+        "cy.contains(\"button\", \"Risk management\")"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "selectors": []
+    },
+    {
+      "tag": "button",
+      "text": "Task management",
+      "id": "",
+      "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-gray-300 text-sm cursor-pointer",
+      "selectors": [
+        "cy.contains(\"button\", \"Task management\")"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-list-todo",
+      "selectors": []
+    },
+    {
+      "tag": "button",
+      "text": "Document management",
+      "id": "",
+      "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-gray-300 text-sm cursor-pointer",
+      "selectors": [
+        "cy.contains(\"button\", \"Document management\")"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "selectors": []
+    },
+    {
+      "tag": "button",
+      "text": "Compliance",
+      "id": "",
+      "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-gray-300 text-sm cursor-pointer",
+      "selectors": [
+        "cy.contains(\"button\", \"Compliance\")"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "selectors": []
+    },
+    {
+      "tag": "button",
+      "text": "Knowledge management",
+      "id": "",
+      "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-gray-300 text-sm cursor-pointer",
+      "selectors": [
+        "cy.contains(\"button\", \"Knowledge management\")"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-brain",
+      "selectors": []
+    },
+    {
+      "tag": "a",
+      "text": "My organization",
+      "id": "",
+      "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-gray-300 text-sm",
+      "selectors": [
+        "cy.contains(\"a\", \"My organization\")"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "selectors": []
+    },
+    {
+      "tag": "a",
+      "text": "Settings",
+      "id": "",
+      "class": "peer/menu-button flex w-full items-center gap-2 overflow-hidden text-left outline-none ring-sidebar-ring focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-[[data-sidebar=menu-action]]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:!size-8 group-data-[collapsible=icon]:!p-2 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 h-8 p-5 font-grotesk transition-all duration-500 rounded hover:bg-global-foreground/5 hover:text-white text-gray-300 text-sm",
+      "selectors": [
+        "cy.contains(\"a\", \"Settings\")"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-settings",
+      "selectors": []
+    },
+    {
+      "tag": "button",
+      "text": "Upgrade 💎",
+      "id": "",
+      "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground h-10 px-4 py-2 rounded bg-global-foreground hover:bg-global-foreground/90 transition-colors",
+      "selectors": [
+        "cy.contains(\"button\", \"Upgrade 💎\")"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Wayne Bridgefundverse@mailinator.com",
+      "id": "",
+      "selectors": [
+        "cy.contains(\"a\", \"Wayne Bridgefundverse@mailinator.com\")"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "text-muted-foreground",
+      "selectors": []
+    },
+    {
+      "tag": "button",
+      "text": "Log Out",
+      "id": "",
+      "class": "items-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground h-10 px-4 py-2 rounded bg-transparent hover:bg-transparent flex gap-6 justify-start",
+      "selectors": [
+        "cy.contains(\"button\", \"Log Out\")"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "w-5 h-5",
+      "selectors": []
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-chevron-left h-5 w-5 text-white",
+      "selectors": []
+    },
+    {
+      "tag": "h2",
+      "text": "Your dashboard",
+      "id": "",
+      "class": "text-2xl text-darkBlue font-semibold font-grotesk",
+      "selectors": [
+        "cy.contains(\"h2\", \"Your dashboard\")"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Print Report",
+      "id": "",
+      "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground h-10 px-4 py-2 rounded bg-darkBlue hover:bg-darkBlue/90 transition-all duration-300",
+      "selectors": [
+        "cy.contains(\"button\", \"Print Report\")"
+      ]
+    },
+    {
+      "tag": "button",
+      "role": "combobox",
+      "text": "All standards",
+      "id": "",
+      "class": "flex h-10 items-center justify-between rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-muted-foreground disabled:cursor-not-allowed disabled:opacity-50 [&>span]:line-clamp-1 w-[170px]",
+      "selectors": [
+        "cy.contains(\"button\", \"All standards\")"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-chevron-down h-4 w-4 opacity-50",
+      "selectors": []
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-loader w-6 h-6 animate-spin text-darkBlue",
+      "selectors": []
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-chevron-left h-4 w-4",
+      "selectors": []
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-chevron-right h-4 w-4",
+      "selectors": []
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-loader-circle h-6 w-6 animate-spin text-darkBlue",
+      "selectors": []
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-loader-circle h-6 w-6 animate-spin text-darkBlue",
+      "selectors": []
+    },
+    {
+      "tag": "a",
+      "text": "View All Tasks",
+      "id": "",
+      "class": "inline-flex items-center justify-center whitespace-nowrap ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground px-4 py-2 rounded w-full bg-darkBlue hover:bg-darkBlue/90 transition-all shadow-md font-bold uppercase tracking-widest text-xs h-11",
+      "selectors": [
+        "cy.contains(\"a\", \"View All Tasks\")"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Risk Matrix Classification",
+      "id": "",
+      "class": "text-lg font-medium text-[#1B2056]",
+      "selectors": [
+        "cy.contains(\"h2\", \"Risk Matrix Classification\")"
+      ]
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-loader w-6 h-6 animate-spin text-darkBlue",
+      "selectors": []
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-circle-alert animate-pulse text-white fill-red-500",
+      "selectors": []
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "id": "",
+      "class": "lucide lucide-loader w-6 h-6 animate-spin text-darkBlue",
+      "selectors": []
+    }
+  ]
+}

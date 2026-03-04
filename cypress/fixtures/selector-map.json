@@ -119,99 +119,680 @@
     "signIn": {
       "emailField": "input[placeholder=\"Your email\"]",
       "passwordField": "input[placeholder=\"Your password\"]",
-      "submitButton": "cy.contains('button', 'Log In')",
-      "forgotPasswordLink": "cy.contains('a', 'Reset')",
-      "passwordToggle": "button[aria-label*='password'], .password-toggle, [data-testid='password-toggle']",
-      "errorMessage": ".error-message, [role='alert'], .alert-danger",
+      "submitButton": [
+        ".space-y-4 > :nth-child(3)",
+        "Log In"
+      ],
+      "forgotPasswordLink": [
+        "a",
+        "Reset"
+      ],
+      "passwordToggle": "button[aria-label*='password']",
+      "errorMessage": "Invalid",
       "emailError": ".email-error, #email-error, [data-testid='email-error']",
       "passwordError": ".password-error, #password-error, [data-testid='password-error']"
     },
     "signUp": {
-      "link": "cy.contains('a', 'Sign Up')",
-      "firstNameField": "input[name='firstName']",
-      "lastNameField": "input[name='lastName']",
-      "emailField": "#email",
-      "passwordField": "#password",
-      "confirmPasswordField": "#confirmPassword",
-      "submitButton": "cy.contains('body', 'Create Account')",
-      "privacyCheckbox": "input[type='checkbox'][name*='privacy'], input[type='checkbox'][name*='terms']",
-      "errorMessage": ".error-message, [role='alert']",
+      "link": [
+        "a",
+        "Sign up"
+      ],
+      "firstNameField": "[name='firstName']",
+      "lastNameField": "[name='lastName']",
+      "emailField": "[name='email']",
+      "passwordField": "[name='password']",
+      "confirmPasswordField": "[name='confirmPassword']",
+      "submitButton": [
+        ".group",
+        "Create Account"
+      ],
+      "privacyNotifier": [
+        "[href='privacy-policy']",
+        "Privacy Policy"
+      ],
       "passwordStrengthIndicator": ".password-strength, #password-strength, [data-testid='password-strength']",
       "existingEmailError": ".email-exists-error, [data-testid='email-exists']",
       "privacyError": ".privacy-error, [data-testid='privacy-error']"
     },
     "forgotPassword": {
       "emailField": "#email",
-      "submitButton": "cy.contains('button', 'Send reset link')",
+      "submitButton": [
+        ".pt-4",
+        "Send reset link"
+      ],
       "successMessage": ".success-message, [role='status'], .alert-success",
       "errorMessage": ".error-message, [role='alert'], .alert-danger",
       "backToLoginLink": "cy.contains('a', 'Back to')",
       "emailError": ".email-error, #email-error"
     },
     "bookDemo": {
-      "firstNameField": "input[name='firstName']",
-      "emailField": "input[name='email']",
-      "proposalField": "textarea[name='proposal'], textarea[name='message'], textarea[placeholder*='message']",
-      "privacyCheckbox": "input[type='checkbox'][name*='privacy'], input[type='checkbox'][name*='terms']",
-      "submitButton": "cy.contains('button', 'Proceed')",
+      "firstNameField": "[name=\"firstName\"]",
+      "lastNameField": "[name=\"lastName\"]",
+      "emailField": "[name=\"email\"]",
+      "phoneField": "[name=\"phone\"]",
+      "companyField": "[name=\"company\"]",
+      "submitButton": [
+        ".inline-flex",
+        "Proceed"
+      ],
       "successMessage": ".success-message, [role='status'], .alert-success",
-      "errorMessage": ".error-message, [role='alert']",
+      "errorMessage": "required",
       "fieldError": ".field-error, .invalid-feedback",
       "firstNameError": "[data-testid='firstName-error'], .firstName-error",
-      "emailError": "[data-testid='email-error'], .email-error"
+      "emailError": "[data-testid='email-error'], .email-error",
+      "firstName": "John",
+      "lastName": [
+        "Client",
+        "Christian",
+        "wellness"
+      ],
+      "email": [
+        "paultreker@mycompany.co.za",
+        "newman@mycompany.co.uk",
+        "newmanswife@mycompany.co.us"
+      ],
+      "password": "October@28",
+      "phone": [
+        "+2348057606459",
+        "+44078000786",
+        "08033327895"
+      ],
+      "company": [
+        "Standard Company",
+        "Another Company",
+        "Yet Another Company"
+      ],
+      "sqlInjection": "'; DROP TABLE users; --",
+      "invalidEmail": "notanemail",
+      "longInput": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "xXS": "<script>alert('test')</script>",
+      "emptyBookingErrorMessage": "At least one standard must be selected",
+      "selectedStandardsPane": ".bg-gray-100",
+      "finishBookingButton": [
+        ".inline-flex",
+        "Finish booking your demo"
+      ],
+      "successMessage": "Awesome!",
+      "finalBookingPage": "ISO 27001 ISO 27002 ISO 27003 ISO 45001 ISO 50001 ESG PCI-DSS GDPR HIPAA NIST AML",
+      "errorMessage_invalidInputs": [
+        "Invalid email",
+        "Phone number must follow international pattern e.g +234 7XX...",
+        "First name cannot contain special characters or numbers",
+        "Last name cannot contain special characters or numbers",
+        "Company name cannot contain special characters or numbers"
+      ],
+      "invalidBiodata": {
+        "firstName": "Wo1111lfgang",
+        "lastName": "<scripts>Morzart</scripts>",
+        "email": "nicepianoomg$music.co.uk",
+        "phoneNumber": "+400##2828969",
+        "companyName": " urgent 2k Enterprise"
+      },
+      "validBiodata": {
+        "firstName": "Wolfgang",
+        "lastName": "Mozart",
+        "email": "wolfgangLivinitup@music.co.uk",
+        "phoneNumber": "+4002828969",
+        "companyName": " urgent 2k Enterprise"
+      }
     }
+  },
+  "standards": {
+    "ISO 27001": ".flex-wrap > :nth-child(1)",
+    "ISO 27002": ".flex-wrap > :nth-child(2)",
+    "ISO 27003": ".flex-wrap > :nth-child(3)",
+    "ISO 45001": ".flex-wrap > :nth-child(4)",
+    "ISO 50001": ".flex-wrap > :nth-child(5)",
+    "ESG": ".flex-wrap > :nth-child(6)",
+    "PCI-DSS": ".flex-wrap > :nth-child(7)",
+    "GDPR": ".flex-wrap > :nth-child(8)",
+    "HIPAA": ".flex-wrap > :nth-child(9)",
+    "NIST": ".flex-wrap > :nth-child(10)",
+    "AML": ".flex-wrap > :nth-child(11)"
   },
   "dashboard": {
     "sidebar": {
-      "dashboardBtn": ["button", "Dashboard"],
-      "riskBtn": ["button", "Risk management"],
-      "taskBtn": ["button", "Task management"],
-      "documentBtn": ["button", "Document management"],
-      "complianceBtn": ["button", "Compliance"],
-      "audits": [ ".space-y-1 > .bg-global-foreground\/50","Audits"], 
-      "frameworks": [".space-y-1 > .text-gray-300","Frameworks"],
-      "knowledgeBtn": ["button", "Knowledge management"],
-      "organizationLink": ["a", "My organization"],
-      "settingsLink": ["a", "Settings"],
-      "upgradeBtn": ["button", "Upgrade 💎"],
-      "logoutBtn": ["button", "Log Out"]
+      "dashboardBtn": [
+        "button",
+        "Dashboard"
+      ],
+      "riskBtn": [
+        "mt-6 > .min-w-0 > :nth-child(2) > .peer\\/menu-button",
+        "Risk management"
+      ],
+      "taskBtn": [
+        ".mt-6 > .min-w-0 > :nth-child(3) > .peer\\/menu-button > span",
+        "Task management"
+      ],
+      "documentBtn": [
+        ":nth-child(4) > .peer\\/menu-button",
+        "Document management"
+      ],
+      "complianceBtn": "Compliance",
+      "audits": [
+        "[href='/compliance/audit']",
+        "Audit"
+      ],
+      "frameworks": [
+        ".space-y-1 > .bg-global-foreground\/50",
+        "Frameworks"
+      ],
+      "knowledgeBtn": [
+        ":nth-child(3) > div.w-full > .min-w-0 > :nth-child(1) > .peer\\/menu-button > span",
+        "Knowledge management"
+      ],
+      "organizationLink": [
+        ":nth-child(3) > div.w-full > .min-w-0 > :nth-child(2) > .peer\\/menu-button",
+        "My organization"
+      ],
+      "settingsLink": [
+        ":nth-child(3) > div.w-full > .min-w-0 > :nth-child(3) > .peer\\/menu-button",
+        "Settings"
+      ],
+      "upgradeBtn": [
+        ".gap-2.p-2 > .inline-flex",
+        "Upgrade 💎"
+      ],
+      "logoutBtn": [
+        ".gap-2.p-2 > .bg-transparent",
+        "Log Out"
+      ]
     },
     "audits": {
-      "newAudit": [".space-y-4 > .justify-between > .inline-flex", "New Audit"],
-      "search": [".justify-between.px-3 > div > .flex", "search"],
-      "overview": [".flex > :nth-child(1) > .py-2", "Overview"],
-      "active":["nav > .flex > :nth-child(2) > .py-2", "Active"],
-      "completed":[":nth-child(3) > .py-2", "Completed"],
-      "startGuide": [".bg-green-500", "Start Guide"],
-      "auditRequest": [ "[class*='lg:grid-cols-4'] > :nth-child(1)",  "Audit Request"],
-      "ongingAudits": [ "[class*='lg:grid-cols-4'] > :nth-child(2)", "Ongoing Audits"],
-      "completedAudits": [ "[class*='lg:grid-cols-4'] > :nth-child(3)", "Completed Audits"],
-      "activeAuditors": [ "[class*='lg:grid-cols-4'] > :nth-child(4)", "Active Auditors"],
-      "frameWorkProgress": [".gap-4", "Framework Progress"],
-      "audits": [ "[class*='lg:grid-cols-3'] > :nth-child(2)", "Audits"]
+      "newAudit": [
+        ".space-y-4 > .justify-between > .inline-flex",
+        "New Audit"
+      ],
+      "add_a_new_audit_box": [
+        ".rounded-xl",
+        "Add a New Audit"
+      ],
+      "select_Frame_Work": [
+        ".gap-4 > :nth-child(1) > .flex",
+        "Select standard",
+        {
+          "standardTag": "[role=option]"
+        },
+        [
+          "ISO/IEC 27001",
+          "ISO 27032",
+          "ISO 26515",
+          "OH&S-ISO 45001",
+          "CMMI-DEV",
+          "ISO 9001",
+          "NDPA-GAID",
+          "Open Banking",
+          "PCI-DSS",
+          "Agile Methodology",
+          "ISO 37500",
+          "ISO 22301",
+          "ISO 20000"
+        ]
+      ],
+      "search": [
+        "input[placeholder*='search'][type='text']",
+        "search"
+      ],
+      "chosen_Audit_Firm": [
+        "AuditQuest",
+        "Fred Firm",
+        "Finguard Inc",
+        "Louis Audit Firm"
+      ],
+      "auditType": [
+        "Internal",
+        "External"
+      ],
+      "auditClasses": [
+        {
+          "name": "3rd Party Audit",
+          "selector": "[for=third-party] > .select-none"
+        },
+        {
+          "name": "Certification Audit",
+          "selector": "[for=certification] > .select-none"
+        }
+      ],
+      "auditFirmForms": [
+        {
+          "name": "Audit Firm",
+          "selector": "[for=auditFirm] > .select-none"
+        },
+        {
+          "name": "Individual Auditor",
+          "selector": "[for=individualAuditor] > .select-none"
+        }
+      ],
+      "startDate": "[name=startDate]",
+      "endDate": "[name=endDate]",
+      "backWardDate": "22102021",
+      "forwardDate": "22102028",
+      "scopeBox": "[name=scope]",
+      "successMessage": "Audit Created successfully",
+      "dateErrorMessage": "Please enter a valid date",
+      "xxsErrMessage": "Input rejected due to security policy",
+      "submissionConfirmation": "This standard has an ongoing audit already",
+      "objectiveBox": "[name=objective]",
+      "maliciousInputsXXS": "<%... Statement stmt = conn.createStatement(); ResultSet rs = stmt.executeQuery(`select * from emp where id=${eid}); if (rs != null) { rs.next(); String name = rs.getString(`name`);%>Employee Name: <%= name %>",
+      "mockText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "submitRequest": [
+        ".gap-3 > .flex-1",
+        "Create Audit"
+      ],
+      "cancelRequest": [
+        ".gap-3 > .inline-flex",
+        "Cancel"
+      ],
+      "auditTypeToggle": [
+        ".gap-4 > :nth-child(2) > .flex",
+        "Select audit type"
+      ],
+      "auditFirmToggle": [
+        ".gap-4 > :nth-child(5) > .flex",
+        "Select audit firm"
+      ],
+      "overview": [
+        ".flex > :nth-child(1) > .py-2",
+        "Overview"
+      ],
+      "active": [
+        "nav > .flex > :nth-child(2) > .py-2",
+        "Active"
+      ],
+      "completed": [
+        ":nth-child(3) > .py-2",
+        "Completed"
+      ],
+      "startGuide": [
+        ".bg-green-500",
+        "Start Guide"
+      ],
+      "auditRequest": [
+        "[class*='lg:grid-cols-4'] > :nth-child(1)",
+        "Audit Request"
+      ],
+      "ongoingAudits": [
+        "[class*='lg:grid-cols-4'] > :nth-child(2)",
+        "Ongoing Audits"
+      ],
+      "activeAuditsAssertion": "Audited",
+      "completedAudits": [
+        "[class*='lg:grid-cols-4'] > :nth-child(3)",
+        "Completed Audits"
+      ],
+      "completedAuditsAssertion": "Completed",
+      "activeAuditors": [
+        "[class*='lg:grid-cols-4'] > :nth-child(4)",
+        "Active Auditors"
+      ],
+      "frameWorkProgress": [
+        ".gap-4",
+        "Framework Progress"
+      ],
+      "auditCount": [
+        "[class*='lg:grid-cols-3'] > :nth-child(2)",
+        "Audit"
+      ],
+      "upcomingAudits": [
+        "[class*='lg:grid-cols-3'] > .gap-7",
+        "Upcoming Audits"
+      ],
+      "recentAuditsPanel": [
+        ".rounded-lg.w-full",
+        "Recent Audits"
+      ],
+      "recentAuditsPanelData": [
+        "Standard",
+        "Audit type",
+        "Completion Status",
+        "Status",
+        "Actions"
+      ],
+      "overview": [
+        "nav",
+        "Overview"
+      ],
+      "active": [
+        "nav",
+        "Active"
+      ],
+      "completed": [
+        "nav",
+        "Completed"
+      ],
+      "filterBox": ".py-4 > .gap-2 > .flex",
+      "auditsFilter": [
+        "All status",
+        "Request",
+        "Ongoing",
+        "Completed",
+        "Declined",
+        "Approved"
+      ]
     },
     "actions": {
-      "printReport": ["button", "Print Report"],
-      "standardsFilter": ["button", "All standards"],
-      "viewAllTasks": ["a", "View All Tasks"]
+      "printReport": [
+        "button",
+        "Print Report"
+      ],
+      "standardsFilter": [
+        "button",
+        "All standards"
+      ],
+      "viewAllTasks": [
+        "a",
+        "View All Tasks"
+      ],
+      "taskManagement": [
+        {
+          "header_Text": "Task Management",
+          "selector": ".space-y-1 > .font-bold"
+        },
+        {
+          "overview": "Overview",
+          "selector": ":nth-child(1) > .py-3"
+        },
+        {
+          "task_List": "Task List",
+          "selector": ":nth-child(2) > .py-3"
+        },
+        {
+          "task_Distribution_Chart": "Task Distribution",
+          "selector": ".rounded-lg.flex > .space-y-1\\.5"
+        },
+        {
+          "daily_Task_Activity": "Daily Task Activity",
+          "selector": ".grid > :nth-child(2) > .flex-col"
+        },
+        {
+          "recent_Task_Pane": "Recent Task",
+          "selector": ".space-y-4 > :nth-child(1)"
+        },
+        {
+          "search_Box": "Search by title...",
+          "selector": ".space-y-4 > :nth-child(1) > .gap-2 > .relative > .flex"
+        },
+        {
+          "addTask": "Add Task",
+          "selector": ".pb-2 > .inline-flex",
+          "task_description": ".py-4 > .text-xs",
+          "submitTask": "Start Implementation"
+        },
+        {
+          "all_Status": "All Status",
+          "selector": ".w-\\[130px\\]",
+          "categories": [
+            "All Status",
+            "Ongoing",
+            "Completed"
+          ]
+        },
+        {
+          "all_Risk": "All Risk",
+          "selector": ".w-\\[120px\\]",
+          "categories": [
+            "All Risk",
+            "High",
+            "Medium",
+            "Low"
+          ]
+        },
+        {
+          "all_Categories": "All Categories",
+          "selector": ".w-\\[150px\\]",
+          "categories": [
+            "All Categories",
+            "Circular",
+            "Regulatory Standard",
+            "Circular"
+          ]
+        },
+        {
+          "finalize_task": "Finalize Task",
+          "selector": ".gap-3 > .inline-flex"
+        },
+        {
+          "internal_notes": "Add a note...",
+          "selector": ".bg-white > .gap-2 > .inline-flex"
+        },
+        {
+          "go_back_to_Tasklist_button": "Back to List",
+          "selector": ".items-center.justify-between > .flex.gap-2 > .inline-flex"
+        },
+        {
+          "actions": [
+            {
+              "compliance_Checklist": "Compliance Checklist"
+            },
+            {
+              "assign_members": "Assign Members",
+              "selector": ":nth-child(1) > .text-right > .flex > .hover\\:bg-indigo-50",
+              "assign_operators": "OPERATIONS",
+              "selector_ii": ".gap-2 > .flex-1",
+              "assign_others": "OTHER USERS",
+              "selector_iii": ".space-y-3 > :nth-child(2) > .w-full",
+              "user_ID": ".p-1\\.5 > .peer",
+              "unsign_All": "UNASSIGN ALL",
+              "selector_iv": ".p-3 > .border",
+              "confirm_Assignment": "CONFIRM ASSIGNMENT",
+              "selector_v": ".bg-indigo-600"
+            },
+            {
+              "view_Details": ":nth-child(1) > .text-right > .flex > a > .inline-flex > .lucide"
+            },
+            {
+              "section_1": {
+                "main_toggle": ".space-y-6 > :nth-child(1) > .justify-between",
+                "sub_checkbox": ":nth-child(1) > .items-start.justify-between > .items-start",
+                "assign_to": {
+                  "assign": [
+                    ":nth-child(1) > .items-start.justify-between > :nth-child(2) > .inline-flex",
+                    ":nth-child(2) > .items-start.justify-between > :nth-child(2) > .inline-flex",
+                    ":nth-child(3) > .items-start.justify-between > :nth-child(2) > .inline-flex",
+                    ":nth-child(4) > .items-start.justify-between > :nth-child(2) > .inline-flex"
+                  ],
+                  "operations_check": {
+                    "box": "operations",
+                    "client_auditor": [
+                      "Client InterAuditor",
+                      "Jossy Emerson"
+                    ]
+                  },
+                  "other_users_check": {
+                    "box": "Other Users",
+                    "selected_user": "Moore Kylia"
+                  }
+                },
+                "level_dropdown": {
+                  "selector": [
+                    ":nth-child(1) > .items-start.justify-between > .items-start > .gap-2 > .w-\\[80px\\]",
+                    ":nth-child(1) > .pl-6 > :nth-child(2) > :nth-child(2) > .items-start.justify-between > .items-start > .gap-2 > .w-\\[80px\\]",
+                    ":nth-child(1) > .pl-6 > :nth-child(2) > :nth-child(3) > .items-start.justify-between > .items-start > .gap-2 > .w-\\[80px\\]"
+                  ],
+                  "categories": [
+                    "High",
+                    "Medium",
+                    "Low"
+                  ]
+                },
+                "frequency_dropdown": {
+                  "selector": [
+                    ":nth-child(1) > .items-start.justify-between > .items-start > .gap-2 > .w-\\[90px\\]",
+                    ":nth-child(1) > .pl-6 > :nth-child(2) > :nth-child(2) > .items-start.justify-between > .items-start > .gap-2 > .w-\\[90px\\]",
+                    ":nth-child(1) > .pl-6 > :nth-child(2) > :nth-child(3) > .items-start.justify-between > .items-start > .gap-2 > .w-\\[90px\\]",
+                    ":nth-child(4) > .items-start.justify-between > .items-start > .gap-2 > .w-\\[90px\\]"
+                  ],
+                  "categories": [
+                    "Daily",
+                    "Weekly",
+                    "Bi-Weekly",
+                    "Monthly",
+                    "Quarterly",
+                    "Yearly"
+                  ]
+                },
+                "confirm_assignment": ".bg-indigo-600",
+                "unassign_All": ".p-3 > .border"
+              },
+              "section_2": {
+                "main_toggle": ":nth-child(2) > .space-y-6 > :nth-child(2) > .justify-between",
+                "sub_checkbox": ":nth-child(2) > .pl-6 > :nth-child(2) > .p-4 > .justify-between",
+                "assign_to": {
+                  "assign": [
+                    ":nth-child(2) > .pl-6 > :nth-child(2) > :nth-child(1) > .items-start.justify-between > :nth-child(2) > .inline-flex",
+                    ":nth-child(2) > .pl-6 > :nth-child(2) > :nth-child(2) > .items-start.justify-between > :nth-child(2) > .inline-flex",
+                    ":nth-child(2) > .pl-6 > :nth-child(2) > :nth-child(3) > .items-start.justify-between > :nth-child(2) > .inline-flex"
+                  ],
+                  "operations_check": {
+                    "box": ".overflow-y-auto > .space-y-3 > :nth-child(1) > .gap-2",
+                    "client_auditor_box": ".p-1\\.5 > .peer"
+                  },
+                  "other_users_check": {
+                    "box": ".space-y-3 > :nth-child(2) > .w-full",
+                    "selected_user": ".p-1\\.5 > .peer"
+                  }
+                },
+                "level_dropdown": {
+                  "selector": "",
+                  "categories": [
+                    "High",
+                    "Medium",
+                    "Low"
+                  ]
+                },
+                "frequency_dropdown": {
+                  "selector": "",
+                  "categories": [
+                    "Daily",
+                    "Weekly",
+                    "Bi-Weekly",
+                    "Monthly",
+                    "Quarterly",
+                    "Yearly"
+                  ]
+                },
+                "confirm_assignment": ".bg-indigo-600",
+                "unassign_All": ".p-3 > .border"
+              },
+              "section_3": {
+                "main_toggle": ".space-y-6 > :nth-child(3) > .justify-between",
+                "sub_checkbox": ":nth-child(3) > .pl-6 > :nth-child(2) > .p-4 > .justify-between > .items-start > .peer",
+                "assign_to": {
+                  "assign": ":nth-child(3) > .pl-6 > :nth-child(2) > .p-4 > .justify-between > :nth-child(2) > .inline-flex > .lucide",
+                  "operations_check": {
+                    "box": ".gap-2 > .peer",
+                    "client_auditor_box": ".p-1\\.5 > .peer"
+                  },
+                  "other_users_check": {
+                    "box": ".space-y-3 > :nth-child(2) > .w-full",
+                    "selected_user": ".p-1\\.5 > .peer"
+                  }
+                },
+                "confirm_assignment": "CONFIRM ASSIGNMENT",
+                "unassign_All": "Unassign All"
+              },
+              "section_4": {
+                "main_toggle": ".space-y-6 > :nth-child(4) > .justify-between",
+                "sub_checkbox": ":nth-child(4) > .pl-6 > :nth-child(2) > .p-4 > .justify-between > .items-start > .peer",
+                "assign_to": {
+                  "assign": ":nth-child(4) > .pl-6 > :nth-child(2) > .p-4 > .justify-between > :nth-child(2) > .inline-flex > .lucide",
+                  "operations_check": {
+                    "box": ".gap-2 > .peer",
+                    "client_auditor_box": ".p-1\\.5 > .peer"
+                  },
+                  "other_users_check": {
+                    "box": ".space-y-3 > :nth-child(2) > .w-full",
+                    "selected_user": ".p-1\\.5 > .peer"
+                  }
+                },
+                "confirm_assignment": ".bg-indigo-600",
+                "unassign_All": ".p-3 > .border"
+              },
+              "section_5": {
+                "main_toggle": ":nth-child(5) > .justify-between",
+                "sub_checkbox": ":nth-child(5) > .pl-6 > :nth-child(2) > .p-4 > .justify-between > .items-start > .peer",
+                "assign_to": {
+                  "assign": ":nth-child(5) > .pl-6 > :nth-child(2) > .p-4 > .justify-between > :nth-child(2) > .inline-flex > .lucide",
+                  "operations_check": {
+                    "box": ".gap-2 > .peer",
+                    "client_auditor_box": ".p-1\\.5 > .peer"
+                  },
+                  "other_users_check": {
+                    "box": ".space-y-3 > :nth-child(2) > .w-full",
+                    "selected_user": ".p-1\\.5 > .peer"
+                  }
+                },
+                "confirm_assignment": ".bg-indigo-600",
+                "unassign_All": ".p-3 > .border"
+              },
+              "section_6": {
+                "main_toggle": ":nth-child(6) > .justify-between",
+                "sub_checkbox": ":nth-child(6) > .pl-6 > :nth-child(2) > .p-4 > .justify-between > .items-start > .peer",
+                "assign_to": {
+                  "assign": ":nth-child(6) > .pl-6 > :nth-child(2) > .p-4 > .justify-between > :nth-child(2) > .inline-flex > .lucide",
+                  "operations_check": {
+                    "box": ".gap-2 > .peer",
+                    "client_auditor_box": ".p-1\\.5 > .peer"
+                  },
+                  "other_users_check": {
+                    "box": ".space-y-3 > :nth-child(2) > .w-full",
+                    "selected_user": ".p-1\\.5 > .peer"
+                  }
+                },
+                "confirm_assignment": ".bg-indigo-600",
+                "unassign_All": ".p-3 > .border"
+              }
+            }
+          ]
+        }
+      ],
+      "document_Management": [
+        {
+          "get_started_button": "Get Started",
+          "selector": ".mt-auto > .inline-flex"
+        },
+        {
+          "create_Document": "Create a document",
+          "selector": "a > .inline-flex",
+          "assertion_url": "/compliance/frameworks"
+        }
+      ],
+      "assertions": {
+        "welcomeHeading": [
+          "h2",
+          "Your dashboard"
+        ],
+        "riskMatrixHeading": [
+          "h2",
+          "Risk Matrix Classification"
+        ],
+        "userProfile": [
+          "a",
+          "Wayne Bridgefundverse@mailinator.com"
+        ]
+      },
+      "summaryCards": {
+        "activeAudits": [
+          "h3",
+          "Active Audits"
+        ],
+        "pendingTasks": [
+          "h3",
+          "Pending Tasks"
+        ],
+        "complianceScore": [
+          "h3",
+          "Compliance Score"
+        ]
+      },
+      "brand": {
+        "logo": "img[alt=\"logo\"]"
+      }
     },
-    "assertions": {
-      "welcomeHeading": ["h2", "Your dashboard"],
-      "riskMatrixHeading": ["h2", "Risk Matrix Classification"],
-      "userProfile": ["a", "Wayne Bridgefundverse@mailinator.com"]
-    },
-    "summaryCards": {
-      "activeAudits": ["h3", "Active Audits"],
-      "pendingTasks": ["h3", "Pending Tasks"],
-      "complianceScore": ["h3", "Compliance Score"]
-    },
-    "brand": {
-      "logo": "img[alt=\"logo\"]"
+    "audit": {
+      "chat": {},
+      "questions": {},
+      "evaluation": {}
     }
-  },
-  "audit": {
-    "chat": {},
-    "questions": {},
-    "evaluation": {}
   }
 }
